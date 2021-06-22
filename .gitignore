@@ -81,6 +81,7 @@ critical_error_detection/en_cs/temp
 
 cache
 *.pyc
+__pycache__/
 
 site
 
