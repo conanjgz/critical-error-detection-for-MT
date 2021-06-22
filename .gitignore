@@ -74,7 +74,9 @@ fabric.properties
 .ipynb_checkpoints
 
 runs
-temp
+critical_error_detection/en_zh/temp
+critical_error_detection/en_ja/temp
+critical_error_detection/en_cs/temp
 
 
 cache
