@@ -1,2 +1,6 @@
 # Critical-Error-Detection-For-MT
-Use TransQuest for critical error detection
+## How to run:
+In the project root directory, run following command:
+```
+python -m critical_error_detection.en_zh.monotransquest
+```
