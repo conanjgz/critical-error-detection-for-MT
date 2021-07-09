@@ -2,5 +2,5 @@
 ## How to run:
 In the project root directory, run following command:
 ```
-python -m critical_error_detection.en_zh.monotransquest
+python main.py -c config/example.conf
 ```
