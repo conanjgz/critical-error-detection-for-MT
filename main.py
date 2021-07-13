@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 import transformers
 from transformers.optimization import get_linear_schedule_with_warmup
-
+from transformers import AutoTokenizer
 from tqdm import tqdm
 from torch.utils.data import DataLoader
 from data import *
@@ -23,16 +23,18 @@ def evaluate(model, dataloader):
     with torch.no_grad():
         pred_labels = []
         gold_labels = []
+        train_loss = 0
         for idx, batch in tqdm(enumerate(dataloader), total=len(dataloader)):
 
             loss, logits = model(batch)
-
+            # print(loss)
+            train_loss += loss.item()
             pred_labels += torch.argmax(torch.sigmoid(logits), dim=1).tolist()
             gold_labels += batch['labels'].squeeze().tolist()
 
         cm, acc, prec, rec, macro_f1 = get_performance(gold_labels, pred_labels)
 
-    return loss, cm, acc, prec, rec, macro_f1
+    return train_loss / len(dataloader), cm, acc, prec, rec, macro_f1
 
 
 def train_epoch(model, dataloader, optimizer, scheduler):
@@ -69,16 +71,25 @@ def train_epoch(model, dataloader, optimizer, scheduler):
             )
 
     # return averaged training stats
-    return train_loss, train_acc
+    return train_loss / len(dataloader), train_acc / len(dataloader)
 
 def train(args):
     logger = logging.getLogger("train_log")
+
+    tokenizer = AutoTokenizer.from_pretrained(args.huggingface_model)
+    print(type(args.ner), args.ner)
+    if args.ner == True:
+        logger.info("NER tokens applied!")
+        special_tokens_dict = {'additional_special_tokens': [
+            '<org>', '</org>', '<per>', '</per>', '<dat>', '</dat>', '<crd>', '</crd>', '<ord>', '</ord>', '<nrp>', '</nrp>', '<gpe>', '</gpe>', '<oth>', '</oth>']}
+        tokenizer.add_special_tokens(special_tokens_dict)
+    
 
     fix_seed(1000)
     # load data
     train_dataset = CEDDataset(args.train_data, args.huggingface_model)
     valid_dataset = CEDDataset(args.valid_data, args.huggingface_model)
-    collate_fn = PadCollate(args.huggingface_model, args.max_sequence_length)
+    collate_fn = PadCollate(tokenizer, args.max_sequence_length)
 
     train_loader = DataLoader(
         train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
@@ -86,10 +97,10 @@ def train(args):
         valid_dataset, batch_size=args.valid_batch_size, shuffle=False, collate_fn=collate_fn)
 
     t_total = len(train_loader) * args.num_epochs
-    warmup_steps = math.ceil(t_total * 0.2)
+    warmup_steps = math.ceil(t_total * args.warmup_ratio)
 
     # build model
-    model = MonoTransQuestModel(args.huggingface_model)
+    model = MonoTransQuestModel(args.huggingface_model, tokenizer)
 
     N_EPOCHS = args.num_epochs
     optimizer = transformers.optimization.AdamW(model.parameters(), lr=args.lr)
@@ -168,13 +179,18 @@ if __name__ == "__main__":
     parser.add("--train_batch_size", type=int, default=16, help="Batch size")
     parser.add("--valid_batch_size", type=int, default=4, help="Batch size")
     parser.add("--lr", type=float, default=2e-5, help="Learning Rate")
+    parser.add("--warmup_ratio", type=float, default=0.2, help="Learning Rate")
+    parser.add("--ner", type=bool, default=False, help="Use NER data or not")
 
 
     args = parser.parse_args()
 
     if not os.path.isdir(args.output_dir):
         os.mkdir(args.output_dir)
-    logger = setup_logger("train_log", os.path.join(args.output_dir, "train_tuning.log"))
-    logger.info("=" * 30 + "Start training" + "=" * 30)
+    logger = setup_logger("train_log", os.path.join(args.output_dir, "at_least_one.log"))
+    logger.info("\n" + "=" * 30 + "Start training" + "=" * 30)
     logger.info(parser.format_values())
+    logger.info("\nlr: {}\n".format(args.lr))
+    print(type(args.ner))
+    print(args.ner)
     train(args)

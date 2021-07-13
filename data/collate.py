@@ -1,5 +1,5 @@
 import torch
-from transformers import AutoTokenizer
+
 
 
 class PadCollate:
@@ -7,8 +7,8 @@ class PadCollate:
     A collation function that pads all the sequences to the longest one
     """
 
-    def __init__(self, huggingface_model, max_seq_length):
-        self.tokenizer = AutoTokenizer.from_pretrained(huggingface_model)
+    def __init__(self, tokenizer, max_seq_length):
+        self.tokenizer = tokenizer
         self.max_seq_length = max_seq_length
 
     def __call__(self, batch):
@@ -20,6 +20,7 @@ class PadCollate:
             return_tensors='pt'
         )
         output['labels'] = torch.tensor([label for _, _, label in batch], dtype=torch.long).unsqueeze(1)
+        
         # for i in batch[0].keys():
         #     # assume each item in the batch has the same keys in their dicts
         #     for j in batch:

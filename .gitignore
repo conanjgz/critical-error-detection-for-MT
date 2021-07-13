@@ -77,7 +77,7 @@ runs
 critical_error_detection/en_zh/temp
 critical_error_detection/en_ja/temp
 critical_error_detection/en_cs/temp
-
+output/temp
 
 cache
 *.pyc
