@@ -4,3 +4,7 @@ In the project root directory, run following command:
 ```
 python main.py -c config/example.conf
 ```
+To serially run multiple configs, use **.sh** script:
+```
+bash ner.sh
+```
