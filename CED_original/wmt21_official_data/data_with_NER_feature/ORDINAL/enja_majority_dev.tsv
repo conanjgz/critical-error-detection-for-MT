@@ -315,7 +315,7 @@
 9749	This is not a forum. If no explanation is given by the writers, then asking the question here is pointless.	これ は フォーラム で は あ り ま せ ん . 著者 に よ っ て 説明 が 与え られ な い 場合 , ここ で 質問 を 尋ね る こと は 無 意味 で す .	[0, 0, 0]	NOT
 5045	six people you mentioned. Do not call me uninformed, as you do not know me.	君 が 言及 し た 6 人 だ 君 が 知 ら な い の で 無知 と 呼 ぶ な	[0, 0, 0]	NOT
 3723	I have a lot of respect for the system, and to if you get to the bureaucrat level, I give you the benefit of the doubt.	私 は システム を 非常 に 尊敬 し て お り 、 あなた が 官僚 レベル に 達 し た 場合 、 私 は あなた が 疑い の 利点 を 与え ま す 。	[0, 1, 0]	NOT
-6055	His Deputy is always a Canadian Forces officer. (It is possible that a U.S. admiral has commanded NORAD a few times.)	彼 の 副官 は 常 に カナダ 軍 の 士官 で あ る ( アメリカ 海軍 大佐 が 数 回 NORAD を 指揮 し た 可能 性 も あ る ) 。	[0, 0, 0]	NOT
+6055	His Deputy is always a Canadian Forces officer. (It is possible that a U.S. admiral has commanded NORAD a few times.)	彼 の 副官 は 常 に カナダ 軍 の 士官 で あ る ( アメリカ 海軍 大佐 が <ord> 数 回 </ord> NORAD を 指揮 し た 可能 性 も あ る ) 。	[0, 0, 0]	NOT
 2504	Why? Their not heavy metal. Can't you just accept that?	なぜ で す か ? 彼 ら は ヘビー メタル で は あ り ま せ ん 。	[1, 0, 0]	NOT
 5419	Because we are unsure what is happening with Thriller 25 at the moment, we can add the tag when all is resolved.	Thriller 25 で 何 が 起き て い る の か わか ら な い の で 、 すべて が 解決 し た ら タグ を 追加 でき ま す 。	[0, 0, 0]	NOT
 7566	Did not know white men like Sitush also live in Ghaziabad, UP.	ウォリシュ の よう な 白人 男性 も 、 ガジア バード 、 UP に 住 ん で 知 ら な かっ た 。	[1, 1, 0]	ERR
@@ -350,7 +350,7 @@
 3495	Piss off you Obama loving douche nozzle...He's not a US citizen and was born in Kenya.	あなた を 怒 ら せ ま す オバマ の 愛 する ピューター ノズル . . . 彼 は 米国 市民 で な く 、 ケニア で 生まれ ま し た 。	[1, 0, 0]	NOT
 3064	This page is largely about the election of 2004, with dino himself discussed only at the bottom. probably best to break out a new page	この ページ は 主に 2004 年 の 選挙 に 関 する もの で 、 ディノ 自身 は 下部 で しか 議論 さ れ て い ま せ ん 。 おそらく 、 新し い ページ を 開 く の が ベスト で す	[0, 0, 0]	NOT
 8801	I'm be happy to hear feedback or suggestions about my edits. Thanks!	編集 に 関 する フィードバック や 提案 を お 待 ち し て い ま す 。	[0, 0, 0]	NOT
-6040	The <ord> first </ord> equation in [URL] can't be right... I'm pretty sure it should be v^2 not c^2.	[ URL ] の 最初 の 方程 式 は 正し く な い . . . v ^ 2 で は な く c ^ 2 で あ る べ き だ と 私 は かなり 確信 し て い ま す 。	[0, 0, 0]	NOT
+6040	The <ord> first </ord> equation in [URL] can't be right... I'm pretty sure it should be v^2 not c^2.	[ URL ] の 最初 の 方程 式 は 正し く な い . . . v ^ <ord> 2 </ord> で は な く c ^ 2 で あ る べ き だ と 私 は かなり 確信 し て い ま す 。	[0, 0, 0]	NOT
 4664	hi,idiot, why are you delate my talking, just come out say	おい バカ 何 で 俺 の 話 を 遅らせ て る ん だ ?	[0, 0, 0]	NOT
 400	I only provoked edit war again, thus I give up. Maybe you will help.	私 は 再び 戦争 を 編集 する だけ を 挑発 し た の で 、 私 は 諦め ま す 。	[1, 0, 0]	NOT
 2763	Talk:Nigger Please stop your disruptive editing. If you continue to vandalize Wikipedia, you will be blocked from editing.	Talk : Nigger 編集 を 中断 し て くださ い . ウィキペディア を 破壊 し 続け る と , 編集 から ブロック さ れ ま す .	[0, 0, 0]	NOT
@@ -543,12 +543,12 @@
 237	Duplicate? Looks like this article is about the same organisation as the article Inet, if so it should be merged.	複製 ? この 記事 は 、 記事 Inet と 同じ 組織 に つ い て 、 もし そう なら マージ さ れ る べ き で あ る よう に 見え ま す 。	[0, 0, 0]	NOT
 9466	i live with my mom and im a gay fag that lives in england	私 は 母 と 住 み イギリス に 住 ん で い る ゲイ ・ ファッグ で す	[0, 1, 0]	NOT
 8034	Slavs were considered indigenous to Transylvania, even if they had arrived there in the 6th century or something	スラヴ 人 は トランシルヴァニア の 先住 民 と 考え られ て い た が 、 彼 ら は 6 世紀 か 何 か で そこ に 到着 し て い た	[0, 0, 0]	NOT
-6189	Nothing concerning WWII or the heebs and their holocaust religion is NPOV. This site is controlled by the Shylocks.	<ord> 第 二 次 </ord> 世界 大戦 や ヒーブ と その ホロコースト の 宗教 に 関 する もの は NPOV で は あ り ま せ ん . この サイト は シャイ ロック に よ っ て 管理 さ れ て い ま す .	[0, 0, 0]	NOT
+6189	Nothing concerning WWII or the heebs and their holocaust religion is NPOV. This site is controlled by the Shylocks.	第 二 次 世界 大戦 や ヒーブ と その ホロコースト の 宗教 に 関 する もの は NPOV で は あ り ま せ ん . この サイト は シャイ ロック に よ っ て 管理 さ れ て い ま す .	[0, 0, 0]	NOT
 1286	I AM A WANKER AND I LIKE NIGGER PENIS IN MY MOUTH!	私 は ワン カー で 、 私 の アウト で ニッガーペニス が 好き で す !	[0, 1, 0]	NOT
 6298	What type of sterilization do you think affects the taste of milk?	どの よう な タイプ の 殺菌 は 、 牛乳 の 味 に 影響 を 与え る と 思 い ま す か ?	[0, 0, 0]	NOT
 6326	Wait, I've got it. Roger sings the lyrics to the chorus, so in this case, Rick is doing the backup. —	ロジャー は 合唱 曲 の 歌詞 を 歌 う の で 、 この 場合 、 リック が バックアップ を 担当 し ま す 。	[0, 0, 0]	NOT
 8852	this edit was posted by the user of this page, you all really think you can make me not edit lol you all are funny as shit.	この 編集 は 、 この ページ の ユーザー に よ っ て 投稿 さ れ ま し た , あなた は 本当 に あなた が 私 を 編集 する こと は でき ま せ ん と 思 う 笑 あなた は すべて クソ と し て 面白 い で す .	[0, 0, 0]	NOT
-8542	Support technically next year is the 25th anniversary and this IS Wrestlemania XXV not The 25th Anniversary of Wrestlemania despite what WWE says.	技術 的 に 来年 は 25 周年 で あ り 、 これ は WWE が 言 う に も かかわ ら ず 、 レスリング マニア の 25 周年 で は な く 、 レスリング マニア XXV で す 。	[0, 0, 0]	NOT
+8542	Support technically next year is the 25th anniversary and this IS Wrestlemania XXV not The <ord> 25th </ord> Anniversary of Wrestlemania despite what WWE says.	技術 的 に 来年 は 25 周年 で あ り 、 これ は WWE が 言 う に も かかわ ら ず 、 レスリング マニア の 25 周年 で は な く 、 レスリング マニア XXV で す 。	[0, 0, 0]	NOT
 8892	my question is: why this guy has not yet banned? Other old vandalism	私 の 質問 は : なぜ この 男 は まだ 禁止 さ れ て い ま せ ん か ?	[0, 0, 0]	NOT
 3512	Only a NUTCASE liberal could make a statement as ABSURD as has >	NUT CASE の リベラル だけ が 、 これ まで の よう に ABSURD と し て 声明 を 述べ る こと が でき る >	[0, 0, 0]	NOT
 9153	REDIRECT Talk:Primera División de México Verano 2002	リダイレクト トーク : Primera División de M éxico Verano 2002	[0, 0, 0]	NOT

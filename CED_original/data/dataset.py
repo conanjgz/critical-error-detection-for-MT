@@ -7,7 +7,12 @@ class CEDDataset(Dataset):
 
     def __init__(self, path, huggingface_model):
         # read from tsv files
-        self.df = pd.read_table(path, names=['id', 'source', 'translation', 'errors', 'error_labels'])
+        if 'blind' in path:
+            self.df = pd.read_table(path, names=['id', 'source', 'translation'])
+            self.is_inference = True
+        else:
+            self.df = pd.read_table(path, names=['id', 'source', 'translation', 'errors', 'error_labels'])
+            self.is_inference = False
         
     def __len__(self):
         # length of the dataset, return the number of examples
@@ -21,7 +26,10 @@ class CEDDataset(Dataset):
         src_text = src_texts[idx]
         trg_text = trg_texts[idx]
 
-        label = self.df['error_labels'][idx]
-        label = 0 if label == 'NOT' else 1
+        if self.is_inference:
+            label = 0
+        else:
+            label = self.df['error_labels'][idx]
+            label = 0 if label == 'NOT' else 1
 
         return (src_text, trg_text, label)

@@ -7,7 +7,7 @@
 2545	Not a nonprofit LSA is a gov't program, not a nonprofit agency as previously tagged. I removed that. -	非营利 的 LSA 不是 政府 计划 , 也 不是 一个 非营利 机构 , 我 删除 了 。	[0, 0, 0]	NOT
 4363	Hi, I've never been that good with adding photo's caan you tell me how! Thanks, pbl1998	嗨 , 我 从来 没 这么 擅长 添加 照片 的 卡恩 你 告诉 我 怎么 ! 谢谢 , pbl1998	[1, 0, 1]	ERR
 8974	Ceiling fan is just a background. You seem to hate ceiling fans, don't you?	天花板 扇 只是 一个 背景 . 你 好像 讨厌 天花板 扇 , 对 吗 ?	[0, 1, 0]	NOT
-4815	see also the article Military history of France during World War II	参见 <ord> 第二 </ord> 世界大战 期间 法国 军事史	[0, 0, 0]	NOT
+4815	see also the article Military history of France during World War II	参见 第二 世界大战 期间 法国 军事史	[0, 0, 0]	NOT
 8420	The 1993 World Series, Mitch the Wild Thing Williams; lest we forget	1993 年 世界 大賽 , 野獸 米奇 · 威廉姆斯 ; 免得 我們 忘 了	[3, 0, 0]	NOT
 8036	And the fact that I only made the edit just like 3 minutes ago is double weird.	事实上 , 我 仅仅 在 3 分钟 前 做 了 剪辑 , 这 真是 两倍 奇怪 。	[0, 0, 0]	NOT
 3750	Carlton Johnson, ABA Accredited Business Accountant	卡尔顿 · 约翰逊 ( Carlton Johnson ) , ABA 认可 商业 会计师	[0, 0, 0]	NOT
@@ -94,7 +94,7 @@
 7211	Restoring prior edit so the article covers this issue. There is no proof that he was or wasn't, but some people thought he was gay-friendly.	恢复 原先 的 编辑 , 所以 文章 涵盖 了 这个 问题 。 没有 证据 表明 他 是 或 不是 , 但 有些 人 认为 他 是 同性恋 朋友 。	[0, 0, 0]	NOT
 7649	Arthur is a total shill. I would not doubt at all if he gets paid by the government to full-time deface Wikipedia to suppress truth.	亚瑟 是 个 笨蛋 , 我 一点 也 不 怀疑 政府 是否 会 给 他 付钱 来 整天 抹掉 维基百科 , 以 压制 真相 。	[1, 1, 1]	ERR
 180	Please stop. IPA vowel chart with audio is not better than IPA vowels chart with audio. At leat talk. -	请 停下来 . IPA 元音 图 与 音频 比 IPA 元音 图好 不了 . 在 讲 . -	[0, 0, 0]	NOT
-305	I HATE YOU , Firstly, Do you know that I do not have all information around, therefore people such as you man add onto the information given.	首先 , 你 知道 我 周围 没有 所有 的 资料 吗 ? 因此 , 像 你 这样 的 人会 添加 到 所 给 的 信息 。	[3, 0, 0]	NOT
+305	I HATE YOU , <ord> Firstly </ord>, Do you know that I do not have all information around, therefore people such as you man add onto the information given.	首先 , 你 知道 我 周围 没有 所有 的 资料 吗 ? 因此 , 像 你 这样 的 人会 添加 到 所 给 的 信息 。	[3, 0, 0]	NOT
 4145	By the way, I like the work you're doing on Crayola stuff. I think there's a very strong argument for Crayola crayons not to be a redirect.	顺便 说 一句 , 我 喜欢 你 在 克莱奥 拉 方面 所 做 的 工作 , 我 认为 克莱奥 拉 的 蜡笔 有 很 强 的 理由 不 应该 被 重新 定位 。	[1, 0, 0]	NOT
 9612	You are a gutless piece of shit, hate to be you Aussie Legend, you are no legend, your are a retard.get a life lame ass	你 是 个 无情 的 废物 , 讨厌 成为 奥西 传奇 , 你 不是 传奇 , 你 是 个 笨蛋	[1, 1, 1]	ERR
 4778	Non Sequitor == I wouldnt describe his comedy as non sequitors.	我 不 将 他 的 喜剧 描述 为 不 合乎 情调 的 。	[3, 0, 0]	NOT
@@ -245,7 +245,7 @@
 4948	This is a real entry. The link shows that Mike was indeed make the new President of Pioneer Newspapers.	这个 链接 表明 迈克 确实 是 《 先驱报 》 的 新 主席 。	[3, 0, 0]	NOT
 1471	All possibly valuable insight, Danny, but that would be better used at the entry for Dialectical materialism, not Historical materialism.	所有 可能 有 价值 的 洞察力 , 丹尼 , 但 最好 是 用 在 辩证唯物主义 的 入口处 , 而 不是 历史唯物主义 。	[0, 0, 0]	NOT
 237	And no one knows more about stalking and wasting time than Nellie the Cunt	没有 人比 内莉 更 了解 跟踪 和 浪费时间	[0, 1, 0]	NOT
-1683	Zagurzem: BTW, I know the game was leaked and all recently, but can I put the plot for Episode Metal and II up when they come out on the 15th?	扎格尔泽姆 : 顺便 说 一句 , 我 知道 游戏 最近 泄露 了 , 但 我 能 把 《 金属 》 和 《 II 》 的 情节 放在 15 日 发行 时 吗 ?	[0, 1, 0]	NOT
+1683	Zagurzem: BTW, I know the game was leaked and all recently, but can I put the plot for Episode Metal and II up when they come out on the <ord> 15th </ord>?	扎格尔泽姆 : 顺便 说 一句 , 我 知道 游戏 最近 泄露 了 , 但 我 能 把 《 金属 》 和 《 II 》 的 情节 放在 15 日 发行 时 吗 ?	[0, 1, 0]	NOT
 1607	You TRULY ARE trying to hide this information. You really don't want anyone to know the truth, do you?	你 真想 隐瞒 这个 消息 , 你 真 不想 让 任何人 知道 真相 , 是 吗 ?	[0, 0, 0]	NOT
 6567	And why do I sell so many books and continue to be published?	为什么 我 卖 这么 多书 并且 继续 出版 呢 ?	[0, 0, 0]	NOT
 9675	As for uvamokozis LOL thank you for the punchline	至于 Uvamokozis LOL , 谢谢 你 的 笑话	[1, 0, 0]	NOT
@@ -417,7 +417,7 @@
 8672	It is a separate line from the street railway line that connected to Ramona Park in the same area.	它 是 与 同区 的 拉莫 纳 公园 相连 的 一条 独立 的 街道 铁路线 。	[3, 0, 0]	NOT
 6645	and it wasnt a alter ego, it was a family name and it was just all HER being herself.	这 不是 另 一个 自我 , 而是 一个 姓氏 , 只是 她 自己 。	[0, 0, 0]	NOT
 5492	Because if you do, I will continue to cry like a little bitch and report you to the higher Wikithorities!	因为 如果 你 这么 做 , 我会 像 个 小 婊子 一样 继续 哭泣 , 并 向 更 高 的 维基 权威 报告 你 !	[0, 0, 0]	NOT
-1726	PS to Harald, if you want to take that out of the Introduction, you FIRST need to try to take it out of the article itself !	对 哈拉尔 德 来说 , 如果 你 想 把 这个 从 导言 中 提出 来 , 你 首先 需要 尝试 把 它 从 文章 本身 中 提出 来 !	[0, 0, 0]	NOT
+1726	PS to Harald, if you want to take that out of the Introduction, you <ord> FIRST </ord> need to try to take it out of the article itself !	对 哈拉尔 德 来说 , 如果 你 想 把 这个 从 导言 中 提出 来 , 你 首先 需要 尝试 把 它 从 文章 本身 中 提出 来 !	[0, 0, 0]	NOT
 550	Grandma terri died on Shoot the Rapids. THats funny! F*ck Grandma Terri. Grandma Terri should burn in Hell.	特里 奶奶 死 于 射击 河流 . 很 有趣 ! 特里 奶奶 . 特里 奶奶 应该 在 地狱 里 燃烧 .	[2, 1, 1]	ERR
 7884	Any ideas? From different comments at various times by various characters, it seems that snow in winter is expected by Springfieldians.	有 什么 想法 吗 ? 从 不同 角色 不同 时段 的 评论 中 , 看来 春田人会 期望 冬天 降雪 。	[0, 0, 1]	NOT
 7142	REDIRECT Talk:15th Congress of the All-Union Communist Party (Bolsheviks)	主题 : 全 联盟 共产党 ( 波尔 什维克 ) 第 15 届 大会	[1, 1, 1]	ERR
@@ -780,7 +780,7 @@
 7513	gay == gay here. how do u view men kissing men? ==	这里 是 同性恋 , 你 如何 看待 男人 接吻 男人 ?	[0, 0, 0]	NOT
 6812	I wrote that shit ages ago, what are you a slaking faggot	很久以前 我 写 过 , 你 是 什么 傻瓜 ?	[0, 0, 0]	NOT
 9168	vandal warning Whomever you are, you are guilty of vandalizing my page and possibly harrassment as well, as is evident on my page history	破坏性 警告 : 无论 你 是 谁 , 你 都 是 破坏 我 的 页面 的 罪魁祸首 , 可能 还有 骚扰 , 这 在 我 的 页面 历史 中 很 明显	[0, 0, 0]	NOT
-2317	Hold on a second. This is an insane definition of vandalism. I am trying to add content that i fell is legitimate.	等等 , 这是 破坏 主义 的 疯狂 定义 , 我 试图 添加 我 堕落 的 内容 是 合法 的 。	[0, 1, 1]	ERR
+2317	Hold on a <ord> second </ord>. This is an insane definition of vandalism. I am trying to add content that i fell is legitimate.	等等 , 这是 破坏 主义 的 疯狂 定义 , 我 试图 添加 我 堕落 的 内容 是 合法 的 。	[0, 1, 1]	ERR
 2331	on the top you say the post be answered but my last 2 posts have not been answered yet. ( )	上面 你 说 这 封 邮件 应该 得到 答复 , 但 我 的 最后 2 封 邮件 还 没有 得到 答复 。	[0, 0, 0]	NOT
 4292	I strill don't like how the proposal seems to be in constant flux, but I overreacted.	我 不 喜欢 这个 建议 似乎 总是 在 不断 变化 , 但 我 反应 过分 。	[0, 0, 0]	NOT
 4428	perhaps this is what determines whether a student has to fulfill a draft or not?	也许 这 就是 决定 一个 学生 是否 要 完成 一个 草案 的 决定 因素 。	[0, 0, 0]	NOT

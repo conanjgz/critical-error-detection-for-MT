@@ -90,7 +90,7 @@
 9939	If some teacher asserts that some use is wrong, this is a WP:fringe theory that has not to be reported in WP.	ある 教師 が いく つ か の 使用 が 間違 っ て い る と 主張 し た 場合 、 これ は WP : fringe 理論 で あ り 、 WP で 報告 する 必要 は あ り ま せ ん 。	[0, 0, 0]	NOT
 3513	You are going to let libel of me being banned <crd> 80 </crd> times from game show sites stand though? Wow, what a joke this site is!	あなた は 、 ゲーム ショー サイト から 80 回 禁止 さ れ て い る 私 を 誹謗 中傷 さ せ る つもり で す か ? ウォー 、 この サイト は 何 の ジョーク で す か !	[0, 0, 0]	NOT
 7570	David Hayter page It seems you put down David Hayter's religion as Jewish. Do you have a source to confirm this? Thanks.	デイヴィッド ・ ヘイター の ページ デイヴィッド ・ ヘイター の 宗教 を ユダヤ 人 と し て 掲げ て い る よう で す 。	[0, 0, 0]	NOT
-6849	Noteable under point 5 of the Academic Notability requirements as he holds a named chair at a prestigious research institution.	名誉 あ る 研究 機関 で 名誉 教授 を 務め て い る ため 、 アカデミック ・ ノベリティ の 要件 の 第 5 条 に 該当 する 。	[1, 0, 1]	ERR
+6849	Noteable under point <crd> 5 </crd> of the Academic Notability requirements as he holds a named chair at a prestigious research institution.	名誉 あ る 研究 機関 で 名誉 教授 を 務め て い る ため 、 アカデミック ・ ノベリティ の 要件 の 第 5 条 に 該当 する 。	[1, 0, 1]	ERR
 172	Question for administrator Tried to remove Template:Uw-block but was disallowed. I think the template was falsely placed on this page by .	管理 者 へ の 質問 Template :Uw-block を 削除 し よ う と し ま し た が 、 許可 さ れ ま せ ん で し た 。	[1, 0, 1]	ERR
 1119	He started, reverted <crd> 9 </crd> times and patronized me. Calling me stupid is one another debate.	彼 は 始め 、 9 回 反転 し 、 私 を 庇護 し ま し た 。	[1, 1, 1]	ERR
 5355	Considering you are the cause, its really odd you show up here. We all know how deeply sorry you are ...	あなた が 原因 で あ る と 考え 、 それ は 本当 に 奇妙 な あなた は ここ に 表示 さ れ ま す . 私 たち は 皆 、 あなた が どれ ほど 深 く 申し訳 あ り ま せ ん 知 っ て い る . . .	[0, 0, 0]	NOT
@@ -241,7 +241,7 @@
 9392	Notice you did not delete the Malone and Pettit info that I WROTE.	あなた が 私 が 書 い た マローン と ペティット の 情報 を 削除 し て い な い こと に 注意 し て くださ い 。	[0, 0, 0]	NOT
 9039	Tila Tequila *Please STOP adding fake songs to the debut album tracklisting.	Tila Tequila * デビュー アルバム の トラック リスト に 偽 曲 を 追加 する の を やめ て くださ い 。	[0, 0, 0]	NOT
 8369	It has been mentioned in the media several times, It has been mentioned in the British parliament several times and has many notable supporters.	それ は メディア で 何 度 も 言及 さ れ て い ま す , それ は 英国 議会 で 何 度 も 言及 さ れ て い ま す し 、 多く の 著名 な 支持 者 を 持 っ て い ま す .	[0, 0, 0]	NOT
-2436	Number of episodes If there are only <crd> 6 </crd> episodes ordered, then some will be repeated? GSN is saying September 4th is the last episode.	エピソード 数 エピソード が 6 つ しか な い 場合 、 いく つ か は 繰り返 さ れ ま す か ? GSN は 9 月 4 日 が 最後 の エピソード だ と し て い ま す 。	[0, 0, 0]	NOT
+2436	Number of episodes If there are only 6 episodes ordered, then some will be repeated? GSN is saying September 4th is the last episode.	エピソード 数 エピソード が 6 つ しか な い 場合 、 いく つ か は 繰り返 さ れ ま す か ? GSN は 9 月 4 日 が 最後 の エピソード だ と し て い ま す 。	[0, 0, 0]	NOT
 3835	i dont care anymore i am going to continue unless there is justice bye	もう 気 に し な い 正義 が な けれ ば 続け ま す さようなら	[0, 1, 0]	NOT
 8976	absolutely I would I dont fully know how to do some stuff on here and it would help me.	確か に 私 は 完全 に ここ で いく つ か の もの を する 方法 を 知 っ て い な い だ ろ う し 、 それ は 私 を 助け る だ ろ う 。	[0, 0, 0]	NOT
 7986	Their not bad their blocking cuz their liberal >:-)	彼 ら は 彼 ら の リベラル だ から 、 彼 ら の ブロック を 悪 く な い > :-)	[0, 0, 0]	NOT
@@ -317,7 +317,7 @@
 3723	I have a lot of respect for the system, and to if you get to the bureaucrat level, I give you the benefit of the doubt.	私 は システム を 非常 に 尊敬 し て お り 、 あなた が 官僚 レベル に 達 し た 場合 、 私 は あなた が 疑い の 利点 を 与え ま す 。	[0, 1, 0]	NOT
 6055	His Deputy is always a Canadian Forces officer. (It is possible that a U.S. admiral has commanded NORAD a few times.)	彼 の 副官 は 常 に カナダ 軍 の 士官 で あ る ( アメリカ 海軍 大佐 が 数 回 NORAD を 指揮 し た 可能 性 も あ る ) 。	[0, 0, 0]	NOT
 2504	Why? Their not heavy metal. Can't you just accept that?	なぜ で す か ? 彼 ら は ヘビー メタル で は あ り ま せ ん 。	[1, 0, 0]	NOT
-5419	Because we are unsure what is happening with Thriller <crd> 25 </crd> at the moment, we can add the tag when all is resolved.	Thriller 25 で 何 が 起き て い る の か わか ら な い の で 、 すべて が 解決 し た ら タグ を 追加 でき ま す 。	[0, 0, 0]	NOT
+5419	Because we are unsure what is happening with Thriller 25 at the moment, we can add the tag when all is resolved.	Thriller 25 で 何 が 起き て い る の か わか ら な い の で 、 すべて が 解決 し た ら タグ を 追加 でき ま す 。	[0, 0, 0]	NOT
 7566	Did not know white men like Sitush also live in Ghaziabad, UP.	ウォリシュ の よう な 白人 男性 も 、 ガジア バード 、 UP に 住 ん で 知 ら な かっ た 。	[1, 1, 0]	ERR
 3848	i think it has to have more detail about the duties as a part of the state	国家 と し て の 義務 に つ い て もっと 詳し く 説明 し て 欲し い と 思 い ま す	[1, 0, 0]	NOT
 8011	Would definitely work better with you Pugidsound The Rat King	Pugidsound ザ ・ ラット ・ キング	[0, 0, 0]	NOT
@@ -364,7 +364,7 @@
 8495	and its name has been copyright as a United States patent.	その 名前 は アメリカ 合衆 国 特許 と し て 著作 権 で す	[0, 0, 0]	NOT
 23	THIS WIIL BE MY LAST USE OF THIS ACOUNT PLEASE DELETE IT==	この アカウント の 最後 の 使用 と な り ま す の で 、 この アカウント を 削除 し て くださ い = =	[0, 0, 0]	NOT
 397	stop editing this, you dumbass. why do you have to be such a bitch? the ghosts of bill maas' past will haunt you forever!!! MWAHAHHAHAA	編集 を やめ ろ バカ なん で こんな バカ に な る ん だ ? ビル ・ マアス の 過去 の 幽霊 が あなた を 永遠 に 幽霊 に 追いかけ て くれ る !	[0, 0, 0]	NOT
-5721	i would be astonished if you could produce <crd> one </crd> unless it was something like that guy that asserts that the holocaust never happened.	ホロコースト は 起こ ら な かっ た と 主張 する あの 男 の よう な 人物 が な けれ ば あなた なら 驚 く だ ろ う	[0, 0, 0]	NOT
+5721	i would be astonished if you could produce one unless it was something like that guy that asserts that the holocaust never happened.	ホロコースト は 起こ ら な かっ た と 主張 する あの 男 の よう な 人物 が な けれ ば あなた なら 驚 く だ ろ う	[0, 0, 0]	NOT
 5588	Robin Hood, Leeds Thanks for your thanks - please expand the page if you can: I only created it to sort out various red links and avoid confusion!	Robin Hood , Leeds ありがとう - ページ を 拡張 し て くださ い 。 私 は 、 様々 な 赤 い リンク を 整理 し 、 混乱 を 避け る ため に 作成 し ま し た !	[0, 0, 0]	NOT
 8130	yeah right, some asshole logged on to my computer while i was passed out	うん そう だ たまたま コンピューター に ログ イン し た ヤツ が	[0, 1, 1]	ERR
 6770	doing is wasting previous space on their servers by filling up the history logs and what not ;	履歴 ログ を 埋め込 む こと で 、 サーバ 上 の 以前 の スペース を 無駄 に し ま す 。	[3, 0, 0]	NOT
@@ -376,7 +376,7 @@
 6888	Search on wikipedia, or maybe you should play less shitball (football) -_- Rick Shan	ウィキペディア で 検索 する か 、 おそらく あなた は より 少な い shitball ( フットボール ) -_- リックシャン を プレイ する 必要 が あ り ま す	[0, 1, 0]	NOT
 2624	Sorry Clavdia, I believed that you were American.	ごめん Clavdia 、 私 は あなた が アメリカ 人 だっ た と 信 じ ま し た 。	[0, 0, 0]	NOT
 6633	you're so idi.o.t, so st.u.p.id guy, fu.c.k.i.n.g portuguese, i ha.te the portugueses	あんた は イディオット で スティーブ で ポルトガル 人 だ から ポルトガル 人 を 憎 む	[3, 0, 0]	NOT
-7795	Full Bullshit. I HAVE provide <crd> over a dozen </crd> references NONE OF WHICH are acceptable to paid whore.	完全 な クソ . 私 が 提供 し て い ま す 12 以上 の 参照 誰 が 支払 わ れ た 売春 婦 に 受け入れ られ る .	[1, 1, 1]	ERR
+7795	Full Bullshit. I HAVE provide over a <crd> dozen </crd> references NONE OF WHICH are acceptable to paid whore.	完全 な クソ . 私 が 提供 し て い ま す 12 以上 の 参照 誰 が 支払 わ れ た 売春 婦 に 受け入れ られ る .	[1, 1, 1]	ERR
 7124	Coincidentally, I've found no other mentions of 'Thrashers' in any information about the game, nor the game itself.	偶然 に も 、 ゲーム に 関 する 情報 や ゲーム 自体 に 「 Thrashers 」 の 他 の 言及 は 見つか っ て い ま せ ん 。	[0, 0, 0]	NOT
 5438	Agnes Moorehead was listed as having lung cancer. In her bio it states that she died of Uterine Cancer, fixed.	アグネス ・ ムー ヘッド は 肺癌 を 患 っ て い る と 記録 さ れ て い ま す . 彼女 の バイオ で は 、 彼女 は 子宮 癌 で 死亡 し た と 述べ て い ま す , 固定 .	[0, 0, 0]	NOT
 3453	I think we should include information on the pollution of the industrial activities that took place on this site, and its fill history.	この サイト で 行 わ れ た 産業 活動 の 汚染 と その 埋め込み の 歴史 に つ い て の 情報 を 含め る べ き だ と 思 い ま す 。	[0, 0, 0]	NOT
@@ -442,7 +442,7 @@
 9864	The changes you did are what I wanted in the first place, but I was not sure I had enough support. Thank you for your support!	皆 さん が 行 っ た 変更 は 、 最初 から 私 が 望 ん で い た もの で し た が 、 十分 な サポート が あ っ た か どう か は 分か り ま せ ん で し た 。	[0, 0, 0]	NOT
 2065	Could someone edit the article to explain how the playoffs work, i.e. how many games are in a series and so forth?	誰 か が 記事 を 編集 し て 、 プレー オフ が どの よう に 機能 する か 、 すなわち 、 シリーズ に どれ だけ の ゲーム が あ る か など を 説明 でき る で しょ う か ?	[0, 0, 0]	NOT
 7227	policy to delete libellous material when it has been identified WP:LIBEL. :If this kind of formal inquiry	WP : LIBEL . : この よう な 形式 的 な お 問い合わせ が あ る 場合	[0, 0, 0]	NOT
-6383	Dear Jakfpk knight, When making a comment such as on Gladys Knight, please use <crd> four tildes </crd> to 'sign': Thanks!	Dear Jakfpk knight , Gladys Knight の よう な コメント を する とき は 、 ' sign' に 4 つ の タイルド を 使用 し て くださ い : ありがとう !	[0, 0, 0]	NOT
+6383	Dear Jakfpk knight, When making a comment such as on Gladys Knight, please use <crd> four </crd> tildes to 'sign': Thanks!	Dear Jakfpk knight , Gladys Knight の よう な コメント を する とき は 、 ' sign' に 4 つ の タイルド を 使用 し て くださ い : ありがとう !	[0, 0, 0]	NOT
 6874	and in spite of the fact of this article already being favorable to outside recruiters,	この 記事 が すでに 外部 の 採用 者 に 有利 で あ る に も かかわ ら ず	[0, 0, 0]	NOT
 9703	Hey, your response to my statements in the Discussion Page for the Montreal Expos was obnoxious. Apologize.	こんにちは 、 モントリオール ・ エキスポ の ディスカッション ページ の 私 の 声明 へ の あなた の 応答 は 不 愉快 で し た 。	[0, 0, 0]	NOT
 7620	If I may just add a note, here, both the title page and pages <crd> 5 </crd> and <crd> 7 </crd> of the use the term Republic of the Union of Myanmar.	ここ で 、 タイトル ページ と ミャンマー 連邦 共和 国 と い う 用語 の 5 ページ と 7 ページ の 両方 の メモ を 追加 し て くださ い 。	[0, 0, 0]	NOT
@@ -569,7 +569,7 @@
 7692	stop blockign people cause theyre doing me favours by helping me edit my page i dont know how to do it u dipshite	私 の ページ を 編集 する の を 助け る こと に よ り 、 彼 ら が 私 に 好意 を もたら す の で 、 ブロック する 人々 を 停止 する 私 は それ を する 方法 を 知 ら な い u dipshite	[0, 0, 0]	NOT
 9369	I would like to publish this article and should the player succeed in the future feel free to edit and add information ( )	この 記事 を 公開 し た い の で す が 、 今後 の プレイヤー が 成功 すれ ば 、 自由 に 編集 し て 情報 を 追加 でき ま す か ? ( )	[0, 0, 0]	NOT
 4240	shared IP I cant create the subpage but i will move all the old stuff there	共有 IP 私 は サブ ページ を 作成 する こと は でき ま せ ん が 、 私 は そこ に すべて の 古 い もの を 移動 し ま す	[0, 0, 0]	NOT
-9066	GA-articles that are Examples/models for article * Silent Hill <crd> 2 </crd> * Metroid Prime	記事 の 例 / モデル と な る GA - 記事 * Silent Hill 2 * Metroid Prime	[0, 0, 0]	NOT
+9066	GA-articles that are Examples/models for article * Silent Hill 2 * Metroid Prime	記事 の 例 / モデル と な る GA - 記事 * Silent Hill 2 * Metroid Prime	[0, 0, 0]	NOT
 8942	That is infinitely worse than I imagined. I love it. Oh, and I like Nigger Master too. Any other title ideas?	私 は それ を 愛 し て い ま す . ああ , そして 私 は ナイガーマスター も 好き で す . 他 の タイトル の アイデア ?	[0, 0, 0]	NOT
 9642	Ertugrul Saglam is not going to leave turkey for england	Ertugrul Saglam は イギリス に トルコ を 残 す つもり は あ り ま せ ん	[0, 1, 0]	NOT
 3862	I will not tollerate any kind of Anti-Romanian discrimination on my page. I will delete any form of Anti-Romanian edits made here.	私 の ページ で は 、 いかなる 種類 の 反 ルーマニア 人差別 も 認め ま せ ん 。	[0, 3, 0]	NOT
@@ -594,7 +594,7 @@
 7372	Source? Do you have a source for your addition to the sales numbers in the Tupac Shakur page?	ソース ? Tupac Shakur ページ の 販売 番号 に 追加 する ソース が あ り ま す か ?	[0, 0, 0]	NOT
 8823	Jayjg is following me everywhere to prevent legit edits on jew-christian topics. please stop his pov prejudice and edit war mongering.	Jayjg は 、 ユダヤ 人 クリスチャン の トピック の 合法 的 な 編集 を 防止 する ため に 、 どこ で も 私 を フォロー し て い ま す 。	[0, 0, 1]	NOT
 2455	hello litecoin department sir i want to know aboute the schemes of litecoin for investment	こんにちは リテコイン 課 で す リテコイン の 投資 スキーム に つ い て 知 り た い で す	[0, 0, 0]	NOT
-7409	Also various Christian Biblical literalists believe eating meat is an instruction from Genesis 9:1-3 and therefore not a choice at all !!	また 、 様々 な キリスト 教 聖書 の リテラ リスト は 、 肉 を 食べ る こと が 創世 記 9 : 1 - 3 から の 指示 で あ り 、 したがって 全く 選択 で は な い と 信 じ て い ま す ! !	[0, 0, 0]	NOT
+7409	Also various Christian Biblical literalists believe eating meat is an instruction from Genesis <crd> 9:1-3 </crd> and therefore not a choice at all !!	また 、 様々 な キリスト 教 聖書 の リテラ リスト は 、 肉 を 食べ る こと が 創世 記 9 : 1 - 3 から の 指示 で あ り 、 したがって 全く 選択 で は な い と 信 じ て い ま す ! !	[0, 0, 0]	NOT
 1322	I guess you should point out French defense minister Jean-Yves Le Drian said he was dead in an interview. Anyway, hopefully	フランス の 防衛 大臣 ジャン ・ イヴ ・ ル ・ ドリアン は インタビュー で 死 ん だ と 言 い ま し た	[1, 0, 1]	ERR
 7730	Hey, Brett's run was actually 21 yds according to ESPN.com	ESPN . com に よ る と 、 Brett の 走り は 実際 に 21 ヤード で し た	[0, 0, 0]	NOT
 281	Hello nice to meet you and feel free to ask me any questions. Thank you	こんにちは 、 お 会 い でき て 、 お 気軽 に 質問 し て くださ い 。	[1, 0, 0]	NOT
@@ -718,7 +718,7 @@
 416	YOU FUCKING NIGGER, HOW DARE YOU REVERT MY EDITS???? I'LL HUNT YOU DOWN AND RAPE YOU UNTIL YOU SHIT YOUR INTERNAL ORGANS OUT	あなた は ニッガー を かぶ っ て 、 あなた は 私 の 編集 を リバート し て い ま せ ん か ? 私 は あなた が あなた の 内部 の 組織 を 打 つ まで あなた を 下ろ し 、 あなた を 圧倒 し ま す	[0, 1, 1]	ERR
 8868	Story I think we need a Story headline which comes before the Gameplay headline.	ストーリー 私 は 、 ゲーム プレイ の ヘッドライン の 前 に 来る ストーリー の ヘッドライン が 必要 で す 。	[0, 0, 0]	NOT
 1205	Do you like weiner products? I like sausage. Its saltiness delights my tongue.	私 は ソーセージ が 好き で す . その 塩味 は 私 の 舌 を 喜ば し ま す .	[0, 0, 0]	NOT
-4643	As for the Sunda <crd> one </crd> - that is Indian Ocean/Indonesia - they need their own - 'Asia' is too large. cheers.	"スンダ 1 に つ い て は - インド 洋 / インドネシア で す - 彼 ら は 自分 自身 を 必要 と し ま す - "" アジア "" は あまり に も 大き い で す 。"	[0, 0, 0]	NOT
+4643	As for the Sunda one - that is Indian Ocean/Indonesia - they need their own - 'Asia' is too large. cheers.	"スンダ 1 に つ い て は - インド 洋 / インドネシア で す - 彼 ら は 自分 自身 を 必要 と し ま す - "" アジア "" は あまり に も 大き い で す 。"	[0, 0, 0]	NOT
 3935	You didn't ban me, this is offensive! I have a right to be banned from idiots!	あなた は 私 を 禁止 し て い ま せ ん , これ は 攻撃 的 で す ! 私 は 愚か な 者 から 禁止 さ れ る 権利 が あ り ま す !	[0, 0, 0]	NOT
 1577	Great page Love that phrase. Hope this article can grow into something of real interest.	素晴らし い ページ その フレーズ を 愛 し ま す . この 記事 は 、 本当 の 関心 の 何 か に 成長 する こと が でき る こと を 願 い ま す .	[0, 0, 0]	NOT
 215	Good answers. Now don't forget to accept the nomination!	良 い 回答 . 今 、 ノミネーション を 受け入れ る こと を 忘れ な い で くださ い !	[0, 0, 0]	NOT
@@ -865,7 +865,7 @@
 3259	Problem is they are YOUR definitions and nobody else's...including Feynman.	問題 は 、 それ ら は あなた の 定義 で あ り 、 ファイン マン を 含め 、 他 の 誰 も 定義 し て い な い と い う こと で す 。	[0, 0, 0]	NOT
 2212	OK, in the history I see the time, but is there a better way?	歴史 の 中 で 私 は 時間 を 見 る の で す が 、 より 良 い 方法 が あ り ま す か ?	[0, 0, 0]	NOT
 2254	Fucking piece of shit, he was vandalizing a bunch of articles, so fuck off, you little twerp.	クソ の 塊 , 彼 は 記事 の 束 を 破壊 し て い た , だ から 、 お前 は 、 小さな ツバク を ファック オフ .	[1, 1, 1]	ERR
-1750	thumb200pxAn example of American Shift_JIS art. This is ASCII art.	thumb 200 px アメリカ の Shift _ JIS アート の 例 で す 。	[0, 0, 0]	NOT
+1750	thumb200pxAn example of American Shift_JIS art. This is ASCII art.	thumb <crd> 200 px </crd> アメリカ の Shift _ JIS アート の 例 で す 。	[0, 0, 0]	NOT
 8566	Also, have you heard they don't use toilet paper? also, use turkish baths..	また 、 トイレット ペーパー は 使 わ な い と 聞 い て い ま す か ? また 、 トルコ 風呂 も 使 い ま す 。	[0, 0, 0]	NOT
 6356	P.P.S. I can see a resemblance between you and the picture, your both big headed. (Both of you have heads double the size of your body)	P . P . S . あなた と 写真 の 間 の 類似 点 が 見え ま す , あなた の 両方 の 大きな 頭 . ( あなた の 体 の サイズ の 2 倍 の 頭 を 持 っ て い ま す )	[0, 0, 0]	NOT
 2052	why you do not remove the vandalism protection on WP PXE's page. <crd> 12:01 </crd>	なぜ WP PXE の ページ で ван ダリズム 保護 を 削除 し な い の か 。	[0, 0, 1]	NOT
@@ -947,7 +947,7 @@
 8711	Vehicle reclassification should still not diminish the sacrifice made by those who served as crew.	車両 の 再 分類 は 、 乗員 と し て 任務 を 果た し た 人々 の 犠牲 を 減ら す べ き で は あ り ま せ ん 。	[0, 0, 0]	NOT
 2535	That's a typical arrogant American view and very much incorrect. You talk a lot a bullshit.	それ は 典型 的 な 傲慢 な アメリカ 人 の 見解 で あ り 、 非常 に 間違 っ て い ま す . あなた は 多く の クソ を 話 す .	[0, 0, 0]	NOT
 8108	In addition, neither the Beatles, nor the the Stones ever had the ability to to play with soft delicacy AND the unihibited fury of modern rock.	さらに 、 ビートルズ も ストーンズ も 、 ソフト な 繊細 さ と モダン な ロック の 無情 な 怒り を 再生 する 能力 を 持 っ て い ま せ ん で し た 。	[0, 0, 0]	NOT
-8342	i don't understand, how do you edit the last paragraph? i ended up editing the one above thanks Jay	最後 の 段落 を どう 編集 する の ? 最後 は 上記 の 段落 を 編集 し ま し た ありがとう	[0, 1, 0]	NOT
+8342	i don't understand, how do you edit the last paragraph? i ended up editing the <crd> one </crd> above thanks Jay	最後 の 段落 を どう 編集 する の ? 最後 は 上記 の 段落 を 編集 し ま し た ありがとう	[0, 1, 0]	NOT
 7254	about the book]]. Also numerous works by Jews against Zionism.	この 本 に つ い て ] ] . また 、 シオニズム に 対 する ユダヤ 人 に よ る 数多く の 作品 .	[0, 0, 0]	NOT
 2734	He has huge numbers of fans, his biggest being Sarah Gorman and Lee Cawley	サラ ・ ゴーマン や リー ・ カウリー など 多く の ファン が い る	[0, 0, 0]	NOT
 47	That's next day, so I might as well see Main Page.	それ は 次 の 日 な の で 、 私 は メイン ページ を 参照 する か も しれ な い 。	[0, 0, 0]	NOT
@@ -986,7 +986,7 @@
 399	Oh, and WHY am I blocked from editing MY OWN ARTICLE????????????????????????????	ああ 、 そして 、 なぜ 私 は 自分 の 記事 の 編集 を ブロック さ れ て い ま す か ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?	[0, 0, 0]	NOT
 8217	tide rolls is a fucking moron he needs to go to HELL	チー ドロールズ は クソ の 馬鹿 だ 彼 は へいへい に 行 く 必要 が あ る	[1, 0, 0]	NOT
 1276	User page deletion Why exactly do you want your User page deleted?	ユーザー ページ の 削除 ユーザー ページ を 削除 し た い の は なぜ で す か ?	[0, 0, 0]	NOT
-9857	The English dub episodes of Yu-Gi-Oh! Arc-V for episodes 3 and 4 are found from here -> [URL] Stop undoing the changes that I've done..	Yu - Gi - Oh ! エピソード 3 と 4 の アーク - V の 英語 の dub エピソード は ここ から 見つけ る こと が でき ま す -> [ URL ] 私 が や っ た 変更 を 無効 に 停止 し ま す . .	[0, 0, 0]	NOT
+9857	The English dub episodes of Yu-Gi-Oh! Arc-V for episodes <crd> 3 </crd> and 4 are found from here -> [URL] Stop undoing the changes that I've done..	Yu - Gi - Oh ! エピソード 3 と 4 の アーク - V の 英語 の dub エピソード は ここ から 見つけ る こと が でき ま す -> [ URL ] 私 が や っ た 変更 を 無効 に 停止 し ま す . .	[0, 0, 0]	NOT
 1698	Bugger me. My apologies. I've just reverted the changes for the interim.	バッガー 、 申し訳 あ り ま せ ん が 、 暫定 的 に 変更 を リバート し ま し た 。	[0, 0, 1]	NOT
 6553	Stop being such an a**hole and actually read what I have to say you f***ing re***d.	その よう な 穴 で あ る こと を 停止 し 、 実際 に 私 は あなた が f * * * ing re * * * d を 言 う 必要 が あ る もの を 読 む 。	[0, 0, 0]	NOT
 9379	Both the inhibitor and the angiotensin receptor blocker seem to drastically upregulate the antioxidant enzyme:	阻害 剤 と アンジオテンシン 受容 体 阻害 剤 の 両方 が 、 抗 酸化 酵素 を 劇的 に 調節 する よう に 見え ま す :	[0, 0, 0]	NOT

@@ -879,7 +879,7 @@
 3505	I could swear it was also a movie with Howie Mandel. Anything?	我 可以 发誓 这 是 和 豪威 · 曼德尔 一起 拍 的 电影 。	[3, 0, 0]	NOT
 654	Im still rejectnig the current branding of all alternativ theories with pejorative labels.	我 仍然 拒绝 当前 所有 替代 理论 以 侮辱性 的 标签 进行 标记 .	[0, 0, 1]	NOT
 9273	im a wiki vandal as well, do u have msn or yahoo where we could talk?	我 是 维基 盗版 , 你们 有 msn 或 yahoo 吗 , 我们 可以 谈 吗 ?	[1, 1, 1]	ERR
-9904	I liked your first version of that last comment better.	我 更 喜欢 你 <ord> 第一 </ord>个 版本 的 最后 一个 评论 。	[0, 0, 0]	NOT
+9904	I liked your <ord> first </ord> version of that last comment better.	我 更 喜欢 你 <ord> 第一 </ord>个 版本 的 最后 一个 评论 。	[0, 0, 0]	NOT
 4026	Tomorrow is Sunday. On Sunday, the New York Times publishes an edition filled with useful information and opinion. I recommend it.	明天 是 星期天 。 星期天 , 《 纽约时报 》 发表 了 一份 充满 有用 信息 和 意见 的 刊物 , 我 推荐 它 。	[0, 0, 0]	NOT
 9948	The guy keeps on deleting it and he dosen't really change anything to the article, mabye you can do something about this? Elven6 July 21 (UTC)	这个 家伙 继续 删除 , 他 对 文章 并 没有 真正 改变 , 你 能 对此 做些 什么 吗 ?	[1, 0, 1]	ERR
 2911	How about examples of some of the more famous rational numbers, like Pi and e?	关于 一些 更 著名 的 理性 数 的 例子 , 如 Pi 和 e 怎么样 ?	[0, 1, 0]	NOT
@@ -971,7 +971,7 @@
 5028	February 2013 Please stop your disruptive editing. If you will continue, like you did with WXCW, you will be BLOCKED from editing.	2013 年 2 月 请 停止 干扰 编辑 , 如果 继续 , 就 像 您 在 WXCW 中所 做 的 那样 , 您 将 被 取消 编辑 。	[0, 0, 0]	NOT
 2425	with $30,000 a month and a free expensive funeral	每月 30 万美元 , 免费 的 昂贵 的 葬礼	[1, 1, 0]	ERR
 7837	I belief the park is located about 35 kilometer from Krakau.	我 相信 公园 离 克拉科夫 大约 35 公里 。	[0, 0, 0]	NOT
-7877	If one calculate the perihelium of the mercury using SR instead of GR, one get a <ord> third </ord> of the GR-value.	如果 用 SR 而 不是 GR 来 计算 汞 的 近日点 , 则 得到 GR 值 的 三分之一 。	[0, 0, 0]	NOT
+7877	If one calculate the perihelium of the mercury using SR instead of GR, one get a third of the GR-value.	如果 用 SR 而 不是 GR 来 计算 汞 的 近日点 , 则 得到 GR 值 的 三分之一 。	[0, 0, 0]	NOT
 1676	Wats up!!!...Well 1st of all my name is Selena... Am a very fun person 2 talk....Well is u have questions just ask	嗯 , 首先 我 的 名字 是 塞 琳娜 , 我 是 一个 非常 有趣 的 人 2 个 谈话 。 嗯 , 你 有 问题 吗 ?	[0, 0, 0]	NOT
 7251	I wonder: Do you even read your talk page? You will not turn Shishtavec into an Albanian village by simply deleting all other references to it.	我 想 知道 : 你 是否 读过 你 的 谈话 页 ? 你 不会 把 什什塔 维特 变成 一个 阿尔巴尼亚 的 村庄 , 仅仅 是 删除 所有 其他 关于 该村 的 引用 。	[0, 0, 0]	NOT
 2185	Oh surely you can do better than that. They are too small...but they will have to do for now, I guess.	哦 , 你 当然 可以 做 得 更好 。 它们 太小 了 ... 但 我 想 它们 现在 就 得 做 。	[0, 0, 0]	NOT
@@ -1062,7 +1062,7 @@
 6799	REDIRECT Talk:Colombo Central Bus Station bombing	参考 译文 : 哥伦布 中央 巴士站 爆炸案	[1, 1, 1]	ERR
 9829	All you need to know about the game (which I've played and it's awesome) is at www.ben10thevideogame.com. Bakutrix	所有 你 需要 知道 的 关于 这个 游戏 ( 我 曾经 玩过 , 它 很棒 ) 的 网址 是 www . ben10thevideogame . com 。	[0, 0, 0]	NOT
 3426	Which old Rolling Stone issues have articles about Jerry Lee Lewis. I am interested in an article written in the 1970's	老 《 滚石 》 杂志 有 关于 杰里 · 李 · 刘易斯 的 文章 , 我 对 1970 年代 的 文章 感兴趣	[3, 0, 0]	NOT
-7391	I POSTED THIS BIO IN THE FIRST PLACE IN DECEMBER!	我 在 十二月 的 第一天 上 贴 了 这张 简历 !	[0, 0, 0]	NOT
+7391	I POSTED THIS BIO IN THE <ord> FIRST </ord> PLACE IN DECEMBER!	我 在 十二月 的 第一天 上 贴 了 这张 简历 !	[0, 0, 0]	NOT
 559	Anybody else think this block is unwarranted given that BHG tried to speedy an adequate stub which seemed grossly inappropriate and victimizing?	还有 人 认为 这个 阻塞 是 毫无道理 的 , 因为 BHG 试图 加快 一个 似乎 不 恰当 的 、 使人 受害 的 适当 的 打击 ?	[0, 0, 1]	NOT
 2742	wow,u deleted the whole thing americans never understand sarcasm, its jokes im on my last warning this aint offensive just true yeah? Safe. later x	哇 , 你 删除 了 整件 美国 人 从来 没 明白 的 讽刺 , 它 的 笑话 在 我 最后 一次 警告 中 这个 侮辱 的 只是 真的 对 吗 ?	[0, 0, 2]	NOT
 4591	If anyone is still interested in this topic, please drop in at Talk:Cannabis (drug)#Physiological vs. Psychological Addiction... — ''''	如果 您 仍然 对 这个 主题 感兴趣 , 请 登陆 Talk : Cannabis ( 药物 ) # Physiological vs . Psychological Addiction ... — ' ' ' '	[0, 0, 0]	NOT
@@ -1316,7 +1316,7 @@
 5438	REDIRECT Talk:Conspiracy Theory with Jesse Ventura	主题 : 与 杰西 · 文图拉 的 阴谋 理论	[1, 1, 1]	ERR
 5803	Excuse me, but if you are not an administrator this does not concern you.	对不起 , 如果 您 不是 管理员 , 这 并 不 关乎 您 .	[0, 0, 0]	NOT
 1879	REDIRECT Talk:A Paul Brandt Christmas: Shall I Play for You	主题 演讲 : 保罗 · 布兰德 圣诞节 : 我要 为 你 演奏 吗	[0, 0, 0]	NOT
-7344	Islander should leave my <ord> 2nd </ord> response on her talk page as it is more comprehensive. Unless she is afraid of the truth.	伊 莱纳 应该 把 我 的 <ord> 第二 </ord>个 答复 放在 她 的 谈话 页 上 , 因为 它 是 更 全面 的 , 除非 她 害怕 真相 。	[1, 0, 0]	NOT
+7344	Islander should leave my 2nd response on her talk page as it is more comprehensive. Unless she is afraid of the truth.	伊 莱纳 应该 把 我 的 <ord> 第二 </ord>个 答复 放在 她 的 谈话 页 上 , 因为 它 是 更 全面 的 , 除非 她 害怕 真相 。	[1, 0, 0]	NOT
 1780	Do admins really have nothing better to do than this as well as calling me a weirdo who will get a bad reputation on Wikipedia for caring about it?	管理员 真的 没有 比 这 更好 的 办法 吗 ? 他们 会 把 我 当成 一个 怪人 , 因为 关心 这个 问题 , 在 维基百科 就 得 坏名声 吗 ?	[0, 0, 0]	NOT
 7152	This is not personal remark, as the Prekmurians has right to chip in, what make the name of his language.	这 并 不是 个人 的 说法 , 因为 普雷克 穆里 人 有权 参与 他 语言 的 命名 。	[1, 0, 1]	ERR
 6503	he has said on many occasions that some of his acts are mere trickery as 'working out what's real and what's not is the fun of it'.	他 多次 说 过 , 他 的 一些 行为 只是 骗局 , 因为 “ 找出 什么 是 真实 , 什么 是 不 真实 是 乐趣 ” 。	[0, 0, 3]	NOT
@@ -1520,7 +1520,7 @@
 4238	Just wondering about the ORM's who broke away in or about 2000ad Does anybody know what became of them? tildes	只是 想 知道 在 2000 年 左右 解散 的 ORM 吗 有人 知道 他们 怎么样 了 ?	[3, 0, 0]	NOT
 9717	That was discussed hundreds of time. Hundreds of articles report Milan, italy, Roma Italy, and so on, since the time of the Roman Empire. Plz!	从 罗马帝国 时代 起 , 有 数百篇 文章 报道 米兰 、 意大利 、 罗马 意大利 等等 。	[0, 0, 0]	NOT
 8965	Gen Hagee Geb Hagee has not stepped down as the CMC yet. He is still in office as the Commandant.	海格 · 海格 ( Geb Hagee ) 将军 尚未 卸任 中校 , 他 仍 担任 指挥官 。	[0, 0, 1]	NOT
-3276	th Representative District69]] • [[Pennsylvania's <ord> 70th </ord> Representative District	第 70 届 宾夕法尼亚州 代表 区	[3, 0, 0]	NOT
+3276	th Representative District69]] • [[Pennsylvania's 70th Representative District	第 70 届 宾夕法尼亚州 代表 区	[3, 0, 0]	NOT
 9025	you still revert this change, yet give no explanation here, as to why you feel it needs to stay? waiting.....	你 还是 把 这个 改变 回来 , 但 在 这里 没有 解释 , 为什么 你 觉得 它 需要 留下 呢 ?	[0, 0, 0]	NOT
 1168	It's a also the name of a famous freelance hooker bar in Bangkok, Thailand.	这 也 是 泰国 曼谷 一个 著名 的 自由职业 妓店 的 名称 。	[0, 0, 1]	NOT
 2816	Do you think European Union should have the form of the Wikipedia project countries?	你 认为 欧洲联盟 应该 有 维基百科 项目 国家 的 形式 吗 ?	[0, 0, 0]	NOT
@@ -1788,7 +1788,7 @@
 3611	May 2008 Please stop. If you continue to vandalize Wikipedia, you will be blocked from editing.	2008 年 5 月 请 停止 . 如果 您 继续 破坏 维基百科 , 将 被 禁止 编辑 .	[0, 0, 0]	NOT
 936	JackofOzJackofOz]] sums up my feeling about it. [[User:	杰克 · 奥兹 ( JackofOz JackofOz ] ] 总结 了 我 对 它 的 看法 。	[0, 0, 0]	NOT
 8374	in the article unless there are facts to support them	在 文章 中 , 除非 有 事实 来 支持 它们	[0, 0, 0]	NOT
-2668	and that might have some bearing on the dynamics of the <ord> 7th </ord> assembly	这 可能 对 <ord> 第七 </ord>届 大会 的 动态 有 一定 影响	[1, 0, 0]	NOT
+2668	and that might have some bearing on the dynamics of the <ord> 7th </ord> assembly	这 可能 对 第七届 大会 的 动态 有 一定 影响	[1, 0, 0]	NOT
 8018	Thank you sir we will keep this thing in mind....	谢谢 , 先生 , 我们 会 记住 这件 事 。	[0, 0, 0]	NOT
 9091	That looks like a pretty good citation to me. I think he should be added back onto the list.	那 对 我 来说 是 个 很 好 的 引用 , 我 想 他 应该 被 重新 列入 名单 上 。	[0, 0, 0]	NOT
 1505	I want my page staying clean - if you dont like that, then ban me.	我要 我 的 页面 保持 干净 - 如果 你 不 喜欢 , 那 就 禁止 我 .	[0, 0, 0]	NOT
@@ -2499,7 +2499,7 @@
 6356	You can't just block users just because they did some things	你 不能 仅仅 因为 他们 做 了 一些 事情 而 阻止 用户	[0, 0, 0]	NOT
 6398	should we mention that this beer nearly tops the truly disgusting beer list?	我们 应该 提到 这杯 啤酒 几乎 在 令人厌恶 的 啤酒 排行榜 上 位列 前茅 吗 ?	[0, 0, 0]	NOT
 9676	BTW, you should probably respond on my talk page — I edit Wikipedia too rarely to notice a response hereat.	嗯 , 你 可能 应该 在 我 的 谈话 页 上 回答 — 我 编辑 维基百科 太 少 , 以致 没有 注意 到 在 这里 的 回应 。	[0, 0, 0]	NOT
-6262	But I do think that my <ord> 2nd </ord> response should be up on Islander's talk page instead of the <ord> first </ord> - it is more comprehensive and more entertaining.	但 我 确实 认为 我 的 <ord> 第二 </ord>个 回答 应该 在 岛民 的 谈话 页 上 而 不是 <ord> 第一 </ord>个 - 它 更 全面 和 更 有趣 .	[0, 0, 0]	NOT
+6262	But I do think that my 2nd response should be up on Islander's talk page instead of the <ord> first </ord> - it is more comprehensive and more entertaining.	但 我 确实 认为 我 的 <ord> 第二 </ord>个 回答 应该 在 岛民 的 谈话 页 上 而 不是 <ord> 第一 </ord>个 - 它 更 全面 和 更 有趣 .	[0, 0, 0]	NOT
 6985	Formally not, de facto yes. And in the end, it is a title we are arguing about - show some aesthetic sense.	形式 上 不是 , 事实上 是 的 . 最后 , 这是 一个 我们 争论 的 标题 - 展示 一些 审美 感 .	[0, 0, 0]	NOT
 6911	I am inclined to agree with you. This article is about the general topic. The stuff that Prokaryotes has added to the lede is garbled and mangled	我 倾向 于 赞同 你 的 观点 , 这 篇文章 是 关于 一般 主题 的 , Prokaryotes 给 Lede 添加 的 那些 东西 是 乱七八糟 的	[0, 1, 0]	NOT
 4555	Fuck off this is none of your concern its between me and NEFuck	别管 这事 了 , 这事 你 无关紧要 , 是 我 和 NEFuck 之间	[0, 1, 1]	ERR
@@ -3137,7 +3137,7 @@
 6125	This website mentioned above is all about skyscrapers! I could find nothing about Columbus. Is it meant to be a joke?	上面 提到 的 这个 网站 是 关于 摩天大楼 ! 我 找 不到 关于 哥伦布 的 任何 东西 . 该是 笑话 吗 ?	[0, 0, 0]	NOT
 9217	Turned Internal Disputes section into something legitimately relevant.	将 内部 争端 部分 转变 为 合法 相关 的 东西 .	[0, 0, 0]	NOT
 5387	What did you block me for? I haven't done anything.	你 为什么 要 阻挡 我 ? , 我 什么 都 没 做 。	[0, 0, 0]	NOT
-6298	In this case, dozens of third-party reliable sources would be turned up for each of the volleyball players you've nominated.	在 这种 情况 下 , 你 提名 的 每个 排球 运动员 都 会 得到 几十个 第三方 可靠 的 来源 。	[0, 0, 0]	NOT
+6298	In this case, dozens of <ord> third </ord>-party reliable sources would be turned up for each of the volleyball players you've nominated.	在 这种 情况 下 , 你 提名 的 每个 排球 运动员 都 会 得到 几十个 第三方 可靠 的 来源 。	[0, 0, 0]	NOT
 693	I'm not bothered either way; it's Wikipedia's loss, not mine.	不管怎么 说 , 我 也 不烦 ; 这是 维基百科 的 损失 , 不是 我 的 .	[0, 0, 0]	NOT
 8892	Midcomments=Weak references, no inline citations	中段 评论 = 弱 引用 , 没有 内行 引用	[0, 0, 0]	NOT
 1088	which makes it difficult to verify whether the information is factual or not	因此 很难 确定 这些 资料 是否 真实	[0, 0, 0]	NOT
@@ -4736,7 +4736,7 @@
 9720	Check than American Kennel Club breed standards. They say the same thing. I breed this dog.	比 美国 肯 尼尔 俱乐部 的 犬种 标准 要 好 , 他们 说 同样 的 . 我养 这 只 狗 .	[0, 0, 0]	NOT
 2678	What's the objection to starting a sentence with a number?	怎么 反对 用 一个 数字 开始 一个 句子 ?	[0, 0, 0]	NOT
 917	Anyway if you look at my contribs, you'll see I never personally attacked anyone, just trying to get this unfair block away!	不管怎么 说 , 如果 你 看看 我 的 裤子 , 你 就 会 看到 我 从来 没 亲自 攻击 过 任何人 , 只是 想 把 这个 不 公平 的 堵塞 弄 走 !	[1, 0, 1]	ERR
-9451	The suffix is -graphy not oggraphy! Like graph or graphite or graphic. Back to Square One, everybody! ~	suffix 是 - graphy 而 不是 oggraphy ! 像 graph 或 graphite 或 graphic 一样 . 大家 回到 第一 广场 吧 ! ~	[1, 1, 1]	ERR
+9451	The suffix is -graphy not oggraphy! Like graph or graphite or graphic. Back to Square One, everybody! ~	suffix 是 - graphy 而 不是 oggraphy ! 像 graph 或 graphite 或 graphic 一样 . 大家 回到 <ord> 第一 </ord> 广场 吧 ! ~	[1, 1, 1]	ERR
 2026	a cat and I accidentally walked over my owners keyboard, causing some vandalism. Please don't block my owner for my mistake. Meow	一只 猫 和 我 意外 地 走过 我 的 主人 的 键盘 , 造成 了 一些 破坏 行为 。 请 不要 为 我 的 错误 阻挡 我 的 主人 。	[0, 0, 0]	NOT
 2763	I LOVE SUCKING COCK! GIVE ME CUM OR GIVE ME DEATH!	我 喜欢 吸奶 ! 给 我奶 , 还是 给 我 死 !	[1, 1, 0]	ERR
 9225	I added a source to the article, is that not enough?	我 给 文章 添加 了 一个 来源 , 是不是 不够 呢 ?	[0, 0, 0]	NOT
@@ -5000,7 +5000,7 @@
 4670	o.k. talk to u tomorrow!!!!!!!!why the heck did he do that	明天 再 跟 你 谈谈 。 他 干嘛 这么 做 ?	[0, 0, 0]	NOT
 6745	We've been over this a thousand times and your comment is not a constructive one. Not every picture of a sexual act is pornography.	我们 已经 看过 一千次 了 , 你 的 评论 不是 建设性 的 , 并非 每张 性行为 的 图片 都 是 色情 。	[0, 0, 0]	NOT
 41	Nope trying to figure out myself, got to use it more to learn ;)	没有 , 我 努力 找出 自己 , 我 得 用 它 来 学习 。	[0, 0, 1]	NOT
-8920	NATE 3RD Warning, quit altering MY page with your lies	ATE3RD 警告 , 不要 用 谎言 改变 我 的 页面	[1, 0, 0]	NOT
+8920	NATE <ord> 3RD </ord> Warning, quit altering MY page with your lies	ATE3RD 警告 , 不要 用 谎言 改变 我 的 页面	[1, 0, 0]	NOT
 1823	CHIPPER CHIPPER chipper chipper chipper chipper chipper chipper	手枪 手枪 手枪 手枪 手枪 手枪 手枪 手枪 手枪	[1, 0, 0]	NOT
 3330	calm down. i was only furthering chrisO's established method of pov-pushing.	冷静 点 , 我 只是 进一步 推进 了 克里斯 奥 建立 的 pov - pushing 方法 。	[0, 0, 0]	NOT
 8228	Just wondering: Why is it important to keep the certification level wikilinked to an article on a chemical element?	只是 想 知道 : 为什么 要 保持 认证 级别 的 维基 链接 到 关于 化学元素 的 文章 很 重要 ?	[0, 0, 0]	NOT
@@ -5417,7 +5417,7 @@
 5130	And good day to you Irvine who ever you are. More work on Dunmanway has been done.	伊尔 文 , 祝你好运 , 你 到底 是 谁 , 在 邓曼威 方面 已经 做 了 更 多 的 工作 。	[1, 1, 1]	ERR
 9292	REDIRECT Talk:Most Exalted Order of the Star of Sarawak	主题 演讲 : 砂拉越 星级 最高 荣誉 勋章	[1, 1, 1]	ERR
 2154	Why is your user page the Green Day article? Sandboxing?	为什么 你 的 用户 页面 是 绿色 日 的 文章 ?	[0, 1, 0]	NOT
-343	The secondary source is Pocock,I'm afraid- paper book.	<ord> 第二 </ord>个 来源 是 鲍 考克 , 恐怕 是 纸本 。	[0, 0, 0]	NOT
+343	The <ord> secondary </ord> source is Pocock,I'm afraid- paper book.	<ord> 第二 </ord>个 来源 是 鲍 考克 , 恐怕 是 纸本 。	[0, 0, 0]	NOT
 5356	Something happened with the bandwith, i hope Simon (main admin) is going to fix that soon.	与 乐队 发生 了 一些 事情 , 我 希望 西蒙 ( 主 管理员 ) 会 很快 修复 。	[0, 0, 0]	NOT
 4393	You obviously need lessons in English. Go get some you ridiculous illiterate dunce.	你 显然 需要 英语课 , 去 买些 你 可笑 的 文盲 的 傻瓜 吧 .	[3, 0, 0]	NOT
 92	wait before you block the IP please. Having trouble with tabs right now..	请 在 您 封锁 IP 之前 等 一下 , 现在 对 标签 有 问题 。	[0, 0, 0]	NOT
@@ -5566,7 +5566,7 @@
 4127	everything is possible.nothing is impossible in the universe. haris	凡事 都 是 可能 的 。 宇宙 中 什么 都 是 不 可能 的 。	[1, 1, 0]	ERR
 8924	Posting an Executive Order from the President of the United States is not Vandalism. Please stop deleting things as such. Jason	发布 美国 总统 的 行政命令 不是 虚荣 主义 。 请 停止 删除 这些 东西 。	[1, 1, 1]	ERR
 4408	Stupid Please stop your stupid disruptive editing of Summit Series.	傻瓜 请 停止 你 愚蠢 的 破坏性 编辑 首脑会议 系列 。	[1, 0, 0]	NOT
-8547	Jimmy Wales is secretly married to Larry Sanger,they have a child named ElKevbo	吉米 · 威尔斯 秘密 与 拉里 · 桑格 结婚 , 他们 有 一个 名叫 埃尔 凯夫 博 的 孩子	[0, 0, 0]	NOT
+8547	Jimmy Wales is secretly married to Larry Sanger,they have a child named <ord> ElKevbo </ord>	吉米 · 威尔斯 秘密 与 拉里 · 桑格 结婚 , 他们 有 一个 名叫 埃尔 凯夫 博 的 孩子	[0, 0, 0]	NOT
 2874	I put up a discussion at Morning Musume Talk Page and at Talk:Li_Chun. I guess we shall see what happens from here.	我 在 《 晨间 博物馆 》 和 《 Talk : Li _ Chun 》 上 发表 了 一次 讨论 , 我 想 从 这里 看会 发生 什么 。	[1, 0, 0]	NOT
 8136	Your cause is nonsense. You are a Mossad terrorist.	你 的 事业 是 无稽之谈 , 你 是 摩萨德 的 恐怖分子 。	[0, 0, 0]	NOT
 3241	Good for you. Witty comeback, darling. Better go catch some more spammers, Spam Buster. oltrelamorte	好极了 . 甜心 回来 吧 , 亲爱 的 . 最好 去 抓住 更 多 的 垃圾邮件 , 垃圾邮件 驱赶 者 . oltrelamorte	[1, 1, 0]	ERR
@@ -5934,7 +5934,7 @@
 2684	Of others don't have to do that, I don't have to do that. Stop the discriminating this once.	其他人 不 需要 那样 做 , 我 不 需要 那样 做 , 停止 这种 歧视 一次 。	[0, 0, 0]	NOT
 7500	I'll leave you alone when you levae me and my talk page alone, you white fuck.	当 你 把 我 和 我 的 谈话 页 单独 放在 一起 时 , 我会 让 你 单独 的 , 白痴 。	[3, 1, 1]	ERR
 6801	probably without even reading them I found very rude. But I am sorry for insulting you.	也许 我 甚至 没有 读过 , 我 觉得 很 粗鲁 , 但 我 对 侮辱 你 感到 抱歉 。	[0, 0, 0]	NOT
-5773	Nisbett holds a minority view whose position has been described as having 'virtually no chance of being true' by tertiary sources.	尼斯 贝特 有 一个少数派 的 观点 , 其 立场 被 <ord> 第三 </ord>层 来源 描述 为 “ 几乎 没有 可能 成为事实 ” 。	[0, 0, 0]	NOT
+5773	Nisbett holds a minority view whose position has been described as having 'virtually no chance of being true' by <ord> tertiary </ord> sources.	尼斯 贝特 有 一个少数派 的 观点 , 其 立场 被 <ord> 第三 </ord>层 来源 描述 为 “ 几乎 没有 可能 成为事实 ” 。	[0, 0, 0]	NOT
 7005	If anybody ever comes to add more info they might want to consider using material from here: [URL]	如果 有人 来 补充 更 多 信息 , 他们 可能 想 考虑 使用 这里 来 的 材料 : [ URL ]	[0, 0, 0]	NOT
 3114	Not really necessary to split it. BUT if you do, make sure the see also section has a listing of each individual article that is split off.	不是 真的 需要 分开 它 。 但是 如果 你 分开 的话 , 请 确保 看 也 部分 有 分开 的 每个 单独 的 文章 的 列表 。	[0, 0, 0]	NOT
 3383	Exactly right...not Director or Creator. Casting. That is why I remove the false information. Big difference between Creator and casting director.	没错 , 不是 导演 或 导演 , 而是 演员 , 这 就是 为什么 我 删除 了 错误 的 信息 。 导演 和 演员 之间 有 很大 的 区别 。	[1, 1, 0]	ERR
@@ -6559,7 +6559,7 @@
 7002	When I was a vandal(the horrible past)When I was a vandal(the horrible past)	当 我 是 一个 破坏者 时 ( 可怕 的 过去 ) 当 我 是 一个 破坏者 时 ( 可怕 的 过去 )	[0, 0, 0]	NOT
 7791	Or go to sleep so you can get eaten by clowns (what kind of gay name is that? Dumbest name i have ever seen)	或者 去 睡觉 , 让 小丑 吃掉 你 ( 那 是 什么 同性恋 名字 ? 我见 过 最 愚蠢 的 名字 )	[0, 0, 0]	NOT
 2930	I didn't introduce any information I only removed it. Surely you are not too stupid to see the difference?	我 没有 介绍 任何 信息 , 我 只是 删除 了 它 。 你 一定 不会 太 愚蠢 以至于 看到 区别 吗 ?	[0, 1, 1]	ERR
-7758	Support technically next year is the 25th anniversary and this IS Wrestlemania XXV not The 25th Anniversary of Wrestlemania despite what WWE says.	支持 技术 上 明年 是 25 周年 , 而 这 IS Wrestlemania XXV 不是 Wrestlemania 的 25 周年 , 尽管 WWE 说 。	[0, 0, 3]	NOT
+7758	Support technically next year is the 25th anniversary and this IS Wrestlemania XXV not The <ord> 25th </ord> Anniversary of Wrestlemania despite what WWE says.	支持 技术 上 明年 是 25 周年 , 而 这 IS Wrestlemania XXV 不是 Wrestlemania 的 25 周年 , 尽管 WWE 说 。	[0, 0, 3]	NOT
 1990	Remove my refs? I should place YOU with vandalism templates.	移除 我 的 检疫员 ? 我 应该 用 破坏性 模板 安置 你 .	[0, 0, 0]	NOT
 4421	You shrew. Your blocks are a joke, much like your life. Hope you die a painful death, or live in America the rest of your (equally bad things).	你 笑 了 , 你 的 阻塞 是 笑话 , 就 像 你 的 生活 一样 。 希望 你 死 于 痛苦 的 死亡 , 或者 在 美国 度过 你 ( 同样 糟糕 的 事情 ) 的 余生 。	[1, 1, 1]	ERR
 5473	There should not be comments about the conspiracy theories on this article. ( ).	关于 这 篇文章 的 阴谋 理论 , 不 应该 发表 评论 。	[0, 0, 0]	NOT

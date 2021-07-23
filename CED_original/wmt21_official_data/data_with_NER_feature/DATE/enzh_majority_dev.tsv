@@ -130,7 +130,7 @@
 6173	Just thought you would find this article I did interesting. Lepore syndrome. Check the history and the talk page.	我 想 你 会 发现 我 写 的 这 篇文章 很 有趣 。 Lepore 综合征 。 查看 历史 和 谈话 页 。	[0, 1, 0]	NOT
 3188	automated notice by . For assistance on the image use policy, see Wikipedia:Media copyright questions.	自动 通知 。 有关 图片 使用 政策 的 帮助 , 请参阅 Wikipedia : Media 版权 问题 。	[0, 0, 0]	NOT
 3734	I'd like someone to please give some advice about this, because if I add this information to the article I'm not sure where it should go.	我 希望 有人 在 这方面 提供 一些 建议 , 因为 如果 我 把 这个 信息 添加 到 文章 中 , 我 不 太 确定 它 应该 到 哪里 去 。	[0, 0, 0]	NOT
-5003	Featured on MediaWiki:<dat> March 14 </dat> selected anniversaries (may be in HTML comment) -	特色 在 MediaWiki : <dat> 3 月 14 日 </dat> 选定 的 周年 纪念日 ( 可能 在 HTML 评论 中 ) -	[0, 0, 0]	NOT
+5003	Featured on MediaWiki:<dat> March 14 </dat> selected anniversaries (may be in HTML comment) -	特色 在 MediaWiki : <dat> 3 月 </dat> 14 日 选定 的 周年 纪念日 ( 可能 在 HTML 评论 中 ) -	[0, 0, 0]	NOT
 3414	Olive can you send me a screen shot of the problem you are facing, because im not able to figure what the problem is?	奥利 夫 , 你 能 给 我 一张 你 所 面临 的 问题 画面 吗 , 因为 我 无法 理解 问题 是 什么 ?	[0, 0, 0]	NOT
 9448	European Russia is what located to west of Siberia for you known. I first time hear about political entity European Russia....	欧洲 俄罗斯 位于 西伯利亚 的 西边 , 你 知道 。 我 第一次 听到 关于 欧洲 俄罗斯 的 政治 实体 的 消息 。	[0, 0, 0]	NOT
 7484	Who cares? The janjaweed are just a bunch of murderers anyway!	谁 不在乎 ? , 这些 野蛮 人 只是 一群 谋杀者 !	[1, 1, 1]	ERR
@@ -226,7 +226,7 @@
 6016	unblockMy edits were in good faith and I was raising a legitimate concern on a user's talk page. I did not mean any offense.	我 的 编辑 是 诚实 的 , 我 在 用户 聊天 页 上 提出 了 合理 的 关切 。 我 并 不 有意 冒犯 。	[0, 0, 1]	NOT
 3551	And you didn't answer my question. Mabybe you should lighten up and try to help me so we can both diffuse this little situation.	你 没有 回答 我 的 问题 , 马比贝 , 你 应该 点 点灯 来 帮助 我 , 这样 我们 就 能 把 这个 小 事情 分散 出去 。	[1, 0, 1]	ERR
 5701	Please show me where my actions have not been civil. I think you may have misinterpreted something.	请 告诉 我 我 的 行动 在 什么 地方 没有 文明 。 我 想 你 可能 误解 了 什么 东西 。	[0, 0, 0]	NOT
-7520	User FisherQueenyour profile speaks of so much hypocrisy and spite that every single information is a pure piece of trash. These	用户 FisherQueen 你 的 简历 谈到 了 这么 多 的 虚伪 , 尽管 每个 信息 都 是 垃圾 。	[0, 0, 1]	NOT
+7520	User FisherQueenyour profile speaks of so much hypocrisy and spite that every single information is a pure piece of trash. These	用户 <dat> FisherQueen </dat> 你 的 简历 谈到 了 这么 多 的 虚伪 , 尽管 每个 信息 都 是 垃圾 。	[0, 0, 1]	NOT
 8461	hey, andy doesn't just play on Sabian cymbals. though he does use C&C; drums I've seen him use a variety of both Sabians and Zildjians.	嘿 , 安迪 不仅仅 在 萨 比亚 的 鼓子 上 演奏 。 虽然 他 使用 C & C 的 鼓子 我 见 过 他 使用 各种 萨 比亚 和 齐尔吉亚 的 鼓子 。	[1, 1, 1]	ERR
 8216	Alison, can you tell me how to send a private message to you? Is that possible on wikipedia? BTW, I find what you wrote here to be reasonable.	艾莉森 , 你 能 告诉 我 如何 向 你 发送 私人 信息 吗 ? 那 是 在 维基百科 上 可能 的 吗 ? 拜托 , 我 发现 你 在 这里 写 的 东西 很 合理 。	[0, 0, 0]	NOT
 8211	This award is true wish Barclays Premiership Merit Award and Barclays Manager of the Season and Barclays Golden Glove Award.	该 奖项 是 真挚 的 祝愿 , 巴克莱 最佳 表现 奖 和 巴克莱 季 经理 奖 和 巴克莱 金 手套 奖 。	[0, 1, 0]	NOT
@@ -245,7 +245,7 @@
 4948	This is a real entry. The link shows that Mike was indeed make the new President of Pioneer Newspapers.	这个 链接 表明 迈克 确实 是 《 先驱报 》 的 新 主席 。	[3, 0, 0]	NOT
 1471	All possibly valuable insight, Danny, but that would be better used at the entry for Dialectical materialism, not Historical materialism.	所有 可能 有 价值 的 洞察力 , 丹尼 , 但 最好 是 用 在 辩证唯物主义 的 入口处 , 而 不是 历史唯物主义 。	[0, 0, 0]	NOT
 237	And no one knows more about stalking and wasting time than Nellie the Cunt	没有 人比 内莉 更 了解 跟踪 和 浪费时间	[0, 1, 0]	NOT
-1683	Zagurzem: BTW, I know the game was leaked and all recently, but can I put the plot for Episode Metal and II up when they come out on <dat> the 15th </dat>?	扎格尔泽姆 : 顺便 说 一句 , 我 知道 游戏 最近 泄露 了 , 但 我 能 把 《 金属 》 和 《 II 》 的 情节 放在 <dat> 15 日 </dat> 发行 时 吗 ?	[0, 1, 0]	NOT
+1683	Zagurzem: BTW, I know the game was leaked and all recently, but can I put the plot for Episode Metal and II up when they come out on the 15th?	扎格尔泽姆 : 顺便 说 一句 , 我 知道 游戏 最近 泄露 了 , 但 我 能 把 《 金属 》 和 《 II 》 的 情节 放在 <dat> 15 日 </dat> 发行 时 吗 ?	[0, 1, 0]	NOT
 1607	You TRULY ARE trying to hide this information. You really don't want anyone to know the truth, do you?	你 真想 隐瞒 这个 消息 , 你 真 不想 让 任何人 知道 真相 , 是 吗 ?	[0, 0, 0]	NOT
 6567	And why do I sell so many books and continue to be published?	为什么 我 卖 这么 多书 并且 继续 出版 呢 ?	[0, 0, 0]	NOT
 9675	As for uvamokozis LOL thank you for the punchline	至于 Uvamokozis LOL , 谢谢 你 的 笑话	[1, 0, 0]	NOT
@@ -271,7 +271,7 @@
 4634	Re: corporate media: Nice neutral-point-of-view article.	Re : 企业 媒体 : 好 中立 的 观点 文章 .	[0, 0, 0]	NOT
 4952	well i'll just replace it with Princess Anne's royal standard since it is her birthday <dat> this week </dat> :::::	嗯 , 我 只是 用 安妮 公主 的 皇家 标准 来 代替 它 , 因为 <dat> 这个 星期 </dat> 是 她 的 生日	[0, 0, 0]	NOT
 4699	Wikipedia:Dealing with disruptive or antisocial editors	维基百科 : 干扰 或 反 社会 编辑 的 治疗	[3, 0, 0]	NOT
-6477	The <dat> 23 January </dat> is arrived and Cubfan didn't answer.	<dat> 1 月 23 日到 </dat> 了 , 库布 芬 没有 回答 。	[0, 0, 0]	NOT
+6477	The <dat> 23 January </dat> is arrived and Cubfan didn't answer.	<dat> 1 月 </dat> <dat> 23 日到 </dat> 了 , 库布 芬 没有 回答 。	[0, 0, 0]	NOT
 7154	Yarmouk camp == News from Yarmouk camp reported that Isis captured 70% of the camp and clashes are still ongoing.SOHR,SOHR,NBCNEWS,BBC,Dailystar. ==	耶鲁 克 难民营 的 新闻报道 说 伊西斯 占领 了 70% 的 难民营 , 冲突 仍 在 继续 。	[1, 1, 1]	ERR
 3049	The above is libel. Please remove. Thanks for your comment on RJ page. That's all I have asked.	以上 是 诽谤 . 请 删除 . 谢谢 你 对 RJ 页面 的 评论 . 这 是 我 所 要求 的 .	[0, 0, 0]	NOT
 2126	This should possibly be merged with International adoption of South Korean children.	这 也许 应该 同 韩国 儿童 的 国际 收养 结合 起来 。	[0, 0, 0]	NOT
@@ -350,7 +350,7 @@
 1700	This is why the key is to look at google news search results for <dat> the most recent week </dat>...	这 就是 为什么 关键 是 看看 <dat> 最近 一周 </dat> 的 谷歌 新闻 搜索 结果 ...	[0, 0, 0]	NOT
 1004	by government-planned controlled demolition. As a cover-up, the government said that commercial	政府 计划 进行 控制 的 拆迁 。 作为 掩盖 , 政府 表示 商业	[0, 0, 0]	NOT
 811	President Jackson in <dat> 1760 </dat> ???? -please check your history	<dat> 1760 年 </dat> 杰克逊 总统 - 请 检查一下 您 的 历史	[0, 0, 0]	NOT
-1890	I did some original research and called someone. They think he got on the board in <dat> the mid 1990's </dat>.	我 做 了 一些 原始 的 研究 , 打电话 给 某人 , 他们 认为 他 在 <dat> 1990 年代 中期 </dat> 加入 了 董事会 。	[0, 1, 1]	ERR
+1890	I did some original research and called someone. They think he got on the board in the <dat> mid 1990's </dat>.	我 做 了 一些 原始 的 研究 , 打电话 给 某人 , 他们 认为 他 在 <dat> 1990 年代 中期 </dat> 加入 了 董事会 。	[0, 1, 1]	ERR
 2277	There is no logic, it all stems from nationalistic bias and mob rule	没有 逻辑 , 这 一切 都 源于 民族主义 偏见 和 暴徒 统治	[0, 0, 0]	NOT
 8906	So yeah, can I be unblocked? I fail to see why you are being so uptight.}}	那么 , 可以 让 我 解锁 吗 ? 我 不 明白 你 为什么 这么 紧张 。	[0, 0, 0]	NOT
 3201	Match never happened on the end. So, we really have four winners.	比赛 从不 结束 , 所以 我们 确实 有 四位 赢家 。	[0, 0, 0]	NOT
@@ -397,7 +397,7 @@
 5372	What does the name actually represent? I havent found anywhere...	这个 名字 究竟 代表 什么 ? 我 从没 找到 任何 地方 ...	[0, 0, 0]	NOT
 7334	The Fish Directory, my free and creative commons licensed fish catalogue: [URL]	鱼类 目录 , 我 的 免费 和 创意 共享 的 鱼类 目录 : [ URL ]	[0, 0, 0]	NOT
 3194	your conclusion (that Ryu isthe next Akuma or whatever)	你 的 结论 ( 鲁是 下 一个 阿古 马 或 什么 )	[1, 1, 2]	ERR
-1559	Please see the etymology under History (In Talmudic and Geonic eras).	请参阅 《 历史 ( 在 塔尔 穆德 和 <dat> 地质 时代 </dat> ) 》 的 词源学 。	[0, 0, 1]	NOT
+1559	Please see the etymology under History (In Talmudic and Geonic eras).	请参阅 《 历史 ( 在 塔尔 穆德 和 地质 时代 ) 》 的 词源学 。	[0, 0, 1]	NOT
 5482	Should we wait for people to come and express their opinions or go look for them on other video-game related articles and draw their attention?	我们 应该 等 人们 来 表达 他们 的 意见 , 还是 去 看看 其他 与 电子游戏 相关 的 文章 , 吸引 他们 注意 呢 ?	[3, 0, 0]	NOT
 1846	Can anyone find a Blue Paul Terrier picture we can use for the Table ?	谁 能 找到 一张 我们 可以 用作 桌子 的 蓝 保罗 特里尔 照片 吗 ?	[1, 1, 0]	ERR
 2992	If you object to something in this article Niccolò Machiavelli, put your objections on the talk page...	如果 你 对 这 篇文章 的 某些 内容 有 异议 的话 , 把 异议 放在 谈话 页 上 ...	[1, 0, 0]	NOT
@@ -407,10 +407,10 @@
 3331	The roof of the McDonnell Planetarium sure looks like the roof of the Seattle Space Needle	麦克唐纳 天文台 的 屋顶 看起来 很 像 西雅图 太空 针 的 屋顶	[1, 0, 0]	NOT
 3662	YOU FUCKING SUCK I HATE YOUR FUCKING SITE IT SUCKS ASS!	你 妈 的 我 讨厌 你 妈 的 网站 它 妈 的 !	[0, 0, 0]	NOT
 7829	I made clear Trabzon as Turkish name of the city. Because the city not located in Greece	我 把 特布鲁兹堡 当作 土耳其 的 城名 , 因为 该城 不是 希腊 的	[0, 1, 1]	ERR
-3661	REDIRECT Talk:Pennsylvania Republican primary, <dat> 2008 </dat>	主题 : <dat> 2008 年 </dat> 宾夕法尼亚州 共和党 初选	[1, 0, 0]	NOT
+3661	REDIRECT Talk:Pennsylvania Republican primary, 2008	主题 : <dat> 2008 年 </dat> 宾夕法尼亚州 共和党 初选	[1, 0, 0]	NOT
 4809	Please give me a second chance and unblock me. Thank you.	请 再 给 我 一次 机会 , 解开 门 , 谢谢 。	[1, 0, 0]	NOT
 3347	What type of sterilization do you think affects the taste of milk?	你 认为 什么 类型 的 消毒 会 影响 牛奶 的 味道 ?	[0, 0, 0]	NOT
-6183	request the block be changed to a set time period, perhaps a week, or <dat> a month </dat>, as opposed to indefinite.}}	要求 将 块 更 改为 指定 的 时间段 , 例如 <dat> 一周 </dat> 或 <dat> 一个月 </dat> , 而 不是 无限期 。	[0, 0, 1]	NOT
+6183	request the block be changed to a set time period, perhaps <dat> a week </dat>, or <dat> a month </dat>, as opposed to indefinite.}}	要求 将 块 更 改为 指定 的 时间段 , 例如 <dat> 一周 </dat> 或 <dat> 一个月 </dat> , 而 不是 无限期 。	[0, 0, 1]	NOT
 9088	As I see the same quote is also present in this book.	正如 我 所见 , 同样 的 引用 也 存在 于 这 本书 中 。	[0, 0, 0]	NOT
 6222	Why don't you go F yourself deliting nigger? Fuck you and your lies!	你 为什么 不 自己 去 吃苦 的 黑人 ? 你 和 你 的 谎言 都 滚蛋 !	[1, 1, 0]	ERR
 4529	lmao! Thanks TV2007, but I could have told him my self I wasn't reading that shit he put their for me to read	谢谢 电视 <dat> 2007 </dat> , 不过 我 本来 可以 告诉 他 自己 , 我 没有 读 他 给 我 读 的 东西	[0, 1, 1]	ERR
@@ -426,7 +426,7 @@
 3269	your answer doesn't explain to me who is reviewing this particular piece of kryptonite.	你 的 回答 并 不能 解释 是 谁 正在 检查 这件 特殊 的 密码 。	[1, 1, 0]	ERR
 9974	International Hockey League]]== * add links to original league ==[[	国际 冰球 联盟 ] ] = = * 添加 原始 联盟 链接 = = [ [	[0, 0, 0]	NOT
 7073	Warning removed. Thank you for notifying me of this. (Not logged in)	警告 删除 . 谢谢 通知 我 . ( 未 登录 )	[0, 0, 0]	NOT
-424	<dat> May 2014 </dat> You've been blocked forever for vandalism.	<dat> 2014 年 5 月 </dat> 你 因 破坏性 行为 被 永久 封锁 。	[0, 0, 0]	NOT
+424	<dat> May 2014 </dat> You've been blocked forever for vandalism.	<dat> 2014 年 </dat> <dat> 5 月 </dat> 你 因 破坏性 行为 被 永久 封锁 。	[0, 0, 0]	NOT
 4385	P.S. The agreed wiki definition is here under which its Light not heavy Passenger_rail_terminology#Heavy_rail	P . S . 已 商定 的 维基 定义 在 这里 , 其轻 而 不重 的 Passenger _ rail _ terminology # Heavy _ rail	[2, 0, 0]	NOT
 9510	This is a talk page over this article. Post anything you want.	这是 一篇 关于 这 篇文章 的 谈话 页 , 要 写 任何 东西 .	[0, 0, 0]	NOT
 3375	Note: user on this IP had made identical edits from another IP, for which has been blocked.	注 : 此 IP 上 的 用户 已经 从 另 一个 IP 上 进行 相同 的 编辑 , 该 IP 已 被 封锁 .	[0, 0, 0]	NOT
@@ -437,7 +437,7 @@
 4702	I laugh at you for merging Animenation with a person.	我 嘲笑 你 把 Animenation 和 一个 人 合并 了 .	[0, 0, 0]	NOT
 9879	Per WP:CRYSTAL, we only add roster changes to articles when the transaction has been officially announced (and completed). Thanks.	根据 WP : CRYSTAL , 当 交易 已 正式 宣布 ( 并 完成 ) 时 , 我们 只 对 条目 添加 名册 更改 。	[0, 0, 0]	NOT
 2727	He wants me to comply just because he says so, he's not following past wiki practices and being unbiased in his editing.	他 希望 我 遵守 , 只是 因为 他 这么 说 , 他 没有 遵循 过往 的 维基 实践 , 并且 在 编辑 中 没有 偏见 。	[0, 0, 0]	NOT
-9353	Verdy_p is a brainless mongoloid with an arrogance stick up his rear end.	Verdy _ p 是 一个 没有 大脑 的 蒙哥 洛伊 , 他 傲慢 地站 在 后 端 。	[1, 0, 0]	NOT
+9353	Verdy_p is a brainless mongoloid with an arrogance stick up his rear end.	<dat> Verdy </dat> _ p 是 一个 没有 大脑 的 蒙哥 洛伊 , 他 傲慢 地站 在 后 端 。	[1, 0, 0]	NOT
 3896	if the algae lipid factor is 40%, one need 2.5 kg of algae cells to get 1 kg of oil.}} Is this useful?	如果 藻类 脂 因子 为 40% , 需要 2.5 公斤 藻类 细胞 才能 获得 1 公斤 油 。	[3, 0, 0]	NOT
 4278	Why does Wankopedia continue to support this Debunking Feminized Tool. you gave up NPOV the day Larry left..	为什么 万科 佩迪亚会 继续 支持 这个 “ 揭示 女性化 工具 ” ? 你 放弃 了 NPOV 的 那 <dat> 一天 </dat> , 拉里 离开 了 。	[1, 0, 0]	NOT
 4438	So, I was blocked because someone was being a prick and I was proving them wrong. Makes a whole lotta sense...	因此 , 我 被 封锁 了 , 因为 有人 是 傻瓜 , 我 证明 他们 错 了 。	[3, 0, 0]	NOT
@@ -453,7 +453,7 @@
 9604	ps- there about 40 more changes I want to make, and I want to go slow to give us time to go for consenus on what I have already done.	还有 大约 40 个 我 要 做 的 改变 , 我 想 慢慢 地 让 大家 知道 我 已经 做 了 些 什么 。	[0, 0, 0]	NOT
 7182	and more details on his various positions in the oil industry	关于 他 在 石油 行业 的 各种 职位 的 详细资料	[0, 0, 0]	NOT
 6445	The british media does not use the term british isles nor does the media in any country i have been to so your facs seem to be outdated.	英国 媒体 没有 使用 英国 岛屿 的 术语 , 我 曾经 去过 任何 一个 国家 的 媒体 也 没有 使用 英国 岛屿 的 术语 , 所以 你 的 面孔 似乎 已经 过时 了 。	[1, 0, 1]	ERR
-3358	samay kapoor is a great cricketer and a great footballer.he is <dat> 9 year </dat> old.he likes john cena	萨米 · 卡普尔 是 一个 伟大 的 板球 运动员 和 伟大 的 足球 运动员 。 他 <dat> 9 岁 </dat> 。 他 喜欢 约翰 · 普里 萨	[1, 0, 0]	NOT
+3358	samay kapoor is a great cricketer and a great footballer.he is <dat> 9 year old.he </dat> likes john cena	萨米 · 卡普尔 是 一个 伟大 的 板球 运动员 和 伟大 的 足球 运动员 。 他 <dat> 9 岁 </dat> 。 他 喜欢 约翰 · 普里 萨	[1, 0, 0]	NOT
 858	Done - please feel free to contact me about any ongoing issues with the copy-edit. Cheers,	已 完成 - 请 随时 与 我 联系 , 以 处理 任何 与 复印 编辑 有关 的 问题 。 祝贺 ,	[0, 0, 0]	NOT
 6369	could have fooled me, hens! last time i checked you come from the low lands and have edited tape	可以 骗 我 , 母鸡 ! 上次 我 检查 你 是从 低地 来 的 , 我 已经 编辑 过 录音带 了	[0, 0, 0]	NOT
 6420	I also added the Norcliff Thayer article, which was a company that made Tums, Oxy, and Avail, which is now GlaxoSmithKline.	我 还 添加 了 《 诺 克利夫 · 泰尔 》 ( Norcliff Thayer ) 的 文章 , 那 是 一家 生产 Tums 、 Oxy 和 Avil 的 公司 , 现在 是 GlaxoSmithKline 。	[0, 0, 0]	NOT
@@ -664,7 +664,7 @@
 7166	Telescopes? Really? We've had to protect telescopes because of edit wars? Now I have seen everything.	望远镜 吗 ? 真的 吗 ? 我们 不得不 保护 望远镜 因为 编辑 战争 吗 ? 现在 我 已经 看到 了 一切 。	[0, 0, 0]	NOT
 895	Thank you Mr Shaad Iko.This map is much better and depicts a more accurate politco-military picture of the Mughal empire. Skylark2008	谢谢 你 , 伊科 先生 。 这张 地图 比 这张 地图 好得多 , 更 准确 地 描绘 了 穆罕默德 帝国 的 政治 军事 形象 。	[3, 1, 1]	ERR
 4391	REDIRECT Talk:John Loveday (experimental physicist)	主题 : 约翰 · 洛夫 代 ( 实验 物理学家 )	[1, 0, 0]	NOT
-28	Take me off of the Wiki project, their are too many Pricks on the Sikhism wiki pages like Ramas arrow. Elven6 <dat> July UTC </dat>	让 我 离开 维基 项目 , 他们 太多 了 在 锡克教 维基 页 上 的 普里 克 , 像 拉马斯 箭头 。	[0, 0, 1]	NOT
+28	Take me off of the Wiki project, their are too many Pricks on the Sikhism wiki pages like Ramas arrow. Elven6 <dat> July </dat> UTC	让 我 离开 维基 项目 , 他们 太多 了 在 锡克教 维基 页 上 的 普里 克 , 像 拉马斯 箭头 。	[0, 0, 1]	NOT
 4747	Excuse me, but I do not know what you are talking about.	对不起 , 我 不 知道 你 在 说 什么 .	[0, 0, 0]	NOT
 9296	Why is Canada placed 3rd in group A when they have more wins than Switzerland?	当 加拿大 比 瑞士 赢得 更多时 , 为什么 在 A 组中 排名第 3 ?	[0, 0, 0]	NOT
 3730	THIS IS AN OLD TERM!!! THE INTERNET IS NOT THAT OLD. I SHOULD KNOW BETTER I LIVED THROUGH THE WAR	这 是 老 术语 , 因特网 不是 老 术语 , 我 应该 知道 我 在 战争 中过 得 更好	[3, 0, 0]	NOT
@@ -775,10 +775,10 @@
 1985	REDIRECT Talk:5th Mountain Artillery Regiment (Italy)	主题 演讲 : 第 5 山 炮兵团 ( 意大利 )	[0, 0, 0]	NOT
 2856	No human being is illegal. Use the term 'undocumented'. ~ Dream Activist! from the UTSA Hunger Strike.	"没有 人 是 非法 的 . 使用 "" 无证 "" 术语 . ~ 梦想 活动家 ! 来自 UTSA 饥饿 罢工 ."	[0, 0, 2]	NOT
 6932	Wait until I have O'Connors book in my hand ;-) Keep up the good work.	等 我 手里 有 O ' Connors 的 书 。 继续 干 好 工作 。	[0, 1, 0]	NOT
-4396	Assume? You are the first part of the word, yes. The WKRC edit was cited. Now bite me	假设 ? 是 的 , 你 是 第一个 部分 , WKRC 的 编辑 被 引用 了 . 现在 咬 我	[3, 0, 0]	NOT
+4396	Assume? You are the first part of the word, yes. The WKRC edit was cited. Now bite me	假设 ? 是 的 , 你 是 第一个 部分 , <dat> WKRC </dat> 的 编辑 被 引用 了 . 现在 咬 我	[3, 0, 0]	NOT
 4521	I've done that lots only to have you revert me. This is not a legitimate block..	我 已经 做 了 那么 多 , 只是 为了 让 你 回 我 , 这 不是 正当 的 阻塞 。	[1, 0, 0]	NOT
 7513	gay == gay here. how do u view men kissing men? ==	这里 是 同性恋 , 你 如何 看待 男人 接吻 男人 ?	[0, 0, 0]	NOT
-6812	I wrote that shit ages ago, what are you a slaking faggot	很久以前 我 写 过 , 你 是 什么 傻瓜 ?	[0, 0, 0]	NOT
+6812	I wrote that shit <dat> ages ago </dat>, what are you a slaking faggot	很久以前 我 写 过 , 你 是 什么 傻瓜 ?	[0, 0, 0]	NOT
 9168	vandal warning Whomever you are, you are guilty of vandalizing my page and possibly harrassment as well, as is evident on my page history	破坏性 警告 : 无论 你 是 谁 , 你 都 是 破坏 我 的 页面 的 罪魁祸首 , 可能 还有 骚扰 , 这 在 我 的 页面 历史 中 很 明显	[0, 0, 0]	NOT
 2317	Hold on a second. This is an insane definition of vandalism. I am trying to add content that i fell is legitimate.	等等 , 这是 破坏 主义 的 疯狂 定义 , 我 试图 添加 我 堕落 的 内容 是 合法 的 。	[0, 1, 1]	ERR
 2331	on the top you say the post be answered but my last 2 posts have not been answered yet. ( )	上面 你 说 这 封 邮件 应该 得到 答复 , 但 我 的 最后 2 封 邮件 还 没有 得到 答复 。	[0, 0, 0]	NOT
@@ -847,7 +847,7 @@
 1155	why is there a talk to judy blume page if you cannot send a message to judy?	如果 你 不能 给 朱迪 发邮件 , 为什么 会 和 朱迪 布鲁姆 页 谈谈 呢 ?	[0, 0, 0]	NOT
 527	proof of them and when the official investigation contradicts it.	证据 , 当 官方 调查 对 这些 证据 有 异议 时 。	[0, 0, 0]	NOT
 968	That was so desterbing because of when i had to do a project in school i had to explain it wasnt Bill Gates from <dat> 20 years ago </dat>	那太 令人 沮丧 了 , 因为 当 我 不得不 在 学校 做 一项 项目 时 , 我 不得不 解释 , 这 不是 <dat> 20 年前 </dat> 的 比尔盖茨	[0, 0, 0]	NOT
-9491	<dat> February 5, 2010 </dat>: *PlayStaiton Home Emergency Maintanance - Musicality space	<dat> 2010 年 2 月 </dat> 5 日 : * PlayStaiton Home Emergency Maintanance - Musicality space	[3, 0, 0]	NOT
+9491	<dat> February 5, 2010 </dat>: *PlayStaiton Home Emergency Maintanance - Musicality space	<dat> 2010 年 </dat> <dat> 2 月 </dat> 5 日 : * PlayStaiton Home Emergency Maintanance - Musicality space	[3, 0, 0]	NOT
 5495	Eastern Armenia was a puppet-state of the Parthians	东部 亚美尼亚 是 帕尔提 亚人 的 傀儡 国家	[0, 0, 0]	NOT
 1972	On Ali Khamenei On Hassan Rouhani On Propaganda in Iran	关于 阿里 · 哈梅内伊 关于 哈桑 · 鲁 哈尼 关于 伊朗 宣传	[0, 0, 0]	NOT
 1596	REDIRECT Talk:Glaucias (physician <dat> 3rd century </dat> BC)	参考 译文 : 格劳 西亚斯 ( <dat> 公元前 3 世纪 </dat> 的 物理学家 )	[0, 0, 0]	NOT
@@ -904,7 +904,7 @@
 8566	What are the sources you are using? I don't need to tell you my sources, since I am correcting OBVIOUS pro-PAN and neoliberal bias.	你 所 使用 的 来源 是 什么 ? 我 不 需要 告诉 你 我 的 来源 , 因为 我 正在 纠正 公认 的 泛美 支持者 和 新 自由主义 偏见 。	[1, 1, 1]	ERR
 5936	response: If you notice I changed it right back. I saved the bad version by accident. Sorry	答 : 如果 你 注意 到 我 改变 了 它 , 我 不 小心 保存 了 坏 版本 。 抱歉	[0, 0, 0]	NOT
 4419	as to whether GW added SHMG to presidential oath. Even so, the	关于 GW 是否 将 SHMG 加入 总统 的 誓言 。 尽管如此 ,	[0, 0, 0]	NOT
-5668	and will be spread across the internets. Good day.	将 被 传播 到 互联网 上 。 祝你好运 。	[0, 0, 0]	NOT
+5668	and will be spread across the internets. <dat> Good day </dat>.	将 被 传播 到 互联网 上 。 祝你好运 。	[0, 0, 0]	NOT
 8604	Yes will been in a pornogrific ring with Ryan White we know that it mean go-nad string	是 的 , 会 和 瑞恩 怀特 一起 做 淫秽 的 圈子 , 我们 知道 它 意味着 性交 的 弦	[1, 0, 0]	NOT
 3204	Hi Hi everyone.I know the truth hurts but gives clarity as well	嗨 , 大家 好 。 我 知道 真话 会 伤人 , 但 同时 也 能 使 人 明白	[0, 0, 0]	NOT
 7066	Judging by , the DNB article may conflate two people of the same name. Someone look at the ODNB?	通过 判断 , DNB 条目 可能 合并 了 两个 相同 名字 的 人 . 有人 看 ODNB 吗 ?	[0, 0, 0]	NOT

@@ -51,7 +51,7 @@
 7538	Nope. Using hurtful, discriminatory and biased language is an NPOV violation.	不 , 使用 伤害性 、 歧视性 和 偏见 性 的 语言 是 违反 NPOV 的 .	[0, 0, 0]	NOT
 1241	Is it Sharleen Spiteri singing the song used during breaks on Sky Sports News? (UK digital channel.)	沙琳 · 史 皮特里 ( 英语 : Sharleen Spiteri ) 演唱 了 《 天空 体育新闻 》 ( 英语 : Sky Sports News ) 中 休息 时 使用 的 歌曲 吗 ?	[3, 0, 0]	NOT
 6184	I deleted a section of the article that was relevant to the KKK in general, but not the title of Imperial Wizard.	我 删除 了 一篇 与 KKK 有关 的 文章 , 但 没有 “ 帝国 魔法师 ” 的 标题 。	[1, 0, 1]	ERR
-7035	de-chomskidize is dr john sherman. he teaches history at wright state university in dayton ohio. he is an expert on latin america	de - chomskidize 是 约翰 · 谢尔曼 博士 。 他 教授 历史 在 惠特 州立大学 , 他 是 拉丁美洲 专家	[1, 1, 1]	ERR
+7035	de-chomskidize is dr john sherman. he teaches history at wright state university in dayton ohio. he is an expert on latin america	de - chomskidize 是 约翰 · 谢尔曼 博士 。 他 教授 历史 在 惠特 州立大学 , 他 是 <nrp> 拉丁美洲 </nrp> 专家	[1, 1, 1]	ERR
 9391	Please leave any messages here and I will endeavor to reply	请留下 任何 留言 , 我会 尽力 回答	[0, 0, 0]	NOT
 8729	I've just semi-protected it, so hopefully there will be less of that for a while. ::::	我 只是 半 保护 了 它 , 所以 希望 在 一段时间 内会少 一些 。	[1, 0, 0]	NOT
 7126	schooliphost=nat0.badger.k12.wi.usBADGER HIGH SCHOOL, WI	schoolip host = nat0 . badger . k12 . wi . us BADGER 高中 , WI	[0, 3, 0]	NOT
@@ -111,7 +111,7 @@
 3376	Also, I seriously hate minorities and slapped 3 babies today.	而且 , 我 真 讨厌 少数民族 , 今天 还 打 了 3 个 孩子 .	[0, 0, 0]	NOT
 3688	I'm not the deranged harrasser here. You and yours are. Project your personality onto someone else.	我 不是 这个 疯子 , 你 和 你 的 , 把 你 的 个性 传给 别人 。	[0, 0, 0]	NOT
 938	And here's a paper that suggests that Seychelles–Aldabra tortoises are morphologically variable: [URL]	这里 有 一篇 论文 表明 , 塞舌尔 - 阿达 布拉 海龟 的 形态 是 可变 的 : [ URL ]	[0, 0, 0]	NOT
-9567	You do realize this man is the reason a <nrp> British </nrp> Soldier was beheaded on the streets of London. Are you in the cult of Islam?	你 确实 意识 到 这个 人 是 <nrp> 英国 </nrp> 士兵 在 伦敦 街上 被 斩首 的 原因 。 你 属于 伊斯兰教 吗 ?	[0, 0, 0]	NOT
+9567	You do realize this man is the reason a <nrp> British </nrp> Soldier was beheaded on the streets of London. Are you in the cult of <nrp> Islam </nrp>?	你 确实 意识 到 这个 人 是 <nrp> 英国 </nrp> 士兵 在 伦敦 街上 被 斩首 的 原因 。 你 属于 伊斯兰教 吗 ?	[0, 0, 0]	NOT
 1226	How do we know the credibility of news sources. Also just because it's not reported or hard to find doesn't mean it's not true.	我们 怎样才能 知道 新闻来源 的 可信性 。 同样 , 仅仅 因为 新闻 没有 报道 或 很 难 找到 并 不 意味着 它 不 真实 。	[2, 0, 0]	NOT
 2048	With all due respect to MONGO I want some other admin to look into this issue.Hence the unblock template.	对 MONGO 表示 敬意 , 我 想 让 其他 管理员 看看 这个 问题 。 这 就是 解锁 模板 。	[0, 0, 2]	NOT
 3751	If you don't like Fox News or other Wikipedia pages, here's another citation.	如果 你 不 喜欢 福克斯 新闻 或 其他 维基百科 页面 , 这里 有 另 一个 引用 .	[0, 0, 0]	NOT
@@ -146,7 +146,7 @@
 8389	they is keep taking down my stuff... so... STOP TAKING DOWN MY SPECIAL INSERT THINGY WHATCHAMACALLITS	他们 一直 在 把 我 的 东西 丢下来 , 所以 ... 停止 把 我 的 特别 物品 丢下来	[0, 0, 0]	NOT
 416	walkers constitutes a NPOV violation if there ever was one.	步行者 如果 曾经 发生 过 , 就 构成 了 NPOV 的 违反 。	[0, 0, 0]	NOT
 8116	I saw her for the first time on the Daily Show last week. Oh my freaking god..that woman is fucking HOT!!!!	上星期 我 在 《 每日 秀 》 上 第一次 见到 她 。 哦 , 我 的 天 哪 , 那个 女人真 热 啊 !	[1, 1, 1]	ERR
-8722	I d like hear you speak Greek. You made a <nrp> Greek </nrp> pseydonym but you can leave our Greek cuisine to edit well	我 想 听 你 讲 希腊语 , 你 写 了 一个 希腊语 名词 , 但 你 可以 把 我们 的 希腊 菜 留给 我们 编辑 好	[0, 0, 0]	NOT
+8722	I d like hear you speak Greek. You made a Greek pseydonym but you can leave our <nrp> Greek </nrp> cuisine to edit well	我 想 听 你 讲 希腊语 , 你 写 了 一个 希腊语 名词 , 但 你 可以 把 我们 的 希腊 菜 留给 我们 编辑 好	[0, 0, 0]	NOT
 5651	And this is the same issue as Kyiv/Kiev: guess which version has been set?	这是 一个 与 基辅 / 基辅 一样 的 问题 : 猜 哪 一个 版本 已经 设置 了 ?	[0, 0, 1]	NOT
 3624	See also Other time-frequency transforms: * short-time Fourier transform * chirplet transform * fractional Fourier transform	参见 其他 时频 变换 : * 短时 傅里叶 变换 * 切片 变换 * 分数 傅里叶 变换	[1, 0, 0]	NOT
 9710	JfdWolff is a hopeless failure . . . He can't stomach defeat !!! JFDWOLFF IS A TOTAL LOSER !!!	JfdWolff 是 一个 无可救药 的 失败 , 他 不能 消化 失败 ! JFDWOLFF 是 彻底 的 失败者 !	[0, 0, 0]	NOT
@@ -181,7 +181,7 @@
 217	Such a shambles would be funny if it were not for the pain of wasted effort.	这种 惨剧 如果 不是 因为 浪费 的 努力 所 带来 的 痛苦 , 那么 会 很 有趣 .	[0, 0, 0]	NOT
 8480	Pictures Dude I GET THE POINT...I'm going to fix them up. Stop being such a jerk/nazi. Why are you doing all this to me? Jeez...	照片 我 明白 了 , 我要 把 它们 修好 , 别 再 这么 傻 了 。 你 为什么 对 我 这么 做 呢 ?	[0, 0, 0]	NOT
 3212	Alternative metal is about the same as punk metal	另类 金属 和 朋克 金属 差不多	[0, 0, 0]	NOT
-4984	It seems that AE defend anything - including vandalism- that helps him to promote his personal <nrp> PoVs </nrp>.	看起来 , 艾利会 捍卫 任何 东西 -- 包括 破坏 -- 帮助 他 提升 他 的 个人 PoV 。	[3, 0, 0]	NOT
+4984	It seems that AE defend anything - including vandalism- that helps him to promote his personal PoVs.	看起来 , 艾利会 捍卫 任何 东西 -- 包括 破坏 -- 帮助 他 提升 他 的 个人 PoV 。	[3, 0, 0]	NOT
 3044	REDIRECT Talk:Publication history of DC Comics crossover events	主题 : DC 漫画 交叉 事件 的 出版 史	[0, 0, 2]	NOT
 6999	Deleted. Untruthfull. Sniff the white phosphorus happy. - 20:	删除 , 不 真实 , 闻一闻 白磷 , 高兴 .	[0, 1, 0]	NOT
 3349	pdf files are common and I definitely recommend downloading the free Adobe Reader. Defining 0^0 = 1 is more common. The pdf does that.	pdf 文件 是 常见 的 , 我 绝对 推荐 下载 免费 AdobeReader 。 定义 0 ^ 0 = 1 是 比较 常见 的 。	[3, 0, 0]	NOT
@@ -199,7 +199,7 @@
 6860	I had to run before finshing this article. Will complete soon.	我 必须 在 完成 这 篇文章 之前 跑 . 很快 就 会 完成 .	[0, 0, 0]	NOT
 1190	i'm going to keep on reverting you freaking goddamn hypocrites until you guys are blue in the faces i don't give two cents damn	我 将 继续 责备 你们 这 可恶 的 伪君子 , 直到 你们 脸色苍白 , 我 再也 不 给 二 美分 了	[0, 0, 1]	NOT
 1147	More sections is a style issue, and not necessarily an improvement.	更 多 节点 是 一个 风格 问题 , 并不一定 是 一个 改进 .	[0, 0, 0]	NOT
-4964	Alike: Resian dialect wherefore Resian? Exist the Resian in the english? Not.	同样 的 : 雷西亚 方言 为什么 雷西亚 ? 英语 里 有 雷西亚 吗 ? 没有 .	[0, 0, 0]	NOT
+4964	Alike: Resian dialect wherefore Resian? Exist the <nrp> Resian </nrp> in the english? Not.	同样 的 : 雷西亚 方言 为什么 雷西亚 ? 英语 里 有 雷西亚 吗 ? 没有 .	[0, 0, 0]	NOT
 5410	Let me know on my talk page if you need admin help with any other similar pages. — Carl ( ·	如果 您 需要 其他 类似 网页 的 管理员 帮助 , 请 让 我 在 我 的 谈话 页 上 知道 。 — Carl ( ·	[0, 0, 0]	NOT
 4337	You need to stop changing the ownership section of WWE, the McMahon Family is the owners because of there class B shares they hold together	你 需要 停止 改变 WWE 的 所有权 部门 , 麦克马洪 家族 是 所有者 , 因为 他们 拥有 B 级 股份	[1, 0, 0]	NOT
 9897	Actually, I have not reverted any of the additions made by another editor. Please cite which changes you are referring to. Thanks.	实际上 , 我 没有 对 其他 编辑 所作 的 任何 添加 进行 反覆 。 请 引用 你 所 引用 的 更改 。 谢谢 。	[1, 0, 0]	NOT
@@ -252,7 +252,7 @@
 2969	Fashion - I'm not really that into fashion, to be honest.	老实 说 , 我 对 时尚 不太 感兴趣 .	[0, 0, 0]	NOT
 2761	Thanks JM and thanks for your comments on the older scholarship. I tried to be fair.	谢谢 JM 和 谢谢 你 对 老 奖学金 的 评论 。 我 尽力 做到 公平 。	[0, 0, 0]	NOT
 6133	some kind of blueprints would be great, could anyone please add some if you know any?( )	有些 蓝图 好极了 , 如果 有人 知道 的话 可以 加 一些 吗 ?	[0, 0, 0]	NOT
-8654	the people of the Philippines are unbelievably stupid, this is a shit hole.	<nrp> 菲律宾 </nrp> 人民 太 愚蠢 了 , 这 真是 一团糟 。	[0, 0, 0]	NOT
+8654	the people of the Philippines are unbelievably stupid, this is a shit hole.	菲律宾 人民 太 愚蠢 了 , 这 真是 一团糟 。	[0, 0, 0]	NOT
 9238	SOMEONE NEEDS TO PROVE THE LAW OF THE UNCONSCIOUS STATISTICIAN OR ELSE	某人 需要 证明 非 科学 统计学家 或 其他 人士 的 法律	[1, 1, 0]	ERR
 2863	TOTALITARIAN GOVERNMENT THAT SHOULD BE VIOLENTLY OVERTHROWN AND WIPED OFF THE FACE OF THE EARTH	该国 政府 应该 被 暴行 推翻 , 并 从 地球表面 撤出	[1, 1, 0]	ERR
 8781	Missrain4, I will make a rain of cum on your face.	小姐 , 我会 在 你 的 脸上 洒下 一滴 精液 。	[0, 0, 0]	NOT
@@ -265,7 +265,7 @@
 1828	small collectives forming one organized musical path from city to city	从 城市 到 城市 形成 一个 有 组织 的 音乐 道路 的 小 集体	[0, 0, 0]	NOT
 7637	I shouldn't have copied simplistic (and not recommended) examples. Using the template filling utility was a good recommendation. Thanks Zodon.	我 不 应该 复制 简化 ( 而且 不 推荐 ) 的 例子 。 使用 模板 填充 工具 是 很 好 的 建议 。 谢谢 Zodon 。	[0, 0, 0]	NOT
 7492	The above quotation, shamelessly cherry-picked out of context, was not said by me, but by	上述 引言 是 无耻 地 从 上下文 中 挑出来 的 , 我 没有 说 , 而是 说	[0, 0, 0]	NOT
-6691	<nrp> Palins=== </nrp> Removed unnecessary references, as each mention the school in its own article. =	Palins = = = 删除 不必要 的 引用 , 因为 每篇 文章 都 提到 学校 。	[0, 0, 0]	NOT
+6691	Palins=== Removed unnecessary references, as each mention the school in its own article. =	Palins = = = 删除 不必要 的 引用 , 因为 每篇 文章 都 提到 学校 。	[0, 0, 0]	NOT
 8550	You didn't even move the article, just deleted. Don't do this EVER again.	你 甚至 没有 移动 文章 , 只是 删除 了 . 再也 不要 这样 做 .	[3, 0, 0]	NOT
 703	the last sentance of this article doesn't make any sense. I don't know how to fix it.	这个 文章 的 最后 一篇 稿子 毫无意义 , 我 不 知道 该 怎么 补救 。	[0, 0, 1]	NOT
 4634	Re: corporate media: Nice neutral-point-of-view article.	Re : 企业 媒体 : 好 中立 的 观点 文章 .	[0, 0, 0]	NOT
@@ -278,14 +278,14 @@
 3271	It's great he's all for homosexuality. He'll have a lot of practice over the next few years. Dennv.	很 高兴 他 支持 同性恋 , 今后 几年 他会 有 很多 练习 。	[0, 0, 0]	NOT
 4972	I can see from the discussion above, that much has been deleted from this article over the years. I wonder if anything good has been slashed.	我 从 上面 的 讨论 中 可以 看出 , 几年 来 这 篇文章 中 已经 删掉 了 很多 东西 , 我 不 知道 是否 有 好 东西 被 删掉 。	[0, 0, 0]	NOT
 3149	Possibly add this into the I/O_(disambiguation) page	可能 将 此 添加 到 I / O _ ( 误解 ) 页 中	[1, 0, 0]	NOT
-1795	I would say any time with an MLB team, like being on the DL, would count.	我 想 在 MLB 队中 任何 时候 , 比如 在 DL 中 , 都 应该 考虑 .	[0, 0, 0]	NOT
+1795	I would say any time with an MLB team, like being on the DL, would count.	我 想 在 <nrp> MLB </nrp> 队中 任何 时候 , 比如 在 DL 中 , 都 应该 考虑 .	[0, 0, 0]	NOT
 5213	Do these policies extend beyond the article(s) and their talk pages to user pages as well? Or are user talk pages free mans land?	这些 政策 是否 延伸 到 文章 和 他们 的 谈话 页 到 用户 页 ? 还是 用户 谈话 页 是 免费 的 吗 ?	[0, 0, 0]	NOT
 1646	I think in fact the ECB sees ACS as the official body on List A though the current chairman would have details as I believe he works for ECB.	事实上 , 我 认为 欧洲央行 认为 ACS 是 A 名单 上 的 官方 机构 , 尽管 目前 的 主席 应该 有 细节 , 因为 我 相信 他 为 欧洲央行 工作 。	[0, 0, 0]	NOT
 4114	Rmzadeh would dearly enjoy having kinky sex with his own mother, or a goat, whichever was more attractive, at that moment	此时 , 姆 扎德 将 非常 喜欢 与 自己 的 母亲 或 一只 山羊 进行 疯狂 的 性交 , 不管 哪个 更 吸引 人	[1, 0, 0]	NOT
 3652	The content is from a published secondary source. Just following guidelines:)	内容 来自 出版 的 二级 来源 。 仅 根据 以下 指引 : )	[0, 0, 0]	NOT
 1328	Nor, oddly a dictatorship where lonesome boys get off on meaningless power trips. ColScott	也 奇怪的是 , 独裁政权 是 孤独 的 男孩 在 无 意义 的 权力 旅行 中 离开 的 。	[2, 1, 1]	ERR
 6235	Hi, I just updated my misspelling database with most of the new entries submitted by you and others. I hope your exam goes (went?) well.	嗨 , 我 刚刚 更新 了 我 的 拼写错误 数据库 , 其中 大部分 都 是 由 你 和 其他人 提交 的 。 我 希望 你 的 考试 顺利进行 。	[0, 0, 1]	NOT
-824	NO, English, is a <nrp> Germanic </nrp> language, because in history, <nrp> English </nrp> grew out of Old Germaniclater adoptions of Latin vocabulary were not foreseen!	不 , 英语 是 德语 的 语言 , 因为 历史 上 , 英语 是 源于 古 德语 后代 的 拉丁语 词汇 的 采纳 并 不 预料到 的 !	[0, 0, 0]	NOT
+824	NO, English, is a <nrp> Germanic </nrp> language, because in history, English grew out of Old Germaniclater adoptions of <nrp> Latin </nrp> vocabulary were not foreseen!	不 , 英语 是 德语 的 语言 , 因为 历史 上 , 英语 是 源于 古 德语 后代 的 拉丁语 词汇 的 采纳 并 不 预料到 的 !	[0, 0, 0]	NOT
 6794	In Slovenia you can find this book: Tudi mi smo umrli za domovino.	在 斯洛文尼亚 你 可以 找到 这 本书 : Tudi mi smo umrli za domovino .	[0, 3, 0]	NOT
 8198	This page duplicates Man Of Aran. Which goes, which stays? I think this one has more accurate use of lowercase 'of'.	这个 页面 复制 了 《 阿兰 的 男士 》 。 哪个 去 , 哪个 留下 ? 我想 这页 更 准确 地 使用 了 小写字母 “ of ” 。	[0, 1, 0]	NOT
 9708	don't thumbnail it, insert it like this, 1999 eclipse]]	不要 把 它 缩略 一下 , 把 它 插入 这样 , 1999 年 日食	[0, 0, 0]	NOT
@@ -327,13 +327,13 @@
 383	Also, I could not find any reference to 'least astonishment' in WP:MoS and WP:NAME. Please clarify.	"另外 , 我 无法 在 WP : MoS 和 WP : NAME 中 找到 任何 关于 "" 最小 的 惊奇 "" 的 引用 。 请 澄清 。"	[0, 0, 0]	NOT
 77	If not, as a last resort, we can look into primary sources.	如果 不 这样 , 作为 最后 的 办法 , 我们 可以 查找 主要 来源 。	[0, 0, 0]	NOT
 5976	I'm going to - glad you did do a block in the first place though.	不过 , 我 很 高兴 你 一 开始 就 干 了 一个 街头 .	[1, 1, 1]	ERR
-4497	Kansas Bear is not <nrp> american </nrp> . he is working for racist governments	堪萨斯 熊 不是 美国 人 , 他 为 种族主义 政府 工作	[0, 0, 0]	NOT
+4497	Kansas Bear is not <nrp> american </nrp> . he is working for racist governments	堪萨斯 熊 不是 <nrp> 美国 </nrp> 人 , 他 为 种族主义 政府 工作	[0, 0, 0]	NOT
 1844	No! you you are interested in delation, all should be deleted together.	不 , 你 有 兴趣 去除 , 所有 的 都 应该 一起 删除 .	[1, 1, 0]	ERR
 4215	has stopped me from being able to participate in.	使 我 无法 参与 。	[0, 0, 0]	NOT
 2489	Season Premiere The season premiere is schedule for October 3, 2007.Rocky	该季 的 首播 时间 为 2007 年 10 月 3 日 。	[0, 0, 0]	NOT
 3315	You both are a bit rude please do not get yourself banned you do not want that do you	你们 俩 有点 粗鲁 , 请 不要 自己 被 禁止 , 不要 那样 做	[0, 0, 0]	NOT
 158	answer me NOW I WANT TO KNOW WHY ARE YOU BEING SO RUDE AND MEAN IM TRYING TO BE NICE JUST ANSWER THE QUESTION!	现在 我 想 知道 你 为什么 这么 粗鲁 , 我 的 意思 是 想 好 回答 问题 !	[3, 0, 0]	NOT
-4584	Her parents (Carlton Harris, Jackie Harris) are both <nrp> African American </nrp>. (	她 的 父母 ( 卡尔顿 · 哈里斯 、 杰基 · 哈里斯 ) 都 是 非洲 裔 美国 人 。	[0, 0, 0]	NOT
+4584	Her parents (Carlton Harris, Jackie Harris) are both <nrp> African American </nrp>. (	她 的 父母 ( 卡尔顿 · 哈里斯 、 杰基 · 哈里斯 ) 都 是 非洲 裔 <nrp> 美国 </nrp> 人 。	[0, 0, 0]	NOT
 5004	As an afterthought: you called me a 'newbie' while I am only new to the syntax of wikipedia, but of course not new to reviewing stuff.	作为 后 想 : 你 叫 我 “ 新手 ” , 而 我 只是 维基百科 的 语法 的 新人 , 但 当然 没有 对 评论 新 的 东西 。	[3, 0, 0]	NOT
 9978	I'll get your thoughts first, and then after maybe we can take it to Talk to discuss with others and get further approval.	我会 先 了解 你 的 想法 , 然后 也许 我们 可以 带 它 去 跟 别人 讨论 , 得到 进一步 的 批准 。	[3, 0, 0]	NOT
 4488	There are 14 subtests to the WAIS-III, Can I change it on the main page?	WAIS - III 有 14 个子 测试 , 我 可以 在 主页 上 更改 吗 ?	[0, 0, 0]	NOT
@@ -377,7 +377,7 @@
 5966	Why don't you experiment with my balls By sucking them	你 为什么 不用 吸 我 的 球来 试验 呢	[0, 0, 1]	NOT
 4782	Also, you appear to have reverted the article edits within the version of page with listboxes without noting the revisions to article content.	另外 , 你 似乎 已经 在 页面 版本 中将 列表框 的 条目 编辑 反过来 , 没有 注意 到 条目 内容 的 修改 。	[1, 0, 0]	NOT
 1732	If there are any graphic artists out there who can betterarrange the pictures on this article, please do so.	如果 您 有 能够 更好 地 安排 这 篇文章 上 的 图片 的 图形 艺术家 , 请 这样 做 。	[0, 0, 0]	NOT
-9486	hey buddhu...Go and watch the censor certificate of Chennai Express and see whether its Hindi or <nrp> Tamil </nrp>...	嘿 , 佛陀 , 去 看看 Chennai Express 的 censor 证书 , 看看 它 的 <nrp> 印第安语 </nrp> 还是 泰米尔语 ...	[1, 1, 1]	ERR
+9486	hey buddhu...Go and watch the censor certificate of Chennai Express and see whether its Hindi or <nrp> Tamil </nrp>...	嘿 , 佛陀 , 去 看看 Chennai Express 的 censor 证书 , 看看 它 的 印第安语 还是 泰米尔语 ...	[1, 1, 1]	ERR
 1056	I don't think Media Matters criticisms of Mr. Hewitt are appropriate. Please keep this place informative. Thanks. C. M.	我 不 认为 媒体 问题 对希 维特 先生 的 批评 是 恰当 的 。 请 保持 这个 地方 的 资讯 性 。 谢谢 。	[0, 0, 0]	NOT
 590	I am not engaged in an edit war, in <nrp> Democrat </nrp> party (phrase), I am following wikipedia guidelines. I object to the accusation.	我 没有 参与 编辑 战争 , 在 民主党 ( 英语 : Democratic Party ) 中 , 我 遵循 维基百科 指南 。 我 反对 指控 。	[0, 0, 0]	NOT
 8557	Yes I do, I am trying to find it. Its on Flight International and I am going through their archives.	是 的 , 我 正在 努力 找到 它 。 它 在 国际航班 上 , 我 正在 查阅 他们 的 档案 。	[0, 0, 0]	NOT
@@ -452,7 +452,7 @@
 9803	have 2 dogs and there cute i wish i lived in california	我 有 两个 狗 , 那里 很 可爱 , 我 希望 我 住 在 加州	[0, 0, 0]	NOT
 9604	ps- there about 40 more changes I want to make, and I want to go slow to give us time to go for consenus on what I have already done.	还有 大约 40 个 我 要 做 的 改变 , 我 想 慢慢 地 让 大家 知道 我 已经 做 了 些 什么 。	[0, 0, 0]	NOT
 7182	and more details on his various positions in the oil industry	关于 他 在 石油 行业 的 各种 职位 的 详细资料	[0, 0, 0]	NOT
-6445	The <nrp> british </nrp> media does not use the term british isles nor does the media in any country i have been to so your facs seem to be outdated.	英国 媒体 没有 使用 英国 岛屿 的 术语 , 我 曾经 去过 任何 一个 国家 的 媒体 也 没有 使用 英国 岛屿 的 术语 , 所以 你 的 面孔 似乎 已经 过时 了 。	[1, 0, 1]	ERR
+6445	The british media does not use the term <nrp> british </nrp> isles nor does the media in any country i have been to so your facs seem to be outdated.	英国 媒体 没有 使用 英国 岛屿 的 术语 , 我 曾经 去过 任何 一个 国家 的 媒体 也 没有 使用 英国 岛屿 的 术语 , 所以 你 的 面孔 似乎 已经 过时 了 。	[1, 0, 1]	ERR
 3358	samay kapoor is a great cricketer and a great footballer.he is 9 year old.he likes john cena	萨米 · 卡普尔 是 一个 伟大 的 板球 运动员 和 伟大 的 足球 运动员 。 他 9 岁 。 他 喜欢 约翰 · 普里 萨	[1, 0, 0]	NOT
 858	Done - please feel free to contact me about any ongoing issues with the copy-edit. Cheers,	已 完成 - 请 随时 与 我 联系 , 以 处理 任何 与 复印 编辑 有关 的 问题 。 祝贺 ,	[0, 0, 0]	NOT
 6369	could have fooled me, hens! last time i checked you come from the low lands and have edited tape	可以 骗 我 , 母鸡 ! 上次 我 检查 你 是从 低地 来 的 , 我 已经 编辑 过 录音带 了	[0, 0, 0]	NOT
@@ -501,7 +501,7 @@
 4770	I actually did a good thing by thanking Useight and Master of Pies for reverting that vandalism.}}	事实上 , 我 感谢 Useight 和 Pies 大师 扭转 了 这种 破坏 行为 , 这 确实 是 一件 好事 。	[0, 0, 0]	NOT
 9736	HLQall of these things happen to be lies so go fuck yourself and die lol jk D	这些 事情 都 是 谎言 , 所以 你 自己 去 自杀 吧	[1, 1, 1]	ERR
 657	Italic text My arguement: Nick Thoman NEEDS a wikipedia page! He is a generally overlooked but AMAZING swimmer!	我 的 论点 是 : 尼克 · 汤曼 需要 一个 维基百科 页 ! 他 是 一个 一般 被 忽略 的 , 但是 令人 惊讶 的 游泳 者 !	[0, 0, 0]	NOT
-1171	Officer knives== <nrp> Swiss </nrp> officer knives are not red. They just get the same knife as everyone else, Source: A swiss officer ==	瑞士 军官 刀 不是 红色 的 , 他们 只得 像 其他人 一样 的 刀 , 来源 : 瑞士 军官	[3, 0, 0]	NOT
+1171	Officer knives== <nrp> Swiss </nrp> officer knives are not red. They just get the same knife as everyone else, Source: A <nrp> swiss </nrp> officer ==	瑞士 军官 刀 不是 红色 的 , 他们 只得 像 其他人 一样 的 刀 , 来源 : 瑞士 军官	[3, 0, 0]	NOT
 2330	Am I getting this right? You are blocking me because of a suspicion?	我 说得对 吗 ? 你 因为 怀疑 而 挡住 了 我 吗 ?	[0, 1, 0]	NOT
 6709	You're an idiot, MONGO. We should be reminding you. You're the one who started this mess by being uncivil.	你 是 个 傻瓜 , 莫恩戈 , 我们 应该 提醒 你 , 你 就是 那个 不 文明 的 人 开始 了 这个 混乱 。	[1, 0, 1]	ERR
 6024	Steve's Biological Parents == I've checked the reference, which is [URL] but couldn't find any proof. ==	史蒂夫 的 生物 父母 我 检查 了 参考文献 [ URL ] , 但 找 不到 任何 证据 。	[0, 0, 0]	NOT
@@ -510,10 +510,10 @@
 6460	and talk with some respect when you talk about our Gurus...and save your insults for me Rajputana Mr. Royalty Minor or Major...	当 你 谈论 我们 的 师父 时 , 要 用 一点 敬意 来 说话 , 把 侮辱 留给 我 。 拉 吉普 塔纳 先生 , 小王 或 大王 。	[0, 0, 0]	NOT
 2338	PS Ideally an article in WP should have at least 2 sources, but sometimes it takes a while to achieve that!	PS 理想 情况 下 WP 的 条目 应该 至少 有 2 个 来源 , 但 有时 它 需要 一段时间 才能 实现 这 一点 !	[0, 0, 0]	NOT
 638	So i heard that saint chris lost his sainthood from someone. what the hell is this? Please tell me that this isn't true.	我 听说 圣 克里斯 从 某人 手中 失去 圣洁 了 。 这 到底 是 怎么回事 ? 请 告诉 我 这 不是 真的 。	[0, 0, 0]	NOT
-9542	Don't you think here you guys prove there is a <nrp> Jewish </nrp> conspiracy? Or three Jews against one <nrp> Christian </nrp> is rather a pogrom?	你 不 认为 你们 在 这里 证明 有 犹太人 的 阴谋 吗 ? 或者 三个 <nrp> 犹太人 </nrp> 对 一个 <nrp> 基督徒 </nrp> 是 一场 大屠杀 吗 ?	[0, 0, 0]	NOT
+9542	Don't you think here you guys prove there is a <nrp> Jewish </nrp> conspiracy? Or three <nrp> Jews </nrp> against one <nrp> Christian </nrp> is rather a pogrom?	你 不 认为 你们 在 这里 证明 有 犹太人 的 阴谋 吗 ? 或者 三个 <nrp> 犹太人 </nrp> 对 一个 <nrp> 基督徒 </nrp> 是 一场 大屠杀 吗 ?	[0, 0, 0]	NOT
 4064	even if we hate furfags and llolis and kid fuckers	即使 我们 恨恶 弗拉格 斯 、 洛利斯 和 小混蛋	[1, 0, 1]	ERR
 6499	See Human influenza for a model of how to develop this article.	参见 人类 流感 的 模式 , 如何 开发 这 篇文章 。	[0, 0, 3]	NOT
-3429	and plutonic intrusions like the Monteregian Hills	以及 像 蒙特雷 吉安 山脉 那样 的 冥王星 入侵	[1, 0, 0]	NOT
+3429	and plutonic intrusions like the <nrp> Monteregian </nrp> Hills	以及 像 蒙特雷 吉安 山脉 那样 的 冥王星 入侵	[1, 0, 0]	NOT
 9680	ASK YOUR MOTHER, MISS or SIR. And STOP TALKING ABOUT SEX WITH CHILDREN UtherSRG/Jchillerup. Xchanter	问 你 母亲 、 小姐 或 先生 , 并且 停止 和 孩子 们 谈论 性爱 UtherSRG / Jchillerup 。	[1, 1, 1]	ERR
 6729	STOP POSTING WARNIGN ON MY TALK PAGE ITS FUCKING GAY AS SHIT AND I DONT GIVE A FUCK JESUS CHIRST	停止 在 我 的 谈话 页 上 留言 , 他妈的 像 屁 一样 开玩笑 , 而 我 却 没生气	[0, 0, 0]	NOT
 5571	Isn't that your goal? ~SLURP~ I'll still find you after being banned.	那 不是 你 的 目标 吗 ? ~ SLURP ~ 被 禁止 之后 , 我 仍会 找到 你 。	[0, 0, 0]	NOT
@@ -577,7 +577,7 @@
 8133	In the meantime, there are dozens of links that now link to a disambiguation page, requiring editors to change them.	与此同时 , 有 几十个 链接 现在 链接 到 一个 模糊 页面 , 要求 编辑 更改 它们 。	[1, 1, 1]	ERR
 3959	Please wait until the bid books are submitted to find out. ,	请 等到 投标书 提交 后 再查 一下 。	[0, 0, 0]	NOT
 2536	SO GUYS THIS USER BY THE NAME O FJRGUGFAGGOT GOT ME BANNED. THAT GUY IS A FUCKING CUNT!	这个 人 叫 弗吉 尔格 格格格 , 叫 我 叫 他 , 这 家伙 真是 个 傻瓜 !	[1, 1, 1]	ERR
-5018	MiddayexpressMiddayexpress]] deserves a award for his contribution to the Somalia article and are you ethiopian ?	Middayexpress Middayexpress ] ] 为 他 对 索马里 的 文章 的 贡献 而 获得 奖项 , 你 是否是 民族主义者 ?	[0, 1, 1]	ERR
+5018	MiddayexpressMiddayexpress]] deserves a award for his contribution to the Somalia article and are you <nrp> ethiopian </nrp> ?	Middayexpress Middayexpress ] ] 为 他 对 索马里 的 文章 的 贡献 而 获得 奖项 , 你 是否是 民族主义者 ?	[0, 1, 1]	ERR
 8521	DUE TO MY INSANELY HIGH LEVEL OF WIKISTRESS, I WILL NOT BE RESPONDING TO MESSAGES.	由于 我 高度 的 文盲 , 我 将 不会 对 邮件 作出 回应 .	[0, 1, 1]	ERR
 9439	Athos was already used in upper section but without proper attribution. As I did not wrrite the upper section, I did changed anything there.	阿 托斯 已经 在 上部 使用 , 但 没有 适当 的 归属 。 由于 我 没有 写 上部 , 我 确实 改变 了 什么 。	[0, 0, 0]	NOT
 3644	It has its own page on [URL] . You don't get more official than that in establishing a vital, world-changing meme.	它 在 [ URL ] 上 有 一个 自己 的 页面 , 在 建立 一个 至关重要 的 、 改变 世界 意识形态 方面 , 你 没有 比 这 更 正式 的 。	[1, 0, 0]	NOT
@@ -650,9 +650,9 @@
 1813	implied and there'd be no ambiguity as to which brigade is being referred to	是 暗示 的 , 不会 有 任何 模糊不清 的 关于 哪支 旅是 指 的	[0, 0, 0]	NOT
 689	Alvirne is a great school that has earned every word typed in this entry.	阿尔 维尔 恩是 一个 伟大 的 学校 , 它 赢得 了 所有 在 这个 输入 中所 打 的 单词 。	[0, 0, 0]	NOT
 6250	If same study is a problem now, I can add the full studies name there also.	如果 现在 同样 的 研究 是 问题 , 我 可以 添加 完整 的 研究 名称 .	[0, 0, 1]	NOT
-5306	Parts read as if translated from another language or written by a non-English speaker.	部分 被 读成 从 另 一个 语言 翻译 或 由 非 英语 人士 写成 。	[0, 0, 0]	NOT
+5306	Parts read as if translated from another language or written by a <nrp> non-English </nrp> speaker.	部分 被 读成 从 另 一个 语言 翻译 或 由 非 英语 人士 写成 。	[0, 0, 0]	NOT
 3627	hello find me real nice sex pics soon as possible from this site	你好 , 尽快 从 这个 网站 找到 我 真正 漂亮 的 性 照片	[0, 0, 0]	NOT
-3975	His editing of Anjem Choudry’s page radiates of censorship. Are we sure Parrot of Doom isn’t in the cult of Islam?.	他 对 阿 尼姆 · 乔德里 的 页面 的 编辑 受到 了 审查 。 我们 是否 确信 《 命运 的 鹦鹉 》 不是 伊斯兰教 的 崇拜者 ?	[1, 0, 0]	NOT
+3975	His editing of Anjem Choudry’s page radiates of censorship. Are we sure Parrot of Doom isn’t in the cult of <nrp> Islam </nrp>?.	他 对 阿 尼姆 · 乔德里 的 页面 的 编辑 受到 了 审查 。 我们 是否 确信 《 命运 的 鹦鹉 》 不是 伊斯兰教 的 崇拜者 ?	[1, 0, 0]	NOT
 7808	Can we get a picture? Are we talking about the same Julian?	我们 能 得到 一张 照片 吗 ? 我们 是 在 谈论 同样 的 朱利安 吗 ?	[0, 0, 0]	NOT
 9063	That's an Ibanez copy he's using on that picture isn't it ?	那 是 他 在 那 张 照片 上用 的 伊巴 内斯 复制品 , 对 吧 ?	[0, 0, 0]	NOT
 6061	So clearly livelikemusic has two (or more) of them or you wouldn't have brought it up. Lovely.	所以 很 明显 , Livelikemusic 有 两种 ( 或 更 多 ) 的 , 否则 你 就 不会 提起 了 。	[0, 0, 1]	NOT
@@ -677,7 +677,7 @@
 7368	You will not you stop? What you want? Destroy the articles? She almost married him, why do you not delete it on the page Adam Brody too?	你 不会 停下来 吗 ? 你 想干什么 ? 毁掉 那些 文章 ? 她 几乎 嫁给 他 了 , 为什么 你 不 在 亚当 · 布罗迪 的 页面 上 删除 呢 ?	[0, 0, 0]	NOT
 8395	Fuck you too! Put this finger in yourasshole, bastard!	你 也 该死 , 把 这个 手指 插进 你 的 屁股 里 , 混蛋 !	[0, 0, 0]	NOT
 1680	talk header}} {{WikiProject Professional wrestling	{ { WikiProject 職業 摔角	[3, 0, 0]	NOT
-6548	Hey isn't Day 'N' Nite a UK single to be released in January 2009 and its produced by the Crookers?	嘿 , Day ' N ' Nite 不是 2009 年 1 月 发行 的 英国 单曲 , 由 Crookers 制作 的 吗 ?	[0, 1, 0]	NOT
+6548	Hey isn't Day 'N' Nite a UK single to be released in January 2009 and its produced by the Crookers?	嘿 , Day ' N ' Nite 不是 2009 年 1 月 发行 的 <nrp> 英国 </nrp> 单曲 , 由 Crookers 制作 的 吗 ?	[0, 1, 0]	NOT
 5389	Please post a message if you need to find out something! I didn't see any cookies welcoming me, well, that is fine! I don't argue with people!	如果 您 需要 知道 一些 东西 , 请 留言 ! 我 没有 看到 任何 饼干 欢迎 我 , 好 , 那 很 好 ! 我 不会 和 人 争吵 !	[0, 0, 0]	NOT
 2441	i cant adding the sources if you keep reverting everything	4 . 如果 你 把 一切 都 反过来 的话 , 我 就 不能 增加 源头 了	[1, 0, 0]	NOT
 6722	In fact, I have said that I prefer the green felt version, but feel the inclusion of various versions disallows for favoring one link over another.	事实上 , 我 说 过 我 更 喜欢 绿色 感触 版本 , 但 我 觉得 各种 版本 的 加入 不 允许 赞成 一个 链接 而 不是 另 一个 。	[0, 0, 0]	NOT
@@ -712,7 +712,7 @@
 7396	don't u dear delete my page again alrite u nigger	亲爱 的 , 不要 再 删除 我 的 页面 , 写 上 你 , 黑人	[0, 0, 0]	NOT
 2565	A Clean Slate Please see my archive for archived conversations.	请 查看 我 的 档案 来 查看 档案 中 的 谈话 内容 。	[0, 0, 0]	NOT
 7090	Hi i'm new here and i just bought the itunes version. It does NOT feature Cory Gunz officially.	嗨 , 我 是 新来 的 , 我刚 买 了 Itanes 版本 , 它 没有 正式 的 Cory Gunz 功能 。	[1, 1, 1]	ERR
-8283	Why hasn't Alitalia been removed rom the alliance due to its piss-poor customer service? - Sentiments of nummerous FlyerTalkers	为什么 阿利 塔利亚 没有 因 其 糟糕 的 客户服务 而 被 撤销 ? - 数目 众多 的 飞行员 的 情感	[0, 0, 0]	NOT
+8283	Why hasn't Alitalia been removed rom the alliance due to its piss-poor customer service? - Sentiments of nummerous FlyerTalkers	为什么 <nrp> 阿利 </nrp> 塔利亚 没有 因 其 糟糕 的 客户服务 而 被 撤销 ? - 数目 众多 的 飞行员 的 情感	[0, 0, 0]	NOT
 9250	NOTE: re speedy You might ask who created this redirect back in September (before it was vandalized today) what is the rational for this redirect.	注意 : 重新 快速 你 可能 会 问 谁 在 9 月份 创建 了 这个 重新 引导 ( 今天 之前 被 破坏 ) 这个 重新 引导 的 合理 原因 。	[0, 0, 0]	NOT
 5748	There exists a new version of the tree att [URL] with references to sources, therefore the tree needs to be updated.	存在 一个 新 的 版本 的 树 at [ URL ] 与 引用 源 , 因此 树 需要 更新 。	[0, 0, 3]	NOT
 1042	Dont know how to sign this but i fixed the reference request you insisted on at the Ataturk page.	我 不 知道 怎么 签名 , 但 我 修正 了 你 坚持 在 阿塔图尔克 页 上 的 引用 要求 。	[0, 0, 0]	NOT
@@ -749,7 +749,7 @@
 8368	i like 69, so i had to put lols, and i like robins egg blue thank you verry much	我 喜欢 69 岁 , 所以 我 得 写 笑话 , 我 喜欢 罗宾 蛋 蓝色 谢谢 你 , 非常高兴	[1, 1, 1]	ERR
 3721	Have written a response to your comments on the use of the mile in Canada	对 加拿大 使用 英里 问题 的 评论 写 了 一份 答复	[0, 0, 0]	NOT
 2820	Thanks a lot asshole! You got me blocked you fucking asshole!!!	谢谢 你 , 混蛋 ! 你 让 我 堵住 你 , 混蛋 !	[0, 1, 0]	NOT
-5516	Here's an empty one: Template:User <nrp> Australian </nrp> English. What to do with it?	下面 是 一张 空 的 : 模板 : 澳大利亚 英语 使用者 . 该 怎么办 ?	[0, 0, 0]	NOT
+5516	Here's an empty one: Template:User Australian English. What to do with it?	下面 是 一张 空 的 : 模板 : 澳大利亚 英语 使用者 . 该 怎么办 ?	[0, 0, 0]	NOT
 5741	I just realize this was the account's first edit. So I am assuming sockpuppetry & reverting.	我 只是 意识 到 这 是 账户 的 第一个 编辑 , 因此 我 假设 是 假装 假装 & 反转 。	[1, 1, 0]	ERR
 9981	And the administrators who back them up just make things worse.	而 那些 支持 他们 的 人 却 只会 使 事情 变得 更糟 。	[0, 0, 0]	NOT
 5743	This section placed here by Fyslee, related to above discussion.	这部分 由 Fyslee 在 这里 摆放 , 与 上述 讨论 有关 .	[0, 0, 0]	NOT
@@ -766,10 +766,10 @@
 6148	Why can you put English for example on some players but others people don't like it - why?	为什么 你 可以 把 英语 放在 一些 球员 身上 , 但是 其他人 不 喜欢 呢 ?	[0, 3, 0]	NOT
 7387	You're really quite a jerk you know. And i see here on your page that a lot of people don't like you, well good.	你 知道 , 你 真是 个 傻瓜 , 我 在 这页 上 看到 很多 人 不 喜欢 你 , 很 好 。	[0, 0, 0]	NOT
 7530	For now, I have lost. But I will come back with a vengeance I promise you that. -Karl P	现在 我输 了 , 但 我会 回来 报复 , 我 答应 你	[0, 0, 1]	NOT
-3162	REDIRECT Talk:<nrp> Croatian Christian </nrp> <nrp> Democrats </nrp> (Bosnia and Herzegovina)	主题 : 克罗地亚 基督教 民主党 ( 波斯尼亚 - 黑塞哥维那 )	[0, 0, 0]	NOT
+3162	REDIRECT Talk:<nrp> Croatian </nrp> <nrp> Christian </nrp> <nrp> Democrats </nrp> (Bosnia and Herzegovina)	主题 : 克罗地亚 基督教 民主党 ( 波斯尼亚 - 黑塞哥维那 )	[0, 0, 0]	NOT
 7573	REDIRECT Talk:Common engineering entrance examination	主题 : 一般 工程 入学考试	[1, 0, 1]	ERR
-6663	There are lots of faggs in this world, and that's why this word is not an insult attack, so piss off!	世界 上 有 很多 妓女 , 这 就是 为什么 这个 词 不是 侮辱 的 攻击 , 所以 生气 吧 !	[1, 1, 0]	ERR
-4218	And <nrp> Indian </nrp> Maithil may even be a creation by the farm. It is certainly useless. -	<nrp> 印第安 </nrp> 玛蒂尔 甚至 可能 是 农场 的 创造物 , 当然 是 无用 的 .	[1, 0, 0]	NOT
+6663	There are lots of <nrp> faggs </nrp> in this world, and that's why this word is not an insult attack, so piss off!	世界 上 有 很多 妓女 , 这 就是 为什么 这个 词 不是 侮辱 的 攻击 , 所以 生气 吧 !	[1, 1, 0]	ERR
+4218	And <nrp> Indian </nrp> Maithil may even be a creation by the farm. It is certainly useless. -	印第安 玛蒂尔 甚至 可能 是 农场 的 创造物 , 当然 是 无用 的 .	[1, 0, 0]	NOT
 6131	and would explain why they make everyone learn English	并 解释 他们 为什么 让 每个 人 都 学习 英语	[0, 0, 0]	NOT
 204	REDIRECT Talk:Confederate War Memorial (Dallas, Texas)	主题 演讲 : 联邦 战争 纪念馆 ( 德州 达拉斯 )	[0, 0, 0]	NOT
 1985	REDIRECT Talk:5th Mountain Artillery Regiment (Italy)	主题 演讲 : 第 5 山 炮兵团 ( 意大利 )	[0, 0, 0]	NOT
@@ -801,7 +801,7 @@
 758	look at this retard, likes to make a big deal about Mars Volta songs cause he's a lil puss Zopwx2	看 这个 迟钝 的 人 , 他 喜欢 在 火星 沃尔塔 歌曲 上大谈 大谈 , 因为 他 是 个 傻瓜	[0, 0, 1]	NOT
 1895	Is that a threat? Does sound like one. Are you sure you're fit to be an admin?	那 是 个 威胁 吗 ? 听 起来 像 个 威胁 吗 ? 你 确定 你 适合 做 管理员 吗 ?	[0, 0, 0]	NOT
 2379	Just incase anyone is interested my favourite hobby is playing with other peoples cock'n'balls. Superb.	只要 有人 感兴趣 , 我 最 喜欢 的 爱好 就是 和 别人 打球 。	[0, 1, 0]	NOT
-194	Sounds french, anyone has more info and could document this? thanks	听 起来 是 法语 , 有人 有 更 多 信息 , 可以 记录 一下 吗 ? 谢谢	[0, 0, 0]	NOT
+194	Sounds <nrp> french </nrp>, anyone has more info and could document this? thanks	听 起来 是 法语 , 有人 有 更 多 信息 , 可以 记录 一下 吗 ? 谢谢	[0, 0, 0]	NOT
 8367	Links It is probably best to avoid adding commercial links. The kinds of citations Wikipedia seeks are WP:SECONDARY, reviews and books. Thanks,	链接 可能 最好 避免 添加 商业 链接 。 维基百科 寻求 的 引用 类型 是 WP : SECONDARY , 评论 和 书籍 。 谢谢 ,	[0, 0, 0]	NOT
 8199	All of the articles in in the book are on the website.	书中 所有 的 文章 都 在 网站 上 .	[0, 0, 0]	NOT
 7620	Translation I wonder what the long text on your user page means ?	我 想 知道 您 的 用户 页面 上 的 长文 是 什么 意思 ?	[0, 0, 0]	NOT
@@ -822,7 +822,7 @@
 7254	Samuel Luo= Yueyuen, Kent888, Mr. He how could you have been so naive?	萨缪尔 洛 先生 : 先生 , 你 怎么 会 这么 幼稚 ?	[0, 0, 0]	NOT
 1729	unblockThis ip is no longer an open proxy. Please check it to make sure}}	unblock 这个 IP 不再 是 一个 开放 的 代理 , 请 检查 它 以 确定 } }	[0, 0, 0]	NOT
 510	If technical death metal can be its own thing, then slam definitely deserves to be.	如果 技术性 死亡 金属 可以 成为 自己 的 事物 , 那么 斯拉姆 肯定 值得 。	[0, 0, 1]	NOT
-5775	Here is a direct interview with Schlafly including questions about her anti-muslim sentiment: [URL]	这里 是 与 Slaply 的 直接 采访 , 包括 关于 她 反 <nrp> 穆斯林 </nrp> 情绪 的 问题 : [ URL ]	[0, 0, 0]	NOT
+5775	Here is a direct interview with Schlafly including questions about her <nrp> anti-muslim </nrp> sentiment: [URL]	这里 是 与 Slaply 的 直接 采访 , 包括 关于 她 反 穆斯林 情绪 的 问题 : [ URL ]	[0, 0, 0]	NOT
 658	Well, the Filmography part should start with the earliest films, and end with the most recent. You can restructure it if you want! -)	嗯 , 电影 部分 应该 从 最 早期 的 电影 开始 , 最后 是 最近 的 电影 。 如果 你 想 的话 , 你 可以 改组 一下 !	[0, 0, 0]	NOT
 8492	You made a few that were legitimate and I tried to avoid those.	你 做 了 一些 合法 的 , 我 设法 避免 这些 。	[3, 0, 0]	NOT
 9433	Will be adding to this here shortly in the coming days/weeks :Michael AKA Fantacmet	在 接下来 的 几天 / 星期 里 , 我会 在 这儿 添加 一些 : Michael AKA Fantacmet	[0, 1, 1]	ERR
@@ -853,11 +853,11 @@
 1596	REDIRECT Talk:Glaucias (physician 3rd century BC)	参考 译文 : 格劳 西亚斯 ( 公元前 3 世纪 的 物理学家 )	[0, 0, 0]	NOT
 454	it doesnt offend me about painful death or the war no, its unfortunately the way our world is today. Also	痛苦 的 死亡 或 战争 对不起 , 不幸 的 是 我们 的 世界 今天 是 如此 。	[0, 0, 0]	NOT
 8746	That seems reasonable. I just moved it back to it's original title.	那 看起来 很 合理 , 我 只是 把 它 搬回 原来 的 标题 。	[0, 0, 0]	NOT
-6840	I stop being a Jew and pay for decent Internet access via Google Fibre	我 停止 成为 <nrp> 犹太人 </nrp> , 并 通过 谷歌 纤维 支付 适当 的 上网费	[0, 0, 0]	NOT
+6840	I stop being a <nrp> Jew </nrp> and pay for decent Internet access via Google Fibre	我 停止 成为 <nrp> 犹太人 </nrp> , 并 通过 谷歌 纤维 支付 适当 的 上网费	[0, 0, 0]	NOT
 7411	Oh, but you're happy to do so when it's in defense of your boyfriend Aquaman.	哦 , 但是 当 你 为 自己 的 男朋友 阿夸曼 辩护 的 时候 , 你 会 很 高兴 的 。	[1, 0, 0]	NOT
 6832	C. Fred THANKS SO SO MUCH. I WILL ADD MORE REFERENCES ON MONDAY. SHE HAS TONS! THANKS SO SO MUCH!	C . 弗雷德 非常感谢 . 我 星期天 会 增加 更 多 的 参考资料 . 她 有钱 !	[1, 1, 1]	ERR
 9775	Oh yeah, and have I seen a word of thanks from you for my edits?	哦 , 是 的 , 我 看到 你 对 我 的 编辑 表示感谢 吗 ?	[0, 0, 0]	NOT
-4503	how was the spanish colonial empire organised beforethe independence of mexico?	墨西哥 独立 前 , 西班牙 殖民 帝国 是 如何 组织 起来 的 ?	[0, 0, 0]	NOT
+4503	how was the <nrp> spanish </nrp> colonial empire organised beforethe independence of mexico?	墨西哥 独立 前 , 西班牙 殖民 帝国 是 如何 组织 起来 的 ?	[0, 0, 0]	NOT
 7012	Your unblock template below says that the block was imposed by PeterSymonds; I've asked him to examine the situation.	下面 的 解锁 模板 表示 , 该 封锁 是 由 彼得 · 西蒙 德斯 强加 的 ; 我 已 要求 他 检查 情况 。	[1, 0, 1]	ERR
 74	Look ass Derek Fisher, Devin Brown, & Bow Wow are all facts. And another fact your are a BIATCH	迪 瑞克 · 费舍尔 、 德文 · 布朗 和 鲍 · 沃都 是 事实 , 另 一个 事实 就是 你 是 个 BIATCH	[0, 1, 1]	ERR
 3105	did not realize that he had only spoken with representatives of the Tokugawa Shogun	不 知道 他 只 和 徳川 将军 的 代表 谈过	[0, 0, 0]	NOT
@@ -939,7 +939,7 @@
 9477	I promise not to mess up user talk pages, I only will get a Wikipedia account.	我 保证 不会 乱搞 用户 聊天 页面 , 我 只能 获得 维基百科 帐户 .	[0, 0, 0]	NOT
 869	and there are already 4 heads of state to rule out the royal	现在 已经 有 4 位 国家元首 排除 了 王室	[0, 0, 0]	NOT
 1672	It seems that you've edited the page Gymnastices. We ask you to not do it again. Cheers,	看来 你 已经 编辑 了 《 体操 》 页 了 , 我们 请 你 不要 再 这样 做 了 。 祝贺 ,	[0, 1, 0]	NOT
-3127	You have not answered my question: How can <nrp> Arabs </nrp> be indigenous to Palestine if Jews lived there before them?	你们 没有 回答 我 的 问题 : 如果 <nrp> 犹太人 </nrp> 在 他们 之前 居住 在 巴勒斯坦 , 那么 <nrp> 阿拉伯人 </nrp> 怎能 成为 巴勒斯坦 的 土著人 呢 ?	[0, 0, 0]	NOT
+3127	You have not answered my question: How can <nrp> Arabs </nrp> be indigenous to Palestine if <nrp> Jews </nrp> lived there before them?	你们 没有 回答 我 的 问题 : 如果 <nrp> 犹太人 </nrp> 在 他们 之前 居住 在 巴勒斯坦 , 那么 <nrp> 阿拉伯人 </nrp> 怎能 成为 巴勒斯坦 的 土著人 呢 ?	[0, 0, 0]	NOT
 2918	this section & the one of avaliblity of funds seem like written by employees of this company.	这个 部分 和 基金 的 有效性 似乎 是 由 这家 公司 的 员工 写 的 。	[1, 0, 0]	NOT
 4743	Just FYI, I think (and hope) my email got through.	只是 个 小费 , 我 想 ( 而且 希望 ) 我 的 电子邮件 通过 了 。	[1, 0, 0]	NOT
 2349	I declare again that I am the owner of the copyright for this very image. I released the copyright before and declared this image public domain.	我 再次 声明 , 我为 这张 照片 的 版权 所有者 。 我 以前 发布 了 版权 , 并 宣布 这张 照片 为 公共 领域 。	[0, 0, 0]	NOT
@@ -958,7 +958,7 @@
 762	I'll support a full-scale ban. Ongoing WP:CIVIL, etc.	我会 支持 全面 禁令 , 持续 的 WP : CIVIL , 等等 。	[0, 0, 0]	NOT
 3473	Wikipedia doesn't allow that sort of content. Try [URL] if you need help with games.	维基百科 不 允许 这种 内容 。 如果 您 需要 帮助 游戏 , 请 尝试 [ URL ] 。	[0, 0, 0]	NOT
 4585	You're the gayest. And stupidest! You didn't block me.	你 最 性感 , 最 愚蠢 ! 你 没 挡住 我 。	[1, 0, 1]	ERR
-4792	You need to say sorry to all the fellow <nrp> Wikipedians </nrp> you offended!	你 需要 对 所有 你 冒犯 的 维基<nrp> 百科 </nrp> 同胞 表示歉意 !	[0, 0, 0]	NOT
+4792	You need to say sorry to all the fellow <nrp> Wikipedians </nrp> you offended!	你 需要 对 所有 你 冒犯 的 维基百科 同胞 表示歉意 !	[0, 0, 0]	NOT
 9875	An assertion like that needs to be reliably sourced.	这种 说法 需要 可靠 地 得到 来源 。	[0, 0, 0]	NOT
 62	as well as O'Connor's Journal of Biblical Literature Vol. 112, No. 2 statements mentioned above on this talk page,	以及 本 讲稿 页 上 提到 的 奥康纳 《 圣经 文学 杂志 》 第 112 卷 第 2 号 声明 ,	[0, 0, 0]	NOT
 4875	Not really coach Phillips has lead the Cowboys to a tie of their best season ever.	菲利普斯 并 没有 真正 带领 牛仔 队 进入 他们 最好 的 赛季 。	[0, 0, 1]	NOT
@@ -984,7 +984,7 @@
 5070	Category:Freeman wanted lobotomy to be a magical cure that would take the violence out of people (Goodman & Maggio, 2008).	类别 : 弗里 曼 希望 解剖 术 成为 一种 可以 将 暴力 从 人们 身上 带走 的 神奇 疗法 ( Goodman & Maggio , 2008 ) 。	[0, 0, 0]	NOT
 9779	i dont know, but i have heard me has also conerted to islam	我 不 知道 , 但 我 听说 我 也 会 背信 伊斯兰教	[1, 1, 1]	ERR
 5119	What extremism? That's simply your subjective point of view.	什么 极端主义 ? 那 只是 你 主观 的 观点 .	[0, 0, 0]	NOT
-240	which is latin or greek or some shit for who will gaurd the guards or in this case who will block the blockers.	用 拉丁语 或 希腊语 或 什么 东西 来 形容 谁 会 监视 警卫 , 或者 在 这个 情况 下 谁 会 阻挡 阻塞器 。	[0, 0, 1]	NOT
+240	which is <nrp> latin </nrp> or greek or some shit for who will gaurd the guards or in this case who will block the blockers.	用 拉丁语 或 希腊语 或 什么 东西 来 形容 谁 会 监视 警卫 , 或者 在 这个 情况 下 谁 会 阻挡 阻塞器 。	[0, 0, 1]	NOT
 9312	It's best for an encyclopaedia just to stick to the sources unless there is a serious problem with them.	对于 一本 百科全书 来说 , 最好 是 坚持 来源 , 除非 有 严重 的 问题 。	[0, 0, 1]	NOT
 2133	Isn't it galling to see how few people bother with wiki - can you really afford to block the few that do?	看到 很少 人 关心 维基 , 这 难道 不是 令人 胆怯 的 吗 -- 你 真的 可以 阻止 少数 人 吗 ?	[0, 1, 0]	NOT
 6021	This was not written by LRH, therefore is not canon to the Church of Scientology as per KSW (Keep Scientology Working)	这 不是 由 LRH 写 的 , 因此 根据 KSW ( Keep Scientology Working ) , 不是 科学 教会 的 典范	[3, 0, 0]	NOT

@@ -6,7 +6,7 @@
 4889	This Wikipedia article reads like a Donald Trump ad. Someone please add more neutral sources and quotes.	この ウィキペディア の 記事 は ドナルド ・ トランプ の 広告 の よう に 読 み ま す . 誰 か 、 より 多く の 中立 的 な ソース と 引用 を 追加 し て くださ い .	[0, 0, 0]	NOT
 335	for blanking the Welsh Ambulance Service page which I did by accident	偶然 ウェールズ 救急 車 の ページ を 空 に し ま し た	[1, 0, 0]	NOT
 3009	This site is rubbish and is possibly slanderous. I hope they get sued and closed down	この サイト は 廃棄 物 で あ り 、 恐らく 侮辱 的 で あ る 。	[1, 1, 1]	ERR
-4767	Who you are to tell anything about some nationalistic nonsense? smells very russian-soviet. don't disclose yourself agent KGB Vanya!	あなた は 、 いく つ か の ナショナリズム の ナンセンス に つ い て 何 か を 言 う ため に 誰 で す か ? 非常 に ロシア の <nrp> ソビエト </nrp> の 臭い で す 。	[0, 0, 0]	NOT
+4767	Who you are to tell anything about some nationalistic nonsense? smells very <nrp> russian-soviet </nrp>. don't disclose yourself agent KGB Vanya!	あなた は 、 いく つ か の ナショナリズム の ナンセンス に つ い て 何 か を 言 う ため に 誰 で す か ? 非常 に ロシア の ソビエト の 臭い で す 。	[0, 0, 0]	NOT
 9872	Here's an earlier one that I completely forgot about. This was back when I thought that you were dougweller.	これ は 私 が 完全 に 忘れ た 以前 の 1 つ で す これ は 私 が あなた が ドゥーグ ウェラー で あ る と 思 っ た とき で し た	[0, 0, 0]	NOT
 2473	your new picture looks like jimmy Wales without the beard	新し い 写真 は ジミー ・ ウェールズ みたい に ひげ なし	[0, 0, 0]	NOT
 8490	Jimmy Wales is not the sole founder of Wikipedia. Larry Sanger was his partner but was driven out after a falling out between the two.	ジミー ・ ウェールズ は ウィキペディア の 唯一 の 創設 者 で は あ り ま せ ん . ラリー ・ サンガー は 彼 の パートナー で し た , しかし 、 両者 の 間 に 落ち た 後 に 追い出 さ れ ま し た .	[0, 0, 0]	NOT
@@ -52,13 +52,13 @@
 824	If you would not agree to unblock me on this basis, I ask that you at least unblock me for the purpose of responding on ANI.	これ に 基づ い て 私 を ブロック 解除 する こと に 同意 し な い 場合 は 、 少な く とも ANI に 返信 する 目的 で 私 を ブロック 解除 し て くださ い 。	[0, 0, 0]	NOT
 7864	This is the point Richard Xx put it clearly. Why you do not want see simple truth? It is amazing how you can.	これ は 、 リチャード Xx が 明確 に 述べ た ポイント で す . なぜ あなた は 単純 な 真実 を 参照 し た く な い で す か ? それ は あなた が でき る 方法 が 驚 く べ き で す .	[0, 0, 0]	NOT
 3922	Eastern Armenia was a puppet-state of the <nrp> Parthians </nrp>	東 アルメニア は <nrp> パルシア 人 </nrp> の 操り 人形 国家 で し た	[0, 0, 0]	NOT
-1423	am I still blocked? WELL!?..im sorry i yelled Just then.	私 は まだ ブロック さ れ て い ま す か ? WELL ! ? . . im 申し訳 あ り ま せ ん 私 は ちょうど その 時 叫 ん だ 。	[0, 0, 0]	NOT
+1423	am I still blocked? WELL!?..im sorry i yelled Just then.	私 は まだ ブロック さ れ て い ま す か ? <nrp> WELL </nrp> ! ? . . im 申し訳 あ り ま せ ん 私 は ちょうど その 時 叫 ん だ 。	[0, 0, 0]	NOT
 7376	ROOM MATE IS IMMATURE AND I WILL CREATE A ACCOUNT	ルーム メート は イメージ で 、 アカウント を 作成 し ま す	[1, 1, 0]	ERR
 9296	Its in the NW in NSW Schools Rugby League. Thats enough of a qualifier.	それ は NSW 学校 ラグビー リーグ の NW で あ り ま す . それ は 予選 の 十分 で す .	[0, 0, 0]	NOT
 4093	YOU REALLY ARE COMPLETE BASTARDS. You only included that genre to spite me. How immature.	あなた は 本当 に 完璧 な スターツ で す . あなた は 、 私 に 嫌がらせ に その ジャンル を 含 ん だ . どの よう に 未熟 .	[1, 0, 0]	NOT
 7005	At the very least, this article deserves to go through an AfD process.	少な く とも 、 この 記事 は AfD プロセス を 通過 する 価値 が あ り ま す 。	[0, 0, 0]	NOT
 9556	As it is now, it still reads more like a narration than a summary. Wikipedia articles are not supposed to be novelizations of the film.	ウィキペディア の 記事 は 、 映画 の 小説 化 と は 考え られ ま せ ん 。	[0, 0, 0]	NOT
-5858	Bamafuck has to be stopped. Please help me keep the <nrp> Styx </nrp> pages integ intact!	バ マファック は 停止 する 必要 が あ り ま す . 私 を 助け て くださ い Styx ページ の 整数 を その まま に 保 つ !	[0, 0, 0]	NOT
+5858	Bamafuck has to be stopped. Please help me keep the Styx pages integ intact!	バ マファック は 停止 する 必要 が あ り ま す . 私 を 助け て くださ い Styx ページ の 整数 を その まま に 保 つ !	[0, 0, 0]	NOT
 3959	i am sorry but please get me more friends on roblox the only i have edited this time is because i dont know how to contact you	ごめん なさ い で も ロ ブロックス の 友達 を もっと 呼 ん で くださ い 今回 編集 し た の は 連絡 方法 が わか ら な い から	[0, 0, 0]	NOT
 5686	why is this done? I personal feel that this is information that might be needed but thats just my say!	なぜ ? 私 個人 的 に 、 これ は 必要 な か も しれ な い 情報 で あ る と 思 う が 、 それ は 私 の 言 う だけ の もの で す !	[0, 0, 0]	NOT
 3581	Currently the 2nd paragraph doesn't mention the countries of the inventors. So I would suggest: Uppsala (sweden) and Wiltshire (UK)	現在 の 第 2 段落 で は 、 発明 者 の 国々 は 言及 さ れ て い ま せ ん 。	[0, 3, 0]	NOT
@@ -83,7 +83,7 @@
 9816	And the reason for my acctions on Dave's userpage is because i suspect he is a sockpuppet.	そして 、 デイブ の ユーザー ページ で の 私 の アクティション の 理由 は 、 彼 が ソック パペット で あ る と 私 は 疑 っ て い る から で す 。	[0, 0, 0]	NOT
 6786	Yes, there are several, in fact! Please see the updated list for <nrp> Bosnian </nrp> queens, poetesses, writers, actresses, etc ...	はい 、 実際 に は いく つ か あ り ま す ! ボスニア の 女王 、 詩人 、 作家 、 女優 など の ため の 更新 さ れ た リスト を 参照 し て くださ い . . .	[0, 0, 0]	NOT
 9598	Just in case this account got hacked, I would have a backup. Also, you didn't answer my question: Who opened the sockpuppet investigation?	ちょうど こ の アカウント が ハッキング さ れ た 場合 , 私 は バックアップ を 持 っ て い ま す . また , あなた は 私 の 質問 に 答え ま せ ん で し た : 誰 が ソック パペット の 調査 を 開始 し ま し た ?	[0, 0, 0]	NOT
-4886	you are a liar , you are changing and stealing turkish history . please stop what you doing . regards	君 は 嘘つきだ 君 は トルコ の 歴史 を 変え 盗 ん で る やめ て くださ い	[0, 0, 0]	NOT
+4886	you are a liar , you are changing and stealing <nrp> turkish </nrp> history . please stop what you doing . regards	君 は 嘘つきだ 君 は トルコ の 歴史 を 変え 盗 ん で る やめ て くださ い	[0, 0, 0]	NOT
 5356	If you continue this onslaught you will be fucked in the ass without notice.	あなた が この 攻撃 を 続け る なら 、 あなた は 予告 なし に 尻 に ファック さ れ ま す 。	[0, 0, 0]	NOT
 8654	He was not carrying any weapon... a weapon was later found in a sock away from the scene. also if he had a weapon it would still be murder	彼 は 武器 を 持 っ て い な かっ た . . . 武器 は 後 に 現場 から 離れ た 靴下 に 発見 さ れ た 。 彼 が 武器 を 持 っ て い た と し て も それ は まだ 殺人 だ ろ う	[1, 0, 0]	NOT
 7024	Watch your edit summaries In case you didn't know, there are <nrp> British </nrp> and <nrp> American </nrp> spellings of English, both are appropriate on Wikipedia.	編集 概要 を 参照 し て くださ い 知 ら な い 場合 は 、 英語 の 英 と アメリカ 語 の スペル ティング が あ り 、 どちら も ウィキペディア に 適 し て い ま す 。	[0, 0, 0]	NOT
@@ -105,7 +105,7 @@
 8085	I'll gladly challenge that allegation. The history of the page speaks for itself.	私 は 喜 ん で その 主張 に 挑戦 し ま す . ページ の 履歴 は 、 それ 自体 を 話 す .	[0, 0, 0]	NOT
 1516	hakan şükür is an ethnic <nrp> Uzbek </nrp> Turk whose familiy was immigrated from Balkans, as he states so.	hakan şük ü r 氏 は <nrp> ウズベキスタン 人 </nrp> トルク 人 彼 の 家族 は バルカン から 移民 し た 彼 は そう 述べ て い ま す	[0, 0, 1]	NOT
 206	Sorry for vandalising the page. my friend did it. he thinks its funny.	す み ま せ ん ページ を 荒ら し ちゃ っ た ん で す 友達 が や っ た ん で す 面白 い と 思 う ん で す	[0, 0, 0]	NOT
-652	About citizenship Pietro Antonio Solari was neither swiss nor italian. In 1445 today's Tyssen was ruled by the Duke of Milan.	国籍 に つ い て ピエトロ ・ アントニオ ・ ソラリ は スイス も イタリア も あ り ま せ ん で し た . 144 5 今日 の ティッセン は ミラノ 公 に よ っ て 支配 さ れ ま し た .	[0, 1, 1]	ERR
+652	About citizenship Pietro Antonio Solari was neither <nrp> swiss </nrp> nor <nrp> italian </nrp>. In 1445 today's Tyssen was ruled by the Duke of Milan.	国籍 に つ い て ピエトロ ・ アントニオ ・ ソラリ は スイス も イタリア も あ り ま せ ん で し た . 144 5 今日 の ティッセン は ミラノ 公 に よ っ て 支配 さ れ ま し た .	[0, 1, 1]	ERR
 960	Oppose - Hanja and <nrp> Sino-Korean </nrp> vocabulary are CLEARLY distinctive categories, just like Romances languages and <nrp> Latin </nrp> should be separated.	反対 - 漢字 と 中韓語 の 語彙 は 明確 に 区別 さ れ る カテゴリ で す , ちょうど ローマ 語 と ラテン 語 が 分離 さ れ る べ き と 同じ よう に .	[0, 0, 0]	NOT
 2812	I moved it to the logical location. Again, why is a history of protectionism in an article on free trade?	再び 、 なぜ 自由 貿易 に 関 する 記事 に 保護 主義 の 歴史 が あ る の で しょ う か ?	[1, 0, 0]	NOT
 6708	Actually fuck it. You're all gay nerds who butt fuck each other. I'm gonna go get laid. Btw homos go to hell.	実際 に それ を ファック . あなた は 皆 、 お 互い を ファック ゲイ の ネルド で す . 私 は 、 レイド に 行 く つもり で す . ホモ は 地獄 に 行 く .	[1, 0, 1]	ERR
@@ -143,7 +143,7 @@
 8341	hahaha!!! one can only laugh at this user 'luftullah' knowledge of history	ハハハハ ! この ユーザー に 笑 う こと が でき ま す 'luftullah' 歴史 の 知識	[0, 0, 0]	NOT
 3915	Please stop linking the copyrighted image to the Icon for Hire article. We don't want to be sued.	著作 権 を 有 する 画像 を Icon for Hire の 記事 に リンク を 停止 し て くださ い 。	[0, 0, 0]	NOT
 3688	be and you being from nicaragua know that and that your country is the 2nd poorest country in the hemisphere and most corrupt write that in there	君 は ニカラグア 出身 で 君 の 国 が 半球 で 2 番 目 に 貧し い 国 で 最も 腐敗 し た 国 だ と 書 い て あ る	[0, 0, 0]	NOT
-3857	Jews are an ethnicity. Please don't post ignorant comments denying we are.	<nrp> ユダヤ 人 </nrp> は 民族 で す . 私 たち は 否定 する 無知 な コメント を 投稿 し な い で くださ い .	[0, 1, 0]	NOT
+3857	<nrp> Jews </nrp> are an ethnicity. Please don't post ignorant comments denying we are.	<nrp> ユダヤ 人 </nrp> は 民族 で す . 私 たち は 否定 する 無知 な コメント を 投稿 し な い で くださ い .	[0, 1, 0]	NOT
 9303	The entire page is a violation of NPOV. It is bought, paid for and monitored for the purposes of promoting the subject material.	ページ 全体 は NPOV の 違反 で す . それ は 、 購入 さ れ 、 支払 わ れ 、 主題 の 材料 を 促進 する 目的 で 監視 さ れ て い ま す .	[0, 0, 0]	NOT
 1027	Well, at least now we know you are neither an honest nor truthful person. But, then, I suspect you already know that.	まあ 、 少な く とも 今 、 我々 は あなた が 正直 な 人 で も 真実 な 人 で も な い こと を 知 っ て い る 。	[1, 0, 1]	ERR
 4338	Edit summaries Please ensure that you are using accurate edit summaries, rather than something misleading. Thanks,	要約 の 編集 誤解 を 招 く もの で は な く 、 正確 な 要約 の 編集 を 使用 し て い る こと を 確認 し て くださ い 。	[0, 0, 0]	NOT
@@ -219,7 +219,7 @@
 5185	I can't do it as the article is oddly locked down.	記事 が 奇妙 に ロック さ れ て い る の で 、 私 は それ を 行 う こと は でき ま せ ん 。	[0, 0, 0]	NOT
 9478	There's more, look at the Top Spin £ UK, site, says there'll be more soon.	もっと あ り ま す , トップ スピン £ 英国 を 見 て くださ い , サイト , すぐ に もっと あ り ま す 。	[0, 0, 0]	NOT
 6586	My penis is 8 inch long.I will give you satisfaction.	私 の ペニス は 長 さ 8 インチ で す 。	[0, 0, 0]	NOT
-3494	I will revert Ebusiness vandalism in January 2014 and there's nothing you can do, Ebusiness retard.	私 は 2014 年 1 月 に Ebu siness の 破壊 行為 を 取り戻 し ま す 。 そして 、 Ebu siness の 遅延 は 何 も でき ま せ ん 。	[0, 0, 0]	NOT
+3494	I will revert Ebusiness vandalism in January 2014 and there's nothing you can do, <nrp> Ebusiness </nrp> retard.	私 は 2014 年 1 月 に Ebu siness の 破壊 行為 を 取り戻 し ま す 。 そして 、 Ebu siness の 遅延 は 何 も でき ま せ ん 。	[0, 0, 0]	NOT
 7457	because i have Adult ADHD and i cant read terms and wiki editors hurts me every time they delete my edits.	私 が 成人 ADHD を 持 っ て い る の で 、 私 は 条件 を 読 む こと が でき な い し 、 ウィキ 編集 者 は 私 の 編集 を 削除 する たび に 私 を 傷つけ ま す 。	[0, 1, 0]	NOT
 5933	For your own safety, please do not post personal information to your userpage. The internet is a dangerous place.	インターネット は 危険 な 場所 で す 。	[0, 0, 0]	NOT
 1607	I've cleaned up the image tag as fair use, so it should be OK.	私 は 公平 な 使用 と し て イメージ タグ を きれい に し ま し た の で 、 それ は 大丈夫 で す 。	[0, 0, 0]	NOT
@@ -234,7 +234,7 @@
 7523	The article needs a lot of tlc, it would be hard to make it worse and probably easy to improve it. Just go for it.	記事 は tlc の 多く を 必要 と し ま す , それ は それ を 悪化 さ せ る の は 難し い で しょ う し 、 おそらく それ を 向上 さ せ る の は 簡単 で す . ちょうど それ の ため に 行 き ま す .	[0, 0, 0]	NOT
 5184	It's too bad that YouTube and DVD can't play anything faster than 30 fps.	YouTube と DVD が 30 fps より 速 く 再生 でき な い の は 残念 で す 。	[0, 1, 0]	NOT
 8584	Angrynintendo nerd isnt notable? Go fuck yourself	Angrynintendo nerd isnt notable ? あなた 自身 を ファック する	[1, 1, 0]	ERR
-6919	That only works if you can disprove the (albeit tentative) evidence that the Picts were themselves Celts.	それ は 、 ピクト 達 が セルト 達 で あ っ た と い う 証拠 を ( 試み ながら も ) 否定 でき る 場合 に のみ 有効 で す 。	[0, 0, 0]	NOT
+6919	That only works if you can disprove the (albeit tentative) evidence that the <nrp> Picts </nrp> were themselves <nrp> Celts </nrp>.	それ は 、 <nrp> ピクト </nrp> 達 が セルト 達 で あ っ た と い う 証拠 を ( 試み ながら も ) 否定 でき る 場合 に のみ 有効 で す 。	[0, 0, 0]	NOT
 8102	It already has a section anyway so why is all the information not in its section?	それ は すでに セクション を 持 っ て い る の で 、 なぜ すべて の 情報 が その セクション に な い の で しょ う か ?	[0, 0, 0]	NOT
 1292	we use many instruments and gagets also. but we dont think - after 20 years our earth is empty of living things.	我々 は 多く の 楽器 や ガジェット も 使用 する 。 しかし 、 20 年 後 、 私 たち の 地球 は 生き物 の 空 で あ る と 考え ま せ ん 。	[0, 0, 1]	NOT
 5310	I am presently at Ryerson taking Early Childhood Education	私 は 現在 Ryerson で 幼児 教育 を 受け て い ま す	[0, 0, 0]	NOT
@@ -245,7 +245,7 @@
 3835	i dont care anymore i am going to continue unless there is justice bye	もう 気 に し な い 正義 が な けれ ば 続け ま す さようなら	[0, 1, 0]	NOT
 8976	absolutely I would I dont fully know how to do some stuff on here and it would help me.	確か に 私 は 完全 に ここ で いく つ か の もの を する 方法 を 知 っ て い な い だ ろ う し 、 それ は 私 を 助け る だ ろ う 。	[0, 0, 0]	NOT
 7986	Their not bad their blocking cuz their liberal >:-)	彼 ら は 彼 ら の リベラル だ から 、 彼 ら の ブロック を 悪 く な い > :-)	[0, 0, 0]	NOT
-8592	starts. Feel free to remove this notice once the RfA has been transcluded. >	RfA が 除外 さ れ る と 、 この 通知 を 削除 する こと が でき ま す 。 >	[0, 0, 0]	NOT
+8592	starts. Feel free to remove this notice once the <nrp> RfA </nrp> has been transcluded. >	RfA が 除外 さ れ る と 、 この 通知 を 削除 する こと が でき ま す 。 >	[0, 0, 0]	NOT
 192	Red Act is a complete nutcase who keeps stalking me and reverting any edit I make.	レッド ・ アクト は 私 を ストーキング し 、 私 が 作 る すべて の 編集 を リバート する 完全 な 狂人 で す 。	[0, 0, 0]	NOT
 87	There are no items in this FAQ at the present time	現 時点 で この FAQ に は 項目 が あ り ま せ ん	[0, 0, 0]	NOT
 4525	Here is a good summary of the problems with the Killian memos: []	ここ で は 、 Killian メモ と の 問題 の 良 い 要約 で す : [ ]	[0, 0, 0]	NOT
@@ -263,13 +263,13 @@
 4107	featured for his songwriting in Rolling Stone Magazine in regards to him being	ローリング ・ ストーン ・ マガジン の 彼 の 作曲 に 登場 し ま し た	[0, 0, 0]	NOT
 6406	thanks but i think I do not think it will go and fix that the images are too big? am I wrong?	ありがとう で も 、 私 は それ が 行 く と 画像 が 大き すぎ る こと を 修正 する と 思 い ま す か ?	[1, 1, 1]	ERR
 1191	REDIRECT Talk:People's Republic of China–Lesotho relations	リダイレクト トーク : 中華 人民 共和 国 ・ レソト 関係	[0, 0, 0]	NOT
-6761	<nrp> Pretende </nrp> asimilarse a Lisandro Delatorre, pero mas se parece a Corzo Gomez.	リザンドロ ・ デラターレ を 同化 さ せ る , pero mas se parece a Corzo Gomez . リザンドロ ・ デラターレ を 同化 さ せ る , pero mas se parece a Corzo Gomez.	[0, 2, 0]	NOT
+6761	Pretende asimilarse a Lisandro Delatorre, pero mas se parece a Corzo Gomez.	リザンドロ ・ デラターレ を 同化 さ せ る , pero mas se parece a Corzo Gomez . リザンドロ ・ デラターレ を 同化 さ せ る , pero mas se parece a Corzo Gomez.	[0, 2, 0]	NOT
 5704	Is that not a true description on a booger, if not then prove to me what is!	それ は 、 もし そう で な けれ ば 、 私 に 何 で あ る か を 証明 する ボガー 上 の 真 の 説明 で は あ り ま せ ん !	[0, 0, 0]	NOT
 1296	how was that vandalism and who do you think you are? the owner of wikipedia?	どう し た の ? ウィキペディア の オーナー ?	[1, 1, 1]	ERR
 398	he is iran national team vooleyball palayer so he is famous 	アイラン 代表 ヴォーリー ボール パレー ヤー だ から 有名 で す	[1, 1, 1]	ERR
 6038	Sounds like it's time for a new entry: Wikipedia Cabal (There Is No Cabal)! (Yes, I'm being sarcastic.)	新し い エントリー の 時 が 来 た よう で す : ウィキペディア ・ キャバル ( キャバル は あ り ま せ ん ) ! ( はい 、 私 は 冗談 で す 。	[0, 0, 0]	NOT
 2865	fuck you atlan. fuck you and your fucking bullshit. go suck some dick BITCH! carmegenon	ア トラン クソ 野郎 クソ 野郎 クソ 野郎	[1, 1, 0]	ERR
-8922	It seems that AE defend anything - including vandalism- that helps him to promote his personal <nrp> PoVs </nrp>.	AE は 、 彼 が 個人 的 な PoV を 促進 する の に 役立 つ 何 か を 弁護 する よう だ - 破壊 行為 を 含 む - 。	[0, 0, 0]	NOT
+8922	It seems that AE defend anything - including vandalism- that helps him to promote his personal PoVs.	AE は 、 彼 が 個人 的 な PoV を 促進 する の に 役立 つ 何 か を 弁護 する よう だ - 破壊 行為 を 含 む - 。	[0, 0, 0]	NOT
 7396	Are you kidding me right now. Is this a joke. He is quoting the book and you dismiss it. YOU ARE FUCKING BLIND	あなた は 今 私 を 冗談 し て い る . これ は 冗談 で す . 彼 は 本 を 引用 し 、 あなた は それ を 放棄 し て い ま す . あなた は 愚か で す	[0, 0, 1]	NOT
 7970	So Richard Halliburton's homosexuality is rather clear.	リチャード ・ ハリ バートン の 同性 愛 は かなり 明らか で す	[0, 0, 0]	NOT
 4313	Thanks for coming i am new to wikipedia and i was wonduring how do i move or create a contents table	来 て くれ て ありがとう 私 は ウィキペディア に 新し く 、 私 は どの よう に 移動 する か 、 また は コンテンツ テーブル を 作成 する か を 耐え ま し た	[0, 1, 0]	NOT
@@ -301,13 +301,13 @@
 5533	I suggest to move our talk about [Guoyue to talk: Guoyue -	[ Guoyue : Guoyue に つ い て 話 を する : Guoyue -	[0, 0, 0]	NOT
 3035	southern United States, probably edits at wikipedia between banjo sessions.	アメリカ 合衆 国 南部 で は おそらく ウィキペディア で バンジョ の セッション の 間 を 編集 し て い ま す	[0, 0, 0]	NOT
 5922	The matter seems to be settled. Please add under External links: * [[URL] Taliban's website (English)] (source: [9])	問題 は 解決 し た よう で す 。 外部 リンク の 下 に 追加 し て くださ い : * [ [ URL ] タリバン の ウェブサイト ( 英語 ) ( ソース : [ 9 ] )	[0, 0, 0]	NOT
-2617	Absolutely correct <nrp> Yas </nrp>, I propose to disgregard Jayjg's latest garbage and get the POV check anyway.	絶対 に 正し い ヤス 、 私 は ジェイジー の 最新 の ゴミ を 無視 し 、 とにかく POV チェック を 取得 する こと を 提案 し ま す 。	[0, 0, 0]	NOT
+2617	Absolutely correct Yas, I propose to disgregard Jayjg's latest garbage and get the POV check anyway.	絶対 に 正し い ヤス 、 私 は ジェイジー の 最新 の ゴミ を 無視 し 、 とにかく POV チェック を 取得 する こと を 提案 し ま す 。	[0, 0, 0]	NOT
 5337	The results won't change no matter what the comments are, and no other links are available to the their origin.	コメント が 何 で あ る か に かかわ ら ず 、 結果 は 変更 さ れ ず 、 他 の リンク は それ ら の 起源 に 利用 可能 で す 。	[0, 0, 0]	NOT
 4039	The memory of those great <nrp> Romanian </nrp> anti-communists will not be forgotten!	これ ら の 偉大 な ルーマニア の 反共 主義 者 の 記憶 は 忘れ られ な い で しょ う !	[0, 0, 0]	NOT
 8088	I strongly suspect that jakew and Robert the Bruce are the same person.	ジェイク と ロバート ・ ザ ・ ブルース は 同じ 人物 で あ る と 強 く 疑 っ て い ま す 。	[0, 0, 0]	NOT
 9805	ok when were u born? , wats ya real name, and ummm what do u like, and wat do u like to do beside edit wikipedia?..=]	ok いつ 生まれ ま し た か ? , あなた の 本当 の 名前 は ? , あなた は 何 が 好き で す か ? , あなた は ウィキペディア の 編集 の 横 に 何 を し た い で す か ? . . = ]	[0, 0, 0]	NOT
 9735	THE SAS artilce was completely innacurate and it needed to be rewriten, im sorry but you are wrong - b1link82	SAS artilce は 完全 に 不 正確 で あ り 、 書き直 さ な けれ ば な ら な かっ た 、 私 は 申し訳 あ り ま せ ん が 、 あなた は 間違 っ て い ま す - b 1link 82	[0, 0, 0]	NOT
-5152	Islam is racist it kills people that resist it. Like the Cybermen it is convert or die and if you resist instant death.	<nrp> イスラーム </nrp> は 人種 差別 的 で あ り 、 それ に 抵抗 する 人々 を 殺 し ま す 。	[0, 0, 0]	NOT
+5152	<nrp> Islam </nrp> is racist it kills people that resist it. Like the Cybermen it is convert or die and if you resist instant death.	<nrp> イスラーム </nrp> は 人種 差別 的 で あ り 、 それ に 抵抗 する 人々 を 殺 し ま す 。	[0, 0, 0]	NOT
 9346	By the way Collectonian - I'm a HE not a SHE. If it makes any difference at this point.	ところ で コレクトニアン - 私 は HE で は あ り ま せ ん HE で す . それ が この 時点 で 違い を 生み出 す 場合 .	[0, 0, 0]	NOT
 6214	This tag seems a bit racist don't you think? Useless article, and it seems quite prejiduced. Request for deletion.	この タグ は 少し 人種 差別 的 な よう で す あなた は 考え ま せ ん か ? 無用 な 記事 , そして 、 それ は かなり 事前 に 判断 さ れ ま す . 削除 の 要請 .	[0, 0, 0]	NOT
 6475	IT should bee mentioned that planck is the author of the formula E=hf!	IT は 、 プランク が 式 E = hf の 著者 で あ る こと を 述べ る べ き で す !	[0, 0, 0]	NOT
@@ -318,7 +318,7 @@
 6055	His Deputy is always a <nrp> Canadian </nrp> Forces officer. (It is possible that a U.S. admiral has commanded NORAD a few times.)	彼 の 副官 は 常 に カナダ 軍 の 士官 で あ る ( アメリカ 海軍 大佐 が 数 回 NORAD を 指揮 し た 可能 性 も あ る ) 。	[0, 0, 0]	NOT
 2504	Why? Their not heavy metal. Can't you just accept that?	なぜ で す か ? 彼 ら は ヘビー メタル で は あ り ま せ ん 。	[1, 0, 0]	NOT
 5419	Because we are unsure what is happening with Thriller 25 at the moment, we can add the tag when all is resolved.	Thriller 25 で 何 が 起き て い る の か わか ら な い の で 、 すべて が 解決 し た ら タグ を 追加 でき ま す 。	[0, 0, 0]	NOT
-7566	Did not know white men like Sitush also live in Ghaziabad, UP.	ウォリシュ の よう な <nrp> 白人 </nrp> 男性 も 、 ガジア バード 、 UP に 住 ん で 知 ら な かっ た 。	[1, 1, 0]	ERR
+7566	Did not know white men like Sitush also live in Ghaziabad, UP.	ウォリシュ の よう な 白人 男性 も 、 ガジア バード 、 UP に 住 ん で 知 ら な かっ た 。	[1, 1, 0]	ERR
 3848	i think it has to have more detail about the duties as a part of the state	国家 と し て の 義務 に つ い て もっと 詳し く 説明 し て 欲し い と 思 い ま す	[1, 0, 0]	NOT
 8011	Would definitely work better with you Pugidsound The Rat King	Pugidsound ザ ・ ラット ・ キング	[0, 0, 0]	NOT
 6983	No, here in the North of England we are such a bunch of degraded beings that we murder animals for amusement before each rugby game. Wake up.	いや 、 ここ イングランド の 北部 で は 、 我々 は 、 すべて の ラグビー ゲーム の 前 に 、 娯楽 の ため に 動物 を 殺 す ほど 堕落 し た 生物 の 群れ で す 。	[0, 0, 0]	NOT
@@ -339,7 +339,7 @@
 2827	REDIRECT Talk:1912 All-Ireland Senior Football Championship	REDIRECT Talk : 1912 オール アイルランド ・ シニア フットボール 選手 権	[0, 0, 0]	NOT
 9213	Mention should be made of the DVS Shoe Company, who makes assorted skate clothing and gear.	DVS シューズ カンパニー は 、 様々 な スケート 衣装 と ギア を 製造 し て い ま す 。	[0, 0, 0]	NOT
 7916	I'd suggest an item like an Athame, or a group of the like an altar, or maybe a photo/drawing of a ritual.	アタメ の よう な 物 や 、 祭壇 の よう な グループ 、 あるいは 儀式 の 写真 / 描画 の よう な もの を 提案 し ま す 。	[0, 0, 0]	NOT
-8339	The article is constantly vandalized by ukrainian nationalists, needs discussion	記事 は 常 に ウクライナ の ナショナリスト に よ っ て 破壊 さ れ 、 議論 が 必要 で す	[0, 0, 0]	NOT
+8339	The article is constantly vandalized by <nrp> ukrainian </nrp> nationalists, needs discussion	記事 は 常 に ウクライナ の ナショナリスト に よ っ て 破壊 さ れ 、 議論 が 必要 で す	[0, 0, 0]	NOT
 1720	excuse us, we have a school based ip address and immature peers are changing your website. we are sorry for this inconvenience.	ごめん なさ い 学校 の IP アドレス が あ り 未熟 の 仲間 が あなた の ウェブサイト を 変更 し て い ま す ごめん なさ い	[0, 0, 0]	NOT
 8041	Usually critical success and box office success are two separate things	通常 、 重要 な 成功 と 興行 収入 の 成功 は 2 つ の 独立 し た 事柄 で す	[0, 0, 0]	NOT
 2256	It was anonymous on accident, and FYI, I'm not a troll moron.	事故 で 匿名 で 、 私 は トロール の 愚か 者 で は あ り ま せ ん 。	[1, 0, 0]	NOT
@@ -353,7 +353,7 @@
 6040	The first equation in [URL] can't be right... I'm pretty sure it should be v^2 not c^2.	[ URL ] の 最初 の 方程 式 は 正し く な い . . . v ^ 2 で は な く c ^ 2 で あ る べ き だ と 私 は かなり 確信 し て い ま す 。	[0, 0, 0]	NOT
 4664	hi,idiot, why are you delate my talking, just come out say	おい バカ 何 で 俺 の 話 を 遅らせ て る ん だ ?	[0, 0, 0]	NOT
 400	I only provoked edit war again, thus I give up. Maybe you will help.	私 は 再び 戦争 を 編集 する だけ を 挑発 し た の で 、 私 は 諦め ま す 。	[1, 0, 0]	NOT
-2763	Talk:Nigger Please stop your disruptive editing. If you continue to vandalize Wikipedia, you will be blocked from editing.	Talk : Nigger 編集 を 中断 し て くださ い . ウィキペディア を 破壊 し 続け る と , 編集 から ブロック さ れ ま す .	[0, 0, 0]	NOT
+2763	Talk:<nrp> Nigger </nrp> Please stop your disruptive editing. If you continue to vandalize Wikipedia, you will be blocked from editing.	Talk : Nigger 編集 を 中断 し て くださ い . ウィキペディア を 破壊 し 続け る と , 編集 から ブロック さ れ ま す .	[0, 0, 0]	NOT
 223	Also - Essential Amino Acids seems to suggest that beef is an incomplete animal protein. Thoughts?	また - 必須 アミノ 酸 は 牛肉 が 不 完全 な 動物 性 タンパク 質 で あ る こと を 示唆 し て い る よう で す 。	[1, 0, 0]	NOT
 7501	JAMES THE AWESOME TECHNICIAN did create the e-learnign centre. ASSHOLE	JAMES THE AWESOME TECH NICIAN は e - learnign センター を 作成 し ま し た 。	[0, 0, 1]	NOT
 1263	go kill yourself, nobody cares about standardization	自分 を 殺 し て 誰 も 標準 化 を 気 に し な い	[0, 0, 0]	NOT
@@ -375,7 +375,7 @@
 5518	PLease notem that for straightforward answers leave it 5 days before tagging. Page deletions and gross vanadalism maybe less.	ページ の 削除 と 粗 い バナダリズム は 、 おそらく 少な い 。	[0, 0, 0]	NOT
 6888	Search on wikipedia, or maybe you should play less shitball (football) -_- Rick Shan	ウィキペディア で 検索 する か 、 おそらく あなた は より 少な い shitball ( フットボール ) -_- リックシャン を プレイ する 必要 が あ り ま す	[0, 1, 0]	NOT
 2624	Sorry Clavdia, I believed that you were <nrp> American </nrp>.	ごめん Clavdia 、 私 は あなた が <nrp> アメリカ 人 </nrp> だっ た と 信 じ ま し た 。	[0, 0, 0]	NOT
-6633	you're so idi.o.t, so st.u.p.id guy, fu.c.k.i.n.g portuguese, i ha.te the <nrp> portugueses </nrp>	あんた は イディオット で スティーブ で ポルトガル 人 だ から <nrp> ポルトガル 人 </nrp> を 憎 む	[3, 0, 0]	NOT
+6633	you're so idi.o.t, so st.u.p.id guy, fu.c.k.i.n.g portuguese, i ha.te the portugueses	あんた は イディオット で スティーブ で ポルトガル 人 だ から <nrp> ポルトガル 人 </nrp> を 憎 む	[3, 0, 0]	NOT
 7795	Full Bullshit. I HAVE provide over a dozen references NONE OF WHICH are acceptable to paid whore.	完全 な クソ . 私 が 提供 し て い ま す 12 以上 の 参照 誰 が 支払 わ れ た 売春 婦 に 受け入れ られ る .	[1, 1, 1]	ERR
 7124	Coincidentally, I've found no other mentions of 'Thrashers' in any information about the game, nor the game itself.	偶然 に も 、 ゲーム に 関 する 情報 や ゲーム 自体 に 「 Thrashers 」 の 他 の 言及 は 見つか っ て い ま せ ん 。	[0, 0, 0]	NOT
 5438	Agnes Moorehead was listed as having lung cancer. In her bio it states that she died of Uterine Cancer, fixed.	アグネス ・ ムー ヘッド は 肺癌 を 患 っ て い る と 記録 さ れ て い ま す . 彼女 の バイオ で は 、 彼女 は 子宮 癌 で 死亡 し た と 述べ て い ま す , 固定 .	[0, 0, 0]	NOT
@@ -388,7 +388,7 @@
 8068	that the region specific information is no longer acurate (if it ever was, I don't know), and should probably be re-written.	地域 固有 の 情報 は もう 鋭 く な い と い う こと で す ( もし あ っ た ら 分か り ま せ ん ) おそらく 書き直 さ れ る べ き で す	[0, 0, 0]	NOT
 5263	This Needs to be merged with Pyramidal cell and a redirect to the page enabled. -	これ は ピラミッド セル と マージ さ れ 、 ページ へ の リダイレクト が 有効 に な り ま す 。	[0, 0, 0]	NOT
 3696	Best to leave my additions to the RDs alone. Unless you want your pages severly and continually modified. Understand? 8-))	あなた の ページ を 厳し く 、 継続 的 に 変更 し た い 場合 を 除き . 理解 する ? 8 - ) )	[0, 0, 0]	NOT
-5681	no Caucasus, no former <nrp> Soviet Islamic </nrp> republics, no Pakistan	カウ カサス も 旧 ソ連 の イスラム 共和 国 も パキスタン も	[0, 3, 0]	NOT
+5681	no <nrp> Caucasus </nrp>, no former <nrp> Soviet </nrp> <nrp> Islamic </nrp> republics, no Pakistan	カウ カサス も 旧 ソ連 の イスラム 共和 国 も パキスタン も	[0, 3, 0]	NOT
 6191	Good job Elonka, keep driving the unionists down. Tiocfaidh Ar La.	良 い 仕事 エロンカ 、 労働 組合 員 を 下 に 運転 し 続け る 。	[0, 0, 0]	NOT
 8776	Douchebag is a washed up has been who is mostly a crackhead bitch.	Douchebag は 洗浄 さ れ 、 ほとんど が クレイク ヘッド の ビッチ さ れ て い る 。	[0, 1, 1]	ERR
 5130	Please participate in the page's Discussion page to vote for whether you feel it is a compilation or a studio album.	この ページ の ディスカッション ページ に 参加 し て 、 コンピレーション や スタジオ ・ アルバム で あ る か 否 か を 投票 し て くださ い 。	[0, 0, 0]	NOT
@@ -402,7 +402,7 @@
 2630	I FIND IT DIFFICULT TO CONTROL MY EMOTIONS and I still feel that Mr Logy Wogy was bad.	私 の 感情 を 制御 する こと は 難し い と 私 は まだ ロギー ・ ウージー 氏 が 悪 かっ た と 感 じ て い ま す 。	[0, 0, 0]	NOT
 2517	BTW I live in the Boston area and the Inside Track is just the local version of the National Enquierer(sp) and is NOT a relable source.	確か に 私 は ボストン 地域 に 住 ん で お り 、 インサイド トラック は National Enquierer ( sp ) の ローカル バージョン で あ り 、 リレーブル ソース で は あ り ま せ ん 。	[0, 0, 0]	NOT
 8913	F-35 is not capable of supercruise. More infos: [URL]	F - 35 は スーパー クルーズ でき ま せ ん 。	[1, 0, 0]	NOT
-5730	you attacked me but hey wateva ur all against me anyway so why bother fighting on, just let me ask you this, are you german in origin....	お前 は 俺 を 攻撃 し た が おい ワテバ とにかく 俺 に 反対 する ん だ だ から なん で 戦 う ん だ ? これ 聞 い て くれ ドイツ 出身 か . . . 。	[0, 0, 0]	NOT
+5730	you attacked me but hey wateva ur all against me anyway so why bother fighting on, just let me ask you this, are you <nrp> german </nrp> in origin....	お前 は 俺 を 攻撃 し た が おい ワテバ とにかく 俺 に 反対 する ん だ だ から なん で 戦 う ん だ ? これ 聞 い て くれ ドイツ 出身 か . . . 。	[0, 0, 0]	NOT
 9767	HELLO anon IP. The place for discussion is HERE! NOT insisting on edit-warring. —	HELLO anon IP . ディスカッション の 場所 は ここ で す ! 編集 戦争 を 主張 し ま せ ん . —	[0, 0, 0]	NOT
 959	You're just a vandal You are not helping Wikipedia with all your blatant vandalizations of Warner Bros. cartoons. Leave and never return, please.	あなた は ただ の ヴァンダル で す あなた は ワーナー ブラザーズ の 漫画 の すべて の 明白 な ヴァンダル 化 で ウィキペディア を 助け て い ま せ ん . 離れ て 、 決して 戻 ら な い で くださ い .	[0, 0, 0]	NOT
 6795	A vast improvement from the old, and thanks for your constructive criticisms — it helped me improve. )	古 い もの から 大幅 な 改善 、 そして あなた の 建設 的 な 批判 に 感謝 - それ は 私 を 改善 する の に 役立 ち ま し た 。	[0, 0, 0]	NOT
@@ -418,7 +418,7 @@
 5852	its funny how Zora keeps over looking this transgression.	ゾラ が この 過ち を 見つめ 続け る の は おかし く ね	[0, 0, 0]	NOT
 5583	I made clear Trabzon as <nrp> Turkish </nrp> name of the city. Because the city not located in Greece	私 は 、 トルコ の 都市 の 名前 と し て トラブ ソン を 明確 に し ま し た . なぜ なら 、 都市 は 、 ギリシャ に 位置 し な い から で す	[0, 0, 0]	NOT
 212	I know and every-one here knows that you will fight them off as much as you can. But, in the end Real Value Accounting will appear on Wikipedia.	私 は 知 っ て い る し 、 ここ に い る 誰 も が あなた が でき る 限り それ ら を 戦 う だ ろ う こと を 知 っ て い る . しかし 、 最後 に Real Value Accounting ウィキペディア に 表示 さ れ ま す .	[0, 0, 1]	NOT
-9632	REDIRECT Talk:Heather Clark (American Journalist)	リダイレクト トーク : ヘザー ・ クラーク ( <nrp> アメリカン ジャーナリスト </nrp> )	[0, 0, 0]	NOT
+9632	REDIRECT Talk:Heather Clark (<nrp> American </nrp> Journalist)	リダイレクト トーク : ヘザー ・ クラーク ( <nrp> アメリカン </nrp> ジャーナリスト )	[0, 0, 0]	NOT
 1904	into the 'outside world' (e.g. outside of your bedroom)	「 外 の 世界 」 へ ( 例えば 寝室 の 外 へ )	[0, 0, 0]	NOT
 6129	It's a character in Disney's Mu Lan movie. See:[URL]	ディズニー の ムーラン 映画 の キャラクター で す 。	[0, 0, 0]	NOT
 8988	Wikipedia, <nrp> Nazis </nrp> controlling the flow of information.	ウィキペディア 、 ナチス は 情報 の 流れ を 制御 し ま す 。	[0, 0, 0]	NOT
@@ -427,7 +427,7 @@
 5956	Gwernol likes prostate massage by his local Congressman	Gwernol は 地元 の 議員 に よ る 前立 腺 マッサージ が 好き で す	[0, 0, 0]	NOT
 1057	Can you help the article Silent Note that it wont get deleted	Silent が 削除 さ れ な い と い う 記事 に 役立 ち ま す か ?	[1, 0, 1]	ERR
 5177	Oh ok! Im v sorry. Will be careful in future, thanks. Hilda Khan	ああ 、 大丈夫 で す ! Im v ごめん なさ い 。	[1, 0, 1]	ERR
-460	REDIRECT Talk:Indigenous inhabitants of the New Territories (Hong Kong)	リダイレクト トーク : 新領域 の <nrp> 原住民 ( </nrp> 香港 )	[0, 0, 0]	NOT
+460	REDIRECT Talk:Indigenous inhabitants of the New Territories (Hong Kong)	リダイレクト トーク : 新領域 の <nrp> 原住民 </nrp> ( 香港 )	[0, 0, 0]	NOT
 3955	Love cannot be properly defined. And love, in the purest of forms, contains lust.	愛 は 正し く 定義 する こと は でき ま せ ん 。 そして 愛 は 、 最も 純粋 な 形態 で 、 欲求 を 含 ん で い ま す 。	[0, 0, 0]	NOT
 8418	you were wrong to delete Diahn williams. Acting in the Andy Griffin show and kissing Don Knotts makes her a notable person.	アンディ ・ グリフィン の ショー で 演 じ て ドン ・ ノッツ を キス し て 彼女 を 注目 す べ き 人物 に し ま す	[0, 0, 0]	NOT
 4042	Who cares, read the page on Talk:Julio_Cortázar and see what other people are saying. Peace. ( )	誰 が 気 に する か 、 Talk : Julio _ Cortázar の ページ を 読 み 、 他 の 人々 が 何 を 言 っ て い る か を 確認 し て くださ い 。	[0, 0, 0]	NOT
@@ -461,9 +461,9 @@
 6588	Can someone add the URL to the ANSI standard ? Many thanks -	誰 か が ANSI 標準 に URL を 追加 でき ま す か ?	[0, 0, 0]	NOT
 5234	But that doesn't have much to do with how bad the movie itself is. This is a list of movies with the poorest quality, not the worst snowball effect.	しかし 、 これ は 映画 自体 が どれ ほど 悪 い か と は あまり 関係 あ り ま せ ん . これ は 、 最悪 の 品質 の 映画 の リスト で す , 最悪 の 雪球 効果 で は あ り ま せ ん .	[0, 0, 0]	NOT
 6029	Ok, i got a little furious.Notice i made the article.	OK , 私 は 少し 怒 り ま し た . 私 が 記事 を 作 っ た こと に 注意 し て くださ い .	[0, 0, 0]	NOT
-3355	Don't change Dicks in the middle of a screw Vote for Nixon in '72	ネジ の 中 に あ る ディックス を 変え な い 72 年 の ニクソン へ の 投票	[0, 0, 0]	NOT
+3355	Don't change <nrp> Dicks </nrp> in the middle of a screw Vote for Nixon in '72	ネジ の 中 に あ る ディックス を 変え な い 72 年 の ニクソン へ の 投票	[0, 0, 0]	NOT
 4161	To say allah is God is POV. Many people hold the view that allah is in fact Satan masquerading as God.	アッラー は 神 で あ る と 言 う こと は POV で す . 多く の 人々 は 、 アッラー は 、 実際 に は サタン が 神 と し て 仮装 さ れ て い る と い う 見解 を 持 っ て い ま す .	[0, 0, 0]	NOT
-5603	in the LDS Church. It's undisputed that he was originally ordained in the Rigdonite organization	<nrp> LDS 教会 </nrp> で 彼 は <nrp> リグドニ 派 </nrp> の 組織 で 教鞭 を 執 っ た の は 間違い あ り ま せ ん	[0, 0, 0]	NOT
+5603	in the LDS Church. It's undisputed that he was originally ordained in the <nrp> Rigdonite </nrp> organization	<nrp> LDS 教会 </nrp> で 彼 は リグドニ 派 の 組織 で 教鞭 を 執 っ た の は 間違い あ り ま せ ん	[0, 0, 0]	NOT
 6273	As I said, I wanted to let others comment on this since I don't have sources at my fingertips at this moment.	私 が 言 っ た よう に 、 私 は 今 、 私 の 指先 に あ る ソース を 持 っ て い な い の で 、 他 の 人々 が これ に つ い て コメント でき る よう に し た かっ た 。	[0, 0, 0]	NOT
 8650	P.S. it's a good idea to always sign your posts by adding 1 or 2 dashes followe by 4 tildas at the end like this: ~~~~	P . S . 常 に 1 つ また は 2 つ の ダッシュ を 追加 し て あなた の ポスト に 署名 する 良 い アイデア で す 。	[0, 0, 0]	NOT
 4321	A film belongs to its production companies and producers, not the cast and crew.	映画 は 、 キャスト や クルー で は な く 、 製作 会社 や プロデューサー に 属 し ま す 。	[0, 0, 0]	NOT
@@ -485,13 +485,13 @@
 3321	Well thanks for your opinion, but I think its appropriate. Please see: keep your opinions to yourself	まあ 、 あなた の 意見 に 感謝 し ま す , しかし 、 私 は それ が 適切 だ と 思 い ま す . 参照 し て くださ い : あなた の 意見 を 自分 自身 に 保 つ	[0, 0, 0]	NOT
 3281	Era changing Please read WP:ERA - there is no need to change, both are acceptable on Wikipedia.	エラ の 変更 WP: ERA を 読 む - 変更 する 必要 は あ り ま せ ん , どちら も ウィキペディア で 受け入れ られ て い ま す .	[0, 0, 0]	NOT
 9566	I just noticed - Congratulations on the adminship!	私 は ちょうど 気づ い た - 管理 職 に 祝い !	[0, 0, 0]	NOT
-7261	Here is a direct interview with Schlafly including questions about her anti-muslim sentiment: [URL]	ここ で は 、 彼女 の 反 ムスリム の 感情 に 関 する 質問 を 含 む Sachly と の 直接 インタビュー で す : [ URL ]	[0, 0, 0]	NOT
+7261	Here is a direct interview with Schlafly including questions about her <nrp> anti-muslim </nrp> sentiment: [URL]	ここ で は 、 彼女 の 反 ムスリム の 感情 に 関 する 質問 を 含 む Sachly と の 直接 インタビュー で す : [ URL ]	[0, 0, 0]	NOT
 3869	TAD, PLEASE communicate with Amaury or an admin if possible, now my talkpage is being vandalized!	TAD , 可能 な 場合 、 アマリー また は 管理 者 と 連絡 し て くださ い , 今 私 の トーク ページ は 破壊 さ れ て い ま す !	[0, 0, 0]	NOT
 6116	Kevin Forsyth hates blacks. Forsyth was forced off wikipedia because he hates blacks. Jimmy Wales had sex with Kevin Poorsite	ケビン ・ フォーサイス は 黒人 を 憎 む . フォーサイス は 彼 が 黒人 を 憎 む の で 、 ウィキペディア から 強制 さ れ ま し た . ジミー ・ ウェールズ は ケビン ・ プーサイト と セックス し ま し た .	[0, 0, 0]	NOT
 5037	From Virginia's Statehouse to Gettysburg Scapegoat	バージニア 州 庁舎 から ゲティスバーグ ・ スカペゴート へ	[0, 0, 1]	NOT
 6010	Mdann52, thank you for your welcome (and the cookies!!! ;o) best regards, Webwhippet	Mdann 52 , よ う こそ ( と クッキー ! ! ! ;o) よろしく , Webwhippet	[0, 0, 0]	NOT
 6159	After all, the Holocaust was inspired by the <nrp> Armenian </nrp> genocide.	結局 の ところ 、 ホロコースト は <nrp> アルメニア 人 </nrp> 虐殺 に 触発 さ れ ま し た 。	[0, 0, 0]	NOT
-7598	We descendants of Otman Baba trough Mehmed Ali Karakoç are <nrp> Sunni Muslim </nrp>'s and not Alevis...	オトマン ・ ババ ・ トロー の メヘメド ・ アリ ・ カラコッチ の 子孫 は 、 <nrp> スンニ 派 </nrp> の ムスリム で あ り 、 アレヴィス で は あ り ま せ ん 。	[0, 0, 0]	NOT
+7598	We descendants of <nrp> Otman </nrp> Baba trough Mehmed Ali Karakoç are <nrp> Sunni Muslim </nrp>'s and not Alevis...	オトマン ・ ババ ・ トロー の メヘメド ・ アリ ・ カラコッチ の 子孫 は 、 <nrp> スンニ 派 </nrp> の ムスリム で あ り 、 アレヴィス で は あ り ま せ ん 。	[0, 0, 0]	NOT
 6771	I have replaced the word decimated by destroyed, since to decimate means to destroy 10% of something.	私 は 「 破壊 」 と い う 言葉 を 「 破壊 」 と 置き換え ま し た 。 なぜ なら 、 「 破壊 」 と は 何 か の 10 % を 破壊 する こと で す 。	[1, 0, 1]	ERR
 1972	Do me a favor, Adolf, delete my account...fascist.	アドルフ 、 私 の アカウント を 削除 し て くださ い . . . ファシスト 。	[0, 0, 0]	NOT
 5606	This event was a war, an internal war, between Jamaica's armed forces and a drug cartel called Shower Posse.	この 出来事 は ジャマイカ の 武装 勢力 と シャワー ・ ポッセ と い う 麻薬 カルテル の 間 で 内戦 で し た	[0, 0, 0]	NOT
@@ -503,7 +503,7 @@
 7479	You blocked me? Fuck you, Kinu. You are a COCKWAFFLE!!!! Douchbag, burn in fucking hell you junglebunny!!!! JUNGLE BUNNY!!!!	私 を ブロック し た の で す か ? あなた を ファック , キヌ . あなた は コック ウォール で す ! ! ! ! ドック バッグ , あなた ジャングル バニー の クソ の 地獄 で 燃 え 尽く す ! ! ! ! ジャングル バニー ! ! ! !	[0, 0, 1]	NOT
 5181	and perhaps add a sentence about the critics on Giuccardini.	ジャック カルディニ の 批判 者 に つ い て 文 を 付け加え る か も しれ ま せ ん	[0, 0, 0]	NOT
 2603	I know what you're trying to do. You're trying to F with all my contributions and try to get me banned because you have a political agenda.	私 は あなた が 何 を し よう と し て い る か を 知 っ て い る . あなた は 私 の すべて の 貢献 と F に し よう と し て い る し 、 あなた が 政治 的 な アジェンダ を 持 っ て い る の で 、 私 を 禁止 し よう と し て い ま す .	[0, 0, 0]	NOT
-9198	I think that it should be added right after the section about stamp catalogues. Thenachoman	スタンプ カタログ の セクション の すぐ 後 に 追加 さ れ る べ き だ と 思 い ま す 。	[1, 0, 0]	NOT
+9198	I think that it should be added right after the section about stamp catalogues. <nrp> Thenachoman </nrp>	スタンプ カタログ の セクション の すぐ 後 に 追加 さ れ る べ き だ と 思 い ま す 。	[1, 0, 0]	NOT
 2716	Wesley Bartz likes to suck cock. Loves that cock. He can't live without the cock	ウェスリーバーツ は チンポ を 吸 う こと が 好き で す . チンポ を 愛 し ま す . 彼 は チンポ なし で 生き る こと は でき ま せ ん	[0, 0, 0]	NOT
 9643	Hey Ryan, Fuck you faggot, how do you like those apples bitch?	ねえ 、 ライアン 、 ファック あなた お ばあ ちゃん 、 あなた は それ ら の リンゴ の ビッチ が 好き で す か ?	[1, 1, 0]	ERR
 8409	Proposed deletion of Disappearance of Megan Stammers	Megan Stammers の 消失 の 削除 を 提案	[0, 0, 0]	NOT
@@ -528,7 +528,7 @@
 8974	IT IS 95% WORD-FOR-WORD FROM THE PHILADELPHIA INQUIRER ARTICLE WITH NO ORIGINAL WRITING. THAT IS COPYVIO/PLAGIARISM.	原 著書 なし の フィラデルフィア の 問合せ 記事 の 95 % の 単語 対 単語 で す 。 それ は COPYVIO / PLA GIARISM で す 。	[0, 0, 1]	NOT
 7383	Awesome! Then I'll simply disregard your notice. Thanks!	素晴らし い ! その 後 、 私 は 単に あなた の 通知 を 無視 し ま す . ありがとう !	[0, 0, 0]	NOT
 4677	PS. I am 100% sure it will turn out that he is an <nrp> Arab </nrp> ;-)	PS . 私 は 彼 が <nrp> アラブ 人 </nrp> で あ る こと が 判明 する と 100 % 確信 し て い ま す ;-)	[0, 0, 0]	NOT
-3557	so wikipedia admins are anti-asian too? glad to know such an important website is being run by a group of racists	だ から ウィキペディア の 管理 者 も 反 <nrp> アジア 人 </nrp> で す か ? その よう な 重要 な ウェブサイト が 人種 差別 者 の グループ に よ っ て 運営 さ れ て い る こと を 知 っ た の は 嬉し い	[0, 0, 0]	NOT
+3557	so wikipedia admins are <nrp> anti-asian </nrp> too? glad to know such an important website is being run by a group of racists	だ から ウィキペディア の 管理 者 も 反 <nrp> アジア 人 </nrp> で す か ? その よう な 重要 な ウェブサイト が 人種 差別 者 の グループ に よ っ て 運営 さ れ て い る こと を 知 っ た の は 嬉し い	[0, 0, 0]	NOT
 9893	and so try to follow edits by Yerevantsi who shares this interest	この 関心 を 共有 する エレヴァンツィ の 編集 を フォロー し て み て くださ い	[0, 0, 0]	NOT
 3785	I'm slow when it comes to this kind of stuff so please explain.	この 種 の 事柄 に 関 し て は 、 私 は 遅 い の で 、 説明 し て くださ い 。	[0, 0, 0]	NOT
 3451	Some idiot named Dick Clark keeps on writing false information about my colleague Walter Block. Please keep him off the board.	ディック ・ クラーク と い う バカ は 、 私 の 同僚 の ウォルター ・ ブロック に つ い て 偽 の 情報 を 書 き 続け て い ま す 。	[0, 1, 0]	NOT
@@ -558,7 +558,7 @@
 7391	I am not merkey, I am his attorney, and I will edit all I please.	私 は 、 私 は 彼 の 弁護 士 で あ り 、 私 は すべて を 編集 し ま す 。	[0, 0, 0]	NOT
 4182	The Six Feet Under logo could do with a transparent background.	6 フィート アンダー の ロゴ は 、 透明 な 背景 で 行 う こと が でき ま す 。	[0, 0, 0]	NOT
 7786	I'm sure someone working for insurance company would appreciate that particular judge's comments.	私 は 、 保険 会社 で 働 い て い る 誰 か が 、 その 特定 の 裁判 官 の コメント を 感謝 する だ ろ う と 確信 し て い ま す 。	[0, 0, 0]	NOT
-4337	Bishop Okotie Diemiruru Aghotor is the presiding Bishop of Cornerstone Pentecostal Charismatic Church in Austria. Europe.	司教 Okotie Diemiruru 司教 は 、 オーストリア の Cornerstone Pentecostal カリスマ<nrp> ティック 教会 </nrp> の 主宰 司教 で す 。	[1, 1, 0]	ERR
+4337	Bishop Okotie Diemiruru Aghotor is the presiding Bishop of Cornerstone Pentecostal Charismatic Church in Austria. Europe.	司教 Okotie Diemiruru 司教 は 、 オーストリア の Cornerstone Pentecostal カリスマティック 教会 の 主宰 司教 で す 。	[1, 1, 0]	ERR
 93	REDIRECT Talk:Oakwood High School, Montgomery County	リダイレクト トーク : モンゴメリー 郡 オーク ウッド 高校	[0, 0, 0]	NOT
 79	the suffix '~ology' does not denote a science - just a study. c/f astrology.	「 ~ology 」 の サ フィックス は 科学 を 意味 する もの で は あ り ま せ ん - 単に 研究 で す 。 c/f 占星 術 で す 。	[0, 0, 0]	NOT
 4933	I've seen Borodino's sinking credited to the last major salvo of the battle, by Adm Yawara Matsumoto.	ボロディノ の 沈没 は 、 アドム ・ ヤワラ ・ マツモト に よ っ て 行 わ れ た 最後 の 大きな 戦い の 救助 に 功績 を 挙げ られ て い る 。	[0, 0, 0]	NOT
@@ -570,14 +570,14 @@
 9369	I would like to publish this article and should the player succeed in the future feel free to edit and add information ( )	この 記事 を 公開 し た い の で す が 、 今後 の プレイヤー が 成功 すれ ば 、 自由 に 編集 し て 情報 を 追加 でき ま す か ? ( )	[0, 0, 0]	NOT
 4240	shared IP I cant create the subpage but i will move all the old stuff there	共有 IP 私 は サブ ページ を 作成 する こと は でき ま せ ん が 、 私 は そこ に すべて の 古 い もの を 移動 し ま す	[0, 0, 0]	NOT
 9066	GA-articles that are Examples/models for article * Silent Hill 2 * Metroid Prime	記事 の 例 / モデル と な る GA - 記事 * Silent Hill 2 * Metroid Prime	[0, 0, 0]	NOT
-8942	That is infinitely worse than I imagined. I love it. Oh, and I like Nigger Master too. Any other title ideas?	私 は それ を 愛 し て い ま す . ああ , そして 私 は ナイガーマスター も 好き で す . 他 の タイトル の アイデア ?	[0, 0, 0]	NOT
+8942	That is infinitely worse than I imagined. I love it. Oh, and I like <nrp> Nigger </nrp> Master too. Any other title ideas?	私 は それ を 愛 し て い ま す . ああ , そして 私 は ナイガーマスター も 好き で す . 他 の タイトル の アイデア ?	[0, 0, 0]	NOT
 9642	Ertugrul Saglam is not going to leave turkey for england	Ertugrul Saglam は イギリス に トルコ を 残 す つもり は あ り ま せ ん	[0, 1, 0]	NOT
 3862	I will not tollerate any kind of Anti-Romanian discrimination on my page. I will delete any form of <nrp> Anti-Romanian </nrp> edits made here.	私 の ページ で は 、 いかなる 種類 の 反 <nrp> ルーマニア 人 </nrp>差別 も 認め ま せ ん 。	[0, 3, 0]	NOT
 3237	Clutch Cargo== When I was a kid I used to watch Clutch Cargo. Wasnt he a Jet pilot? yea, I think so, where do you get your pot?... ==	Clutch Cargo= = 私 は 子供 の 頃 、 私 は Clutch Cargo を 見 て い ま し た . 彼 は ジェット パイロット で し た ? はい , 私 は そう 思 う , あなた は あなた の 鍋 を どこ で 取得 し ま す か ? . . . = =	[0, 0, 0]	NOT
 5610	Thank you and I like all of the edits the people make on First Flight High School since my last edit, except for maybe the one just after mine.	ありがとう 、 私 は 私 の 最後 の 編集 以来 、 最初 の フライト 高校 で 人々 が 作 る すべて の 編集 が 好き で 、 おそらく 私 の 後 に 1 つ を 除 い て 。	[0, 0, 0]	NOT
 3199	I TOLD YOU I CAN'T BE STOPPED, I'VE GOT A GAME GOING, TALKING ON MYSPACE AND DOING THIS HAHAHAHAHAHAHAHA	私 は あなた が 私 が 停止 する こと は でき ま せ ん 、 私 は ゲーム が 行 っ て い る 、 私 の スペース 上 で 話 し て 、 この ハハハハハハハハ を や っ て い る と 言 っ た	[3, 0, 0]	NOT
 344	other rules. I take allegations of homosexuality about English monarchs very seriously, but you don't care, do you?	イギリス の 君主 に つ い て の 同性 愛 の 主張 は とても 深刻 で す が 気 に し な い ん で す か ?	[1, 0, 0]	NOT
-8322	This is a perfectly ordinary redirection. Why it was nominated for speedy deletion is a mystery to me.	これ は 完全 に 通常 の リダイ レクション で す . それ は <nrp> 速 </nrp> い 削除 の ため に 指名 さ れ た 理由 は 私 に と っ て 謎 で す .	[0, 0, 0]	NOT
+8322	This is a perfectly ordinary redirection. Why it was nominated for speedy deletion is a mystery to me.	これ は 完全 に 通常 の リダイ レクション で す . それ は 速 い 削除 の ため に 指名 さ れ た 理由 は 私 に と っ て 謎 で す .	[0, 0, 0]	NOT
 6656	ATTENTION JD WOLF, Too much fanfare? Bull_Sh!!!!!!!!!! [URL]	注意 JD WOLF , あまり に も 多く の ファンフェア ? Bull_ Sh ! ! ! ! ! ! ! ! ! ! [ URL ]	[0, 0, 0]	NOT
 4728	Should redirect to Tom Jones (singer) without question.	質問 なし に トム ・ ジョーンズ ( シンガー ) に リダイレクト する 必要 が あ り ま す 。	[0, 0, 0]	NOT
 5255	after awhile. And how many more times are we going to have to here about his mother watching Smackdown	しばらく 後 何 回 も 彼 の 母親 が Smackdown を 見 て ここ に い る 必要 が あ る で しょ う	[0, 0, 0]	NOT
@@ -587,7 +587,7 @@
 7432	It looks like someone deleted those links already. Thanks for your help.	誰 か が すでに それ ら の リンク を 削除 し た よう に 見え ま す . あなた の 助け に 感謝 し ま す .	[0, 0, 0]	NOT
 2149	He doesn't consider this vandalism except when it's *his* talk page. Bullshit.	彼 は この ヴァンダ リズム を 考慮 し て い な い が 、 それ は * 彼 の * トーク ページ で あ る 場合 を 除 く 。	[0, 0, 1]	NOT
 9884	My advice on BVM? let them do the talking, until they run dry	私 の BVM に 関 する アドバイス ? 彼 ら が 乾 く まで 、 彼 ら は 話 を し ま しょ う	[0, 0, 0]	NOT
-3137	Robustness of Mean and <nrp> Median </nrp> sample estimators for Bimodal distributions	バイモダル 分布 の 平均 および 中間 サンプル 推定 器 の 堅牢 性	[0, 0, 0]	NOT
+3137	Robustness of Mean and Median sample estimators for Bimodal distributions	バイモダル 分布 の 平均 および 中間 サンプル 推定 器 の 堅牢 性	[0, 0, 0]	NOT
 9907	I created this article on the court-rank of Constantinople, the Spatharius.	私 は 、 コンスタンティノープル の 宮廷 階級 、 スパタリウス に つ い て この 記事 を 作成 し ま し た 。	[0, 0, 0]	NOT
 4404	What? I am a practicing <nrp> Sufi </nrp> and a follower of Bu Ali Shah Qalandar. I have added authentic material to the article Hassanfarooqi	何 で す か ? 私 は スーフィ を 実践 し 、 ブ アリー ・ シャー ・ カランダール の フォロワー で す . 私 は 記事 に 本物 の 材料 を 追加 し ま し た Hassanfarooqi	[0, 0, 0]	NOT
 5252	You'd think a guy who has an entire savannah and park named after him in Africa would rate a bigger article. ;-)	アフリカ の サバンナ と 公園 に 名前 を 付け た 男 が もっと 大きな 記事 を 評価 する と 思 う で しょ う 。	[0, 0, 0]	NOT
@@ -682,7 +682,7 @@
 1669	Wikipedia is not marketing device to promote db4o. Thanks for understanding.	ウィキペディア は db 4o を 宣伝 する マーケティング デバイス で は あ り ま せ ん 。	[0, 0, 0]	NOT
 4650	Again, foul language ain't getting us nowhere. - Super Chris Rock	再び , 不正 な 言語 は 、 私 たち を どこ に も 取得 し て い な い . - Super Chris Rock	[0, 0, 0]	NOT
 8038	It is all about politics and people really want to have a good life.	それ は すべて 政治 に つ い て で あ り 、 人々 は 本当 に 良 い 生活 を 持 っ て い る こと を 望 ん で い ま す 。	[0, 1, 0]	NOT
-5980	hm. wouldn't it be poetic justice if Macedonia had been Doric while Macedonia had been XMK speaking? an almost Salomonic solution )	マケドニア が XMK を 演 じ て い る 間 、 マケドニア が ドリック を 演 じ て い た ら 、 それ は 詩的 な 正義 で は な かっ た で しょ う ? ほとんど サロモン 的 な 解決 策 )	[0, 0, 0]	NOT
+5980	hm. wouldn't it be poetic justice if Macedonia had been <nrp> Doric </nrp> while Macedonia had been XMK speaking? an almost <nrp> Salomonic </nrp> solution )	マケドニア が XMK を 演 じ て い る 間 、 マケドニア が ドリック を 演 じ て い た ら 、 それ は 詩的 な 正義 で は な かっ た で しょ う ? ほとんど サロモン 的 な 解決 策 )	[0, 0, 0]	NOT
 2342	Clark Howard Your edits to Clark Howard are very POV and go contrary to Wikipedia's policy.	クラーク ・ ハワード あなた の クラーク ・ ハワード へ の 編集 は 、 非常 に POV で あ り 、 ウィキペディア の ポリシー に 反 し て い ま す 。	[0, 0, 0]	NOT
 1215	Muscle== Do all mammals have the same form of striated muscle fibre? I expect	筋肉 = = すべて の 哺乳 類 は 、 スト ライティング さ れ た 筋肉 繊維 の 同じ 形態 を 持 っ て い る の で しょ う か ?	[0, 0, 1]	NOT
 3309	should have been disambiguated, but that was not urgent	はっきり と 言え な けれ ば な ら な かっ た の で す が 緊急 で は あ り ま せ ん で し た	[0, 0, 0]	NOT
@@ -703,11 +703,11 @@
 2607	The answer is either yes or no. Are you stating that the LIBRARY OF CONGRESS is NOT a reliable source?	回答 は 「 はい 」 また は 「 いいえ 」 で す 。 議会 図書 館 は 信頼 でき る 情報 源 で は あ り ま せ ん か ?	[0, 0, 0]	NOT
 6749	WP:V says you have to have a source however, it is impossible to get a source for something that isnt on the freaking internet!	WP : V は 、 あなた が ソース を 持 っ て い る 必要 が あ る と 述べ て い ま す が 、 インターネット 上 で な い 何 か の ため の ソース を 得 る こと は 不 可能 で す !	[0, 0, 0]	NOT
 2685	I made a page dedicated to Total Conversions you can find the link on the Marathon Trilogy page. -WeirdoYYY	私 は トータル 変換 に 専用 の ページ を 作成 し ま し た あなた は マラソン トリロギー ページ の リンク を 見つけ る こと が でき ま す 。	[0, 0, 0]	NOT
-4755	Why are you unable to see what Homeontherange is about? I'm appalled. He is instigating a purge against the British Conservative Right.	なぜ あなた は 、 ホームアン テランジ が 何 を 意味 し て い る の か 見 る こと が でき ま せ ん か ? 私 は 驚 き ま し た . 彼 は イギリス の 保守 派 右翼 に 対 する 粛清 を 挑 ん で い ま す .	[1, 0, 0]	NOT
+4755	Why are you unable to see what Homeontherange is about? I'm appalled. He is instigating a purge against the British Conservative Right.	なぜ あなた は 、 ホームアン テランジ が 何 を 意味 し て い る の か 見 る こと が でき ま せ ん か ? 私 は 驚 き ま し た . 彼 は イギリス の <nrp> 保守 派 </nrp> 右翼 に 対 する 粛清 を 挑 ん で い ま す .	[1, 0, 0]	NOT
 3278	You mean to say they showed you the evidence they wouldn't show me? Let's stop the pretense: We know why they've gone.	彼 ら が 私 に 示 さ な い 証拠 を あなた に 示 し た と 言 う つもり で す か ? 仮装 を 停止 し ま しょ う : 私 たち は 彼 ら が 行 っ た 理由 を 知 っ て い る 。	[0, 0, 0]	NOT
 1706	I don't know of references in Conan-Doyle, have added details of mention in Wodehouse. Also, not to be confused with Simpson's Tavern.	私 は 、 Conan -Doyle の 参照 の 知 り ま せ ん , Wode house で の 言及 の 詳細 を 追加 し ま し た . また , Simpson の 居酒屋 と 混同 し な い よう に .	[0, 0, 0]	NOT
 5167	Careful friend, I was censored for telling someone they were narrow-minded when they were narrow-minded!!	慎重 な 友人 , 私 は 彼 ら が 狭 い 心 だっ た とき に 彼 ら が 狭 い 心 だっ た 誰 か を 伝え る ため 、 検閲 さ れ ま し た ! !	[0, 0, 0]	NOT
-552	De-registration of <nrp> BusesDe </nrp>-registration of buses	バス の 無 登録 バス の 無 登録	[1, 0, 1]	ERR
+552	De-registration of BusesDe-registration of buses	バス の 無 登録 バス の 無 登録	[1, 0, 1]	ERR
 8315	The only one who forms this so called concensus is you. And there has been no actual talk on the issues I present.	この いわゆる コンセンサス を 形成 する 唯一 の 人 は あなた で あ り 、 私 が 提示 する 問題 に つ い て 実際 の 話 は あ り ま せ ん 。	[0, 0, 0]	NOT
 6628	Well you know what? You're a faggot too! What Are you gonna do about it ya little bitch?	まあ 、 あなた は 何 を 知 っ て い ま す か ? あなた も フェッガー で す ! あなた は それ に つ い て 何 を する つもり で す か 、 あなた 小さな クソ ?	[0, 0, 0]	NOT
 7178	I notice that Mongoose Publishing is now publishing an edition of RuneQuest.	Mongoose Publishing が RuneQuest の エディション を 公開 し て い る こと に 気づ き ま し た 。	[0, 0, 0]	NOT
@@ -718,7 +718,7 @@
 416	YOU FUCKING NIGGER, HOW DARE YOU REVERT MY EDITS???? I'LL HUNT YOU DOWN AND RAPE YOU UNTIL YOU SHIT YOUR INTERNAL ORGANS OUT	あなた は ニッガー を かぶ っ て 、 あなた は 私 の 編集 を リバート し て い ま せ ん か ? 私 は あなた が あなた の 内部 の 組織 を 打 つ まで あなた を 下ろ し 、 あなた を 圧倒 し ま す	[0, 1, 1]	ERR
 8868	Story I think we need a Story headline which comes before the Gameplay headline.	ストーリー 私 は 、 ゲーム プレイ の ヘッドライン の 前 に 来る ストーリー の ヘッドライン が 必要 で す 。	[0, 0, 0]	NOT
 1205	Do you like weiner products? I like sausage. Its saltiness delights my tongue.	私 は ソーセージ が 好き で す . その 塩味 は 私 の 舌 を 喜ば し ま す .	[0, 0, 0]	NOT
-4643	As for the Sunda one - that is <nrp> Indian </nrp> Ocean/Indonesia - they need their own - 'Asia' is too large. cheers.	"スンダ 1 に つ い て は - インド 洋 / インドネシア で す - 彼 ら は 自分 自身 を 必要 と し ま す - "" アジア "" は あまり に も 大き い で す 。"	[0, 0, 0]	NOT
+4643	As for the Sunda one - that is Indian Ocean/Indonesia - they need their own - 'Asia' is too large. cheers.	"スンダ 1 に つ い て は - インド 洋 / インドネシア で す - 彼 ら は 自分 自身 を 必要 と し ま す - "" アジア "" は あまり に も 大き い で す 。"	[0, 0, 0]	NOT
 3935	You didn't ban me, this is offensive! I have a right to be banned from idiots!	あなた は 私 を 禁止 し て い ま せ ん , これ は 攻撃 的 で す ! 私 は 愚か な 者 から 禁止 さ れ る 権利 が あ り ま す !	[0, 0, 0]	NOT
 1577	Great page Love that phrase. Hope this article can grow into something of real interest.	素晴らし い ページ その フレーズ を 愛 し ま す . この 記事 は 、 本当 の 関心 の 何 か に 成長 する こと が でき る こと を 願 い ま す .	[0, 0, 0]	NOT
 215	Good answers. Now don't forget to accept the nomination!	良 い 回答 . 今 、 ノミネーション を 受け入れ る こと を 忘れ な い で くださ い !	[0, 0, 0]	NOT
@@ -798,14 +798,14 @@
 6739	extremely small balls. fuck me in my ass. I love giving blumpkins	非常 に 小さな ボール . 私 の 尻 に 私 を ファック . 私 は ブランク キン を 与え る こと を 愛 し ま す	[0, 0, 0]	NOT
 9542	Note that someone called Bidge appears to be vandalising this page.	Bidge と い う 名前 の 誰 か が この ページ を 破壊 し て い る よう に 見え る こと に 注意 し て くださ い 。	[0, 0, 0]	NOT
 3847	If you continue to treat Wikipedia as a battleground, this account will be blocked.	ウィキペディア を 戦場 と し て 扱 う 場合 、 この アカウント は ブロック さ れ ま す 。	[0, 0, 0]	NOT
-2878	It as if you are shitting on an open grave of Maximillian because you couldn't bear the fact that he tried to help your pathetic ass.	彼 は あなた の 哀れ な 尻 を 助け よう と し た と い う 事実 を 耐え る こと が でき な かっ た の で 、 あなた は マキシミリアン の 開 い た 墓 に shitting し て い る か の よう に 。	[1, 0, 1]	ERR
+2878	It as if you are shitting on an open grave of <nrp> Maximillian </nrp> because you couldn't bear the fact that he tried to help your pathetic ass.	彼 は あなた の 哀れ な 尻 を 助け よう と し た と い う 事実 を 耐え る こと が でき な かっ た の で 、 あなた は マキシミリアン の 開 い た 墓 に shitting し て い る か の よう に 。	[1, 0, 1]	ERR
 2147	We'll see about that you. I take you everytime! WHY IS UNCONSTRUCTIVE?!	私 が いつ も あなた を 連れ て 行 く ! なぜ 非 建設 的 な ? !	[0, 0, 0]	NOT
 5516	It's too vague. I want YOU to tell me how to do it.	それ は あまり に も 曖昧 で す . あなた は 私 に それ を する 方法 を 教え て くださ い .	[0, 0, 0]	NOT
 938	What is this article supposed to be about: a building, a government agency? Fix it or scrap it!	この 記事 は 、 建物 、 政府 機関 に つ い て 何 で あ る べ き で す か ? それ を 修正 する か 、 それ を スクラップ し ま す !	[0, 0, 0]	NOT
 7548	The link to Mt Albert Grammar School goes to a <nrp> Canadian </nrp> school, not the Auckland one.	Mt Albert Grammar School へ の リンク は オークランド の 学校 で は な く 、 カナダ の 学校 に 通 っ て い る 。	[0, 0, 0]	NOT
 9890	Since the Unofficial STARFLEET International History link was broken, I removed it.	非 公式 の STARFLEET International History リンク が 壊れ て い る の で 、 削除 し ま し た 。	[0, 0, 0]	NOT
 1929	In other words, I see no valid reason to continually delete valid information from the article.	言い換え れ ば 、 記事 から 有効 な 情報 を 絶え ず 削除 する 正当 な 理由 は 見 られ ま せ ん 。	[0, 0, 0]	NOT
-7568	hello a <nrp> mexican </nrp> bounty hunter wants your scalp - he will pay 500 pesos for it - he hates indios	こんにちは メキシコ の バウンティ ハンター が あなた の 頭皮 を 欲し が っ て い ま す - 彼 は 500 ペソ を 支払 う で しょ う - 彼 は <nrp> インディオ </nrp> を 嫌 い ま す	[0, 0, 0]	NOT
+7568	hello a <nrp> mexican </nrp> bounty hunter wants your scalp - he will pay 500 pesos for it - he hates <nrp> indios </nrp>	こんにちは メキシコ の バウンティ ハンター が あなた の 頭皮 を 欲し が っ て い ま す - 彼 は 500 ペソ を 支払 う で しょ う - 彼 は インディオ を 嫌 い ま す	[0, 0, 0]	NOT
 9591	The film looks awesome, but my Dad said the original was much different. Im seeing it this weekend.	映画 は 素晴らし い で す が 、 私 の 父 は 、 オリジナル はるか に 異な る と 述べ ま し た . 私 は 今週 末 に それ を 参照 し て い ま す .	[0, 0, 0]	NOT
 8623	just as he was accusing several others of being.}}	彼 は 他 の 何 人 か の 存在 を 非難 し て い た よう に 。	[0, 0, 0]	NOT
 6015	I'm sure Sid was a giant sloth, but I don't know how accurate the movie was.	確か に シド は 巨大 な スロット だっ た が 、 映画 が どれ ほど 正確 だっ た か は わか ら な い 。	[0, 0, 0]	NOT
@@ -859,14 +859,14 @@
 1316	I actually have aspergers as well but ive learned not to be a pedantic little shit about it	実 は アスペルガー も い ま す けど 、 私 は それ に つ い て 馬鹿げ た 小物 に な ら な い こと を 学 び ま し た	[1, 0, 0]	NOT
 1824	I had a look over it now (I couldn't earlier, collateral IP ban from being on a shared server) and it only needed very small changes for it to flow	私 は 今 それ を 見 ま し た ( 私 は 以前 に は でき ま せ ん で し た , 共有 サーバー 上 の コラテラル IP 禁止 ) そして 、 それ は フロー する ため に 非常 に 小さな 変更 を 必要 と し ま し た	[0, 0, 0]	NOT
 2680	now that he's blocked me so that I can't respond to his lies	彼 が 私 を 封じ込め て 彼 の 嘘 に 応え られ な い の で	[0, 0, 0]	NOT
-799	Well is guess wikipedia is now liable pursuant to EU laws so we will soon now who you are, you cant hide behide wiki	さて 、 ウィキペディア は EU 法 に 従 っ て 責任 を 負 う の で 、 私 たち は すぐ に あなた が 誰 で あ る か 、 あなた は ウィキペディア の 命令 を 非 表示 に する こと は でき ま せ ん を 推測 し て い ま す	[0, 0, 0]	NOT
+799	Well is guess wikipedia is now liable pursuant to EU laws so we will soon now who you are, you cant hide behide wiki	さて 、 ウィキペディア は <nrp> EU 法 </nrp> に 従 っ て 責任 を 負 う の で 、 私 たち は すぐ に あなた が 誰 で あ る か 、 あなた は ウィキペディア の 命令 を 非 表示 に する こと は でき ま せ ん を 推測 し て い ま す	[0, 0, 0]	NOT
 5398	Also, I read the policies that Jasper Deng linked.	また 、 Jasper Deng が リンク し た ポリシー も 読 み ま し た 。	[0, 0, 0]	NOT
 4295	ITDTH im very sorry about everything and what i said about ium jusdt a little bit angery and no more gaga stuff.	それ は 、 私 は すべて の こと を 非常 に 申し訳 あ り ま せ ん し 、 私 は ium jusdt に つ い て 少し 怒 って 言 っ た こと に つ い て 、 もう ガガ の 物 は あ り ま せ ん 。	[0, 0, 0]	NOT
 3259	Problem is they are YOUR definitions and nobody else's...including Feynman.	問題 は 、 それ ら は あなた の 定義 で あ り 、 ファイン マン を 含め 、 他 の 誰 も 定義 し て い な い と い う こと で す 。	[0, 0, 0]	NOT
 2212	OK, in the history I see the time, but is there a better way?	歴史 の 中 で 私 は 時間 を 見 る の で す が 、 より 良 い 方法 が あ り ま す か ?	[0, 0, 0]	NOT
 2254	Fucking piece of shit, he was vandalizing a bunch of articles, so fuck off, you little twerp.	クソ の 塊 , 彼 は 記事 の 束 を 破壊 し て い た , だ から 、 お前 は 、 小さな ツバク を ファック オフ .	[1, 1, 1]	ERR
 1750	thumb200pxAn example of <nrp> American </nrp> Shift_JIS art. This is ASCII art.	thumb 200 px アメリカ の Shift _ JIS アート の 例 で す 。	[0, 0, 0]	NOT
-8566	Also, have you heard they don't use toilet paper? also, use turkish baths..	また 、 トイレット ペーパー は 使 わ な い と 聞 い て い ま す か ? また 、 トルコ 風呂 も 使 い ま す 。	[0, 0, 0]	NOT
+8566	Also, have you heard they don't use toilet paper? also, use <nrp> turkish </nrp> baths..	また 、 トイレット ペーパー は 使 わ な い と 聞 い て い ま す か ? また 、 トルコ 風呂 も 使 い ま す 。	[0, 0, 0]	NOT
 6356	P.P.S. I can see a resemblance between you and the picture, your both big headed. (Both of you have heads double the size of your body)	P . P . S . あなた と 写真 の 間 の 類似 点 が 見え ま す , あなた の 両方 の 大きな 頭 . ( あなた の 体 の サイズ の 2 倍 の 頭 を 持 っ て い ま す )	[0, 0, 0]	NOT
 2052	why you do not remove the vandalism protection on WP PXE's page. 12:01	なぜ WP PXE の ページ で ван ダリズム 保護 を 削除 し な い の か 。	[0, 0, 1]	NOT
 76	Is there a correlation or ratio betweem systolic and diastolic components of blood pressure?	血圧 の シストリック 部品 と ジアストリック 部品 の 間 に 関連 性 が あ る か 、 また は 比率 が あ る か 。	[1, 1, 0]	ERR
@@ -939,7 +939,7 @@
 7041	I need for you to become more aquainted with myself.	私 は あなた 自身 と より 多く の 水浸し に な る 必要 が あ る 。	[1, 0, 0]	NOT
 5272	One file uploaded by Commons:User:2011amal tagged by you yesterday.	Commons :User : 2011 amal が 昨日 タグ 付け し た ファイル を アップロード し ま し た 。	[0, 0, 0]	NOT
 1517	Hoboken City Website I believe the link the to city of Hoboken website is broken. Correct me if I'm wrong.	ホーボーケン 市 の ウェブサイト 私 は ホーボーケン 市 の ウェブサイト へ の リンク が 壊れ て い る と 信 じ て い ま す . 私 が 間違 っ て い る 場合 は 、 私 を 修正 し て くださ い .	[1, 0, 0]	NOT
-8373	Straight from the smear site itself. The person called a dissident is someone I have NEVER even heard of. <nrp> Pathetic </nrp>!	直接 スマーサイト 自体 から . 反対 派 と 呼 ば れ る 人 は 、 私 が 今 まで 聞 い た こと も な い 誰 か で す . 悲し い !	[0, 0, 0]	NOT
+8373	Straight from the smear site itself. The person called a dissident is someone I have NEVER even heard of. Pathetic!	直接 スマーサイト 自体 から . 反対 派 と 呼 ば れ る 人 は 、 私 が 今 まで 聞 い た こと も な い 誰 か で す . 悲し い !	[0, 0, 0]	NOT
 4518	Tigeroo is vandalizing the <nrp> Islam </nrp> article, he's at his 6th revert with no talk page justification. Could you help combat this vandalism?	タイガーオ は <nrp> イスラーム </nrp> の 記事 を 破壊 し て い ま す , 彼 は トーク ページ の 正当 化 なし で 彼 の 6 番 目 の リバート で あ り ま す . あなた は この 破壊 と 戦 う の を 助け る こと が でき ま す か ?	[0, 0, 0]	NOT
 578	Why are such biased references added to the Honours section?	なぜ この よう な 偏見 的 な 言及 が 名誉 セクション に 追加 さ れ る の で しょ う か ?	[0, 0, 0]	NOT
 6095	I agree, the code of conduct must be strictly adhered to by everyone equally.	全員 が 平等 に 行動 規範 を 厳格 に 守 ら な けれ ば な ら な い と 私 は 同意 し ま す 。	[0, 0, 0]	NOT
@@ -948,7 +948,7 @@
 2535	That's a typical arrogant <nrp> American </nrp> view and very much incorrect. You talk a lot a bullshit.	それ は 典型 的 な 傲慢 な <nrp> アメリカ 人 </nrp> の 見解 で あ り 、 非常 に 間違 っ て い ま す . あなた は 多く の クソ を 話 す .	[0, 0, 0]	NOT
 8108	In addition, neither the Beatles, nor the the Stones ever had the ability to to play with soft delicacy AND the unihibited fury of modern rock.	さらに 、 ビートルズ も ストーンズ も 、 ソフト な 繊細 さ と モダン な ロック の 無情 な 怒り を 再生 する 能力 を 持 っ て い ま せ ん で し た 。	[0, 0, 0]	NOT
 8342	i don't understand, how do you edit the last paragraph? i ended up editing the one above thanks Jay	最後 の 段落 を どう 編集 する の ? 最後 は 上記 の 段落 を 編集 し ま し た ありがとう	[0, 1, 0]	NOT
-7254	about the book]]. Also numerous works by Jews against <nrp> Zionism </nrp>.	この 本 に つ い て ] ] . また 、 シオニズム に 対 する <nrp> ユダヤ 人 </nrp> に よ る 数多く の 作品 .	[0, 0, 0]	NOT
+7254	about the book]]. Also numerous works by <nrp> Jews </nrp> against <nrp> Zionism </nrp>.	この 本 に つ い て ] ] . また 、 シオニズム に 対 する <nrp> ユダヤ 人 </nrp> に よ る 数多く の 作品 .	[0, 0, 0]	NOT
 2734	He has huge numbers of fans, his biggest being Sarah Gorman and Lee Cawley	サラ ・ ゴーマン や リー ・ カウリー など 多く の ファン が い る	[0, 0, 0]	NOT
 47	That's next day, so I might as well see Main Page.	それ は 次 の 日 な の で 、 私 は メイン ページ を 参照 する か も しれ な い 。	[0, 0, 0]	NOT
 6894	man since childhood. He amassed his fortune by stealing other people's money.	子供 の 頃 から 他人 の 金 を 盗み 財産 を 蓄え ま し た	[0, 0, 0]	NOT
@@ -974,7 +974,7 @@
 3755	It's true that some <nrp> Koreans </nrp> eat dogs, but you have obviously never been to Korea.	一部 の <nrp> 韓国 人 </nrp> は 犬 を 食べ て い ま す が 、 あなた は 明らか に 韓国 に 行 っ た こと が あ り ま せ ん 。	[0, 0, 0]	NOT
 8134	I am the gayest person on Earth, from Boing! said Zebedee	ボイン から 、 私 は 地球 上 で 最も ゲイ な 人 で す ! ゼベデイ は 言 っ た	[0, 0, 0]	NOT
 5378	via RealVNC, caused block, requesting unblock nicely...with a cherry on top. I have patched all unused ports and installed proper firewalls.	RealVNC を 介 し て 、 ブロック を 引き起こ し ま し た , 素敵 な アンブロック を 要求 し ま す . . . 上 の チェリー と . 私 は 、 すべて の 未 使用 の ポート を パッチ し 、 適切 な ファイアウォール を インストール し ま し た 。	[0, 0, 0]	NOT
-1337	never controlled the spanish territory, ONLY SPAIN RULED THEM IN THE SPANISH PERIOD	スペイン は スペイン の 領土 を 支配 し な かっ た が 、 スペイン は スペイン の 領土 を 支配 し た	[0, 1, 1]	ERR
+1337	never controlled the <nrp> spanish </nrp> territory, ONLY SPAIN RULED THEM IN THE <nrp> SPANISH </nrp> PERIOD	スペイン は スペイン の 領土 を 支配 し な かっ た が 、 スペイン は スペイン の 領土 を 支配 し た	[0, 1, 1]	ERR
 15	nevermind the last post...i knew i had read it before coz i wrote it >< I feel so dumb!	最後 の 投稿 を 気 に し な い で くださ い . . . 私 は 私 が それ を 書 い た の で 、 私 は それ を 読 ん で い た こと を 知 っ て い ま し た >< 私 は とても 愚か で す !	[0, 0, 0]	NOT
 9887	BTW, Alex, thanks for the picture. Makes life easier.	BTW , アレックス , 写真 の おかげ で . 生活 を 容易 に し ま す .	[0, 0, 0]	NOT
 2449	I want to have sex with all of you! I'm so excited!	みんな と セックス し た い ! とても 興奮 し て い ま す !	[0, 0, 0]	NOT
@@ -982,7 +982,7 @@
 870	Thank you for asking, but I'm not sure I really have a qualified opinion. It's something I saw in passing once, is all...	質問 に 感謝 し ま す が 、 私 は 本当 に 有 資格 の 意見 を 持 っ て い る か どう か は 分か り ま せ ん 。	[0, 0, 1]	NOT
 8364	Yes. And the <nrp> Catholic </nrp> church says no sex before marriage, and as we all know, teen pregnancies are way down.	<nrp> カトリック 教会 </nrp> は 結婚 前 に セックス し な い と 言 っ て い ま す 私 達 は 皆 知 っ て い る よう に 十 代 の 妊娠 は ずっと 下が っ て い ま す	[0, 0, 0]	NOT
 6730	On account of the project deciding to ignore history, I hereby quit. Good bye. Oh, and Tim Vickers is a complete asshole. LOL. Bye.	プロジェクト が 歴史 を 無視 する こと を 決め た の で 、 私 は ここ に 辞め ま す . さようなら . ああ , ティム ・ ヴィッカース は 完全 に 馬鹿 で す . LOL . さようなら .	[0, 0, 0]	NOT
-3984	Kosovo Zoupan, dont delete my texts just because you can't handle arguments. <nrp> Kosovar-Albanians </nrp> are pretty anti-slavic. So whats the problem?	コソボ ・ ズーパナン 、 議論 を 処理 でき な い の で 私 の テキスト を 削除 し な い で くださ い . コソボ ・ <nrp> アルバニア 人 </nrp> は かなり 奴隷 制 的 で す . 問題 は 何 で す か ?	[1, 0, 0]	NOT
+3984	Kosovo Zoupan, dont delete my texts just because you can't handle arguments. <nrp> Kosovar-Albanians </nrp> are pretty <nrp> anti-slavic </nrp>. So whats the problem?	コソボ ・ ズーパナン 、 議論 を 処理 でき な い の で 私 の テキスト を 削除 し な い で くださ い . コソボ ・ <nrp> アルバニア 人 </nrp> は かなり 奴隷 制 的 で す . 問題 は 何 で す か ?	[1, 0, 0]	NOT
 399	Oh, and WHY am I blocked from editing MY OWN ARTICLE????????????????????????????	ああ 、 そして 、 なぜ 私 は 自分 の 記事 の 編集 を ブロック さ れ て い ま す か ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?	[0, 0, 0]	NOT
 8217	tide rolls is a fucking moron he needs to go to HELL	チー ドロールズ は クソ の 馬鹿 だ 彼 は へいへい に 行 く 必要 が あ る	[1, 0, 0]	NOT
 1276	User page deletion Why exactly do you want your User page deleted?	ユーザー ページ の 削除 ユーザー ページ を 削除 し た い の は なぜ で す か ?	[0, 0, 0]	NOT
