@@ -16,7 +16,7 @@ To cope with randomness and fluctuation, it is suggested to run the same set of 
 python main.py --log ner.log --seed 1200 -c config/enzh_ner.conf
 ```
 
-If you have multiple GPUs and wants specify one GPU to train this model, you can add the `CUDA_VISIBLE_DEVICES=<GPU index>` at the beginning of your command:
+If you have multiple GPUs and want to specify one GPU to train this model, you can add the `CUDA_VISIBLE_DEVICES=<GPU index>` at the beginning of your command:
 ```
 CUDA_VISIBLE_DEVICES=1 python main.py --log ner.log --seed 1200 -c config/enzh_ner.conf
 ```
