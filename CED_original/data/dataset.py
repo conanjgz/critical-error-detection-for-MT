@@ -33,3 +33,10 @@ class CEDDataset(Dataset):
             label = 0 if label == 'NOT' else 1
 
         return (src_text, trg_text, label)
+
+    def get_label_count(self):
+        return list(self.df['error_labels'].value_counts())
+    
+    def get_label_list(self):
+        label_list = self.df['error_labels']
+        return [0 if label == 'NOT' else 1 for label in label_list]

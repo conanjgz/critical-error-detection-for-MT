@@ -24,6 +24,7 @@ LOG_STEP = 300
 
 
 def evaluate(model, dataloader):
+    logit_logger = logging.getLogger("train_logit_log")
     model.eval()
     with torch.no_grad():
         pred_labels = []
@@ -33,6 +34,7 @@ def evaluate(model, dataloader):
 
             loss, logits = model(batch)
             # print(loss)
+            logit_logger.info(logits)
             train_loss += loss.item()
             pred_labels += torch.argmax(torch.sigmoid(logits), dim=1).tolist()
             gold_labels += batch['labels'].squeeze().tolist()
@@ -81,6 +83,7 @@ def train_epoch(model, dataloader, optimizer, scheduler):
 
 def train(args):
     logger = logging.getLogger("train_log")
+    logit_logger = logging.getLogger("train_logit_log")
 
     tokenizer = AutoTokenizer.from_pretrained(args.huggingface_model)
 
@@ -95,7 +98,7 @@ def train(args):
         tokenizer.add_special_tokens(special_tokens_dict)
     if args.sen == True:
         logger.info("SEN tokens applied!")
-        special_tokens_dict = {'additional_special_tokens': ['<sen_pos>', '<sen_neg>']}
+        special_tokens_dict = {'additional_special_tokens': ['<sen_pos>', '<sen_neg>', '<sen_neu>']}
         tokenizer.add_special_tokens(special_tokens_dict)
 
     fix_seed(args.seed)
@@ -104,11 +107,33 @@ def train(args):
     valid_dataset = CEDDataset(args.valid_data, args.huggingface_model)
     collate_fn = PadCollate(tokenizer, args.max_sequence_length)
 
+    train_set_label_count = train_dataset.get_label_count() # [number of NOTs, number of ERRs]
+    # print(train_set_label_count)
+    train_set_label_list = train_dataset.get_label_list() # returns a list which consists of 0 (NOT) and 1 (ERR)
+    # print(train_set_label_list)
+
+    weight = 1 / torch.tensor([train_set_label_count]).squeeze()
+    # print(weight)
+    samples_weight = torch.tensor([weight[i] for i in train_set_label_list])
+    # print(samples_weight)
+
+    sampler =torch.utils.data.WeightedRandomSampler(samples_weight, len(samples_weight))
+
+    # train_loader = DataLoader(
+    #     train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
     train_loader = DataLoader(
-        train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
+        train_dataset, batch_size=args.train_batch_size, sampler = sampler, collate_fn=collate_fn)
     valid_loader = DataLoader(
         valid_dataset, batch_size=args.valid_batch_size, shuffle=False, collate_fn=collate_fn)
 
+    logger.info("WeightedSampler applied to train loader")
+
+    # for i, batch in enumerate(train_loader):
+    #     # print(batch['labels'])
+    #     print(batch['labels'].squeeze().tolist().count(0),
+    #           batch['labels'].squeeze().tolist().count(1))
+
+    # exit()
     t_total = len(train_loader) * args.num_epochs
     warmup_steps = math.ceil(t_total * args.warmup_ratio)
 
@@ -131,7 +156,8 @@ def train(args):
     logger.info("Tokenizer saved to {}".format(best_model_dir))
     for epoch in range(N_EPOCHS):
         logger.info("Start epoch {}:".format(epoch+1))
-
+        logit_logger.info("Start epoch {}:".format(epoch+1))
+        
         train_loss, train_acc = train_epoch(model, train_loader, optimizer, scheduler)
         valid_loss, cm, valid_acc, val_prec, val_rec, valid_f1, mcc = evaluate(model, valid_loader)
         
@@ -233,6 +259,7 @@ if __name__ == "__main__":
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
     logger = setup_logger("train_log", os.path.join(output_dir, args.log))
+    logit_logger = setup_logger("train_logit_log", os.path.join(output_dir, 'logits_' + args.log))
     logger.info("\n" + "=" * 30 + "Start training" + "=" * 30)
     logger.info(parser.format_values())
     logger.info("\nlr: {}\n".format(args.lr))
