@@ -104,3 +104,4 @@ if __name__ == '__main__':
 
     submission_file_path = generate_submission_file(CED_TEST_SET, BEST_MODEL_DIR)
     print("Submission file has been saved to: " + submission_file_path)
+    

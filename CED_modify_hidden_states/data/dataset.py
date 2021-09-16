@@ -76,6 +76,65 @@ class CEDDataset(Dataset):
             src_ner_dict = self.df.at[idx, 'NER_src']
             trg_ner_dict = self.df.at[idx, 'NER_trg']
 
+            ##################################################################
+            #---------------------------- 7 types ---------------------------#
+            
+            # count_org_src = 0
+            # count_per_src = 0
+            # count_dat_src = 0
+            # count_crd_src = 0
+            # count_ord_src = 0
+            # count_nrp_src = 0
+            # count_gpe_src = 0
+            # count_org_trg = 0
+            # count_per_trg = 0
+            # count_dat_trg = 0
+            # count_crd_trg = 0
+            # count_ord_trg = 0
+            # count_nrp_trg = 0
+            # count_gpe_trg = 0
+            
+            # for ner_token in src_ner_dict.values():
+            #     if ner_token[2] == 'ORG':
+            #         count_org_src += 1
+            #     elif ner_token[2] == 'PERSON':
+            #         count_per_src += 1
+            #     elif ner_token[2] == 'DATE':
+            #         count_dat_src += 1
+            #     elif ner_token[2] == 'CARDINAL':
+            #         count_crd_src += 1
+            #     elif ner_token[2] == 'ORDINAL':
+            #         count_ord_src += 1
+            #     elif ner_token[2] == 'NORP':
+            #         count_nrp_src += 1
+            #     elif ner_token[2] == 'GPE':
+            #         count_gpe_src += 1
+
+            # for ner_token in trg_ner_dict.values():
+            #     if ner_token[2] == 'ORG':
+            #         count_org_trg += 1
+            #     elif ner_token[2] == 'PERSON':
+            #         count_per_trg += 1
+            #     elif ner_token[2] == 'DATE':
+            #         count_dat_trg += 1
+            #     elif ner_token[2] == 'CARDINAL':
+            #         count_crd_trg += 1
+            #     elif ner_token[2] == 'ORDINAL':
+            #         count_ord_trg += 1
+            #     elif ner_token[2] == 'NORP':
+            #         count_nrp_trg += 1
+            #     elif ner_token[2] == 'GPE':
+            #         count_gpe_trg += 1
+            
+            # ner = [count_org_src, count_per_src, count_dat_src, count_crd_src, count_ord_src, count_nrp_src, count_gpe_src,
+            #        count_org_trg, count_per_trg, count_dat_trg, count_crd_trg, count_ord_trg, count_nrp_trg, count_gpe_trg]
+
+            #----------------------------------------------------------------#
+            ##################################################################
+
+            ##################################################################
+            #--------------------- aggregrate to 4 types --------------------#
+
             count_nam_src = 0
             count_dat_src = 0
             count_num_src = 0
@@ -84,21 +143,9 @@ class CEDDataset(Dataset):
             count_dat_trg = 0
             count_num_trg = 0
             count_nrp_trg = 0
-
-            # for ner_token in src_ner_dict.values():
-            #     if ner_token[2] == 'DATE':
-            #         count_dat_src += 1
-            #     elif ner_token[2] == 'NORP' or ner_token[2] == 'GPE':
-            #         count_nrp_src += 1
-
-            # for ner_token in trg_ner_dict.values():
-            #     if ner_token[2] == 'DATE':
-            #         count_dat_trg += 1
-            #     elif ner_token[2] == 'NORP' or ner_token[2] == 'GPE':
-            #         count_nrp_trg += 1
             
             for ner_token in src_ner_dict.values():
-                if ner_token[2] == 'ORG' or ner_token == 'PERSON':
+                if ner_token[2] == 'ORG' or ner_token[2] == 'PERSON':
                     count_nam_src += 1
                 elif ner_token[2] == 'DATE':
                     count_dat_src += 1
@@ -108,7 +155,7 @@ class CEDDataset(Dataset):
                     count_nrp_src += 1
 
             for ner_token in trg_ner_dict.values():
-                if ner_token[2] == 'ORG' or ner_token == 'PERSON':
+                if ner_token[2] == 'ORG' or ner_token[2] == 'PERSON':
                     count_nam_trg += 1
                 elif ner_token[2] == 'DATE':
                     count_dat_trg += 1
@@ -117,9 +164,11 @@ class CEDDataset(Dataset):
                 elif ner_token[2] == 'NORP' or ner_token[2] == 'GPE':
                     count_nrp_trg += 1
 
-            ner = [count_nam_src, count_dat_src, count_num_src, count_nrp_src, count_nam_trg, count_dat_trg, count_num_trg, count_nrp_trg]
-            # ner = [randint(0,5), randint(0,5), randint(0,5), randint(0,5), randint(0,5), randint(0,5), randint(0,5), randint(0,5)]
-            # ner = [count_nam_src, count_dat_src, count_num_src, count_nrp_src]
+            ner = [count_nam_src, count_dat_src, count_num_src, count_nrp_src,
+                   count_nam_trg, count_dat_trg, count_num_trg, count_nrp_trg]
+
+            #----------------------------------------------------------------#
+            ##################################################################
 
             return (src_text, trg_text, ner, label)
         
@@ -139,3 +188,10 @@ class CEDDataset(Dataset):
                 return (src_text, trg_text, tox, label)
         else:
             return(src_text, trg_text, label)
+
+    def get_label_count(self):
+        return list(self.df['error_labels'].value_counts())
+
+    def get_label_list(self):
+        label_list = self.df['error_labels']
+        return [0 if label == 'NOT' else 1 for label in label_list]

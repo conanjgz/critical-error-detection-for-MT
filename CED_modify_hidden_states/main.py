@@ -28,18 +28,17 @@ def evaluate(model, dataloader):
     with torch.no_grad():
         pred_labels = []
         gold_labels = []
-        train_loss = 0
+        valid_loss = 0
         for idx, batch in tqdm(enumerate(dataloader), total=len(dataloader)):
 
             loss, logits = model(batch)
-            # print(loss)
-            train_loss += loss.item()
+            valid_loss += loss.item()
             pred_labels += torch.argmax(torch.sigmoid(logits), dim=1).tolist()
             gold_labels += batch['labels'].squeeze().tolist()
 
         cm, acc, prec, rec, macro_f1, mcc = get_performance(gold_labels, pred_labels)
 
-    return train_loss / len(dataloader), cm, acc, prec, rec, macro_f1, mcc
+    return valid_loss / len(dataloader), cm, acc, prec, rec, macro_f1, mcc
 
 
 def train_epoch(model, dataloader, optimizer, scheduler):
@@ -58,11 +57,8 @@ def train_epoch(model, dataloader, optimizer, scheduler):
         optimizer.step()
         scheduler.step()
 
-        # print(logits)
         pred_labels = torch.argmax(torch.sigmoid(logits), dim=1)
         gold_labels = batch['labels'].squeeze()
-        # print("gold", gold_labels.cpu())
-        # print("pred", pred_labels.cpu())
         cm, acc, prec, rec, macro_f1, mcc = get_performance(
             gold_labels.cpu(), pred_labels.cpu())
         train_loss += loss.item()
@@ -84,28 +80,30 @@ def train(args):
 
     tokenizer = AutoTokenizer.from_pretrained(args.huggingface_model)
 
-    # if args.ner == True:
-    #     logger.info("NER tokens applied!")
-    #     special_tokens_dict = {'additional_special_tokens': [
-    #         '<org>', '</org>', '<per>', '</per>', '<dat>', '</dat>', '<crd>', '</crd>', '<ord>', '</ord>', '<nrp>', '</nrp>', '<gpe>', '</gpe>', '<oth>', '</oth>']}
-    #     tokenizer.add_special_tokens(special_tokens_dict)
-    # if args.tox == True:
-    #     logger.info("TOX tokens applied!")
-    #     special_tokens_dict = {'additional_special_tokens': ['<tox>']}
-    #     tokenizer.add_special_tokens(special_tokens_dict)
-    # if args.sen == True:
-    #     logger.info("SEN tokens applied!")
-    #     special_tokens_dict = {'additional_special_tokens': ['<sen_pos>', '<sen_neg>']}
-    #     tokenizer.add_special_tokens(special_tokens_dict)
-
     fix_seed(args.seed)
+
     # load data
     train_dataset = CEDDataset(args.train_data, args.huggingface_model)
     valid_dataset = CEDDataset(args.valid_data, args.huggingface_model)
     collate_fn = PadCollate(tokenizer, args.max_sequence_length)
 
+    train_set_label_count = train_dataset.get_label_count()
+    train_set_label_list = train_dataset.get_label_list()
+
+    weight = 1 / torch.tensor([train_set_label_count]).squeeze()
+    samples_weight = torch.tensor([weight[i] for i in train_set_label_list])
+
+    sampler = torch.utils.data.WeightedRandomSampler(
+        samples_weight, len(samples_weight))
+
     train_loader = DataLoader(
-        train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
+        train_dataset, batch_size=args.train_batch_size, sampler = sampler, collate_fn=collate_fn)
+    
+    logger.info("WeightedSampler applied to train loader")
+
+    # train_loader = DataLoader(
+    #     train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
+
     valid_loader = DataLoader(
         valid_dataset, batch_size=args.valid_batch_size, shuffle=False, collate_fn=collate_fn)
 
@@ -139,10 +137,6 @@ def train(args):
             best_mcc = mcc
             best_epoch = epoch + 1
             torch.save(model, best_model_dir + 'best_model.pt')
-        # if best_f1 < valid_f1:
-        #     best_f1 = valid_f1
-        #     best_epoch = epoch + 1
-        #     torch.save(model, best_model_dir + 'best_model.pt')
             
         logger.info("Validation tp: {}, fn: {}, fp: {}, tn: {}".format(cm[0][0], cm[0][1], cm[1][0], cm[1][1]))
         logger.info("Validation loss: {:.3f}, acc: {:.3f}, F1: {:.3f}, MCC: {:.3f}".format(valid_loss, valid_acc, valid_f1, mcc))
