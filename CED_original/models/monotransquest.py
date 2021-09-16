@@ -5,7 +5,6 @@ from transformers import AutoModelForSequenceClassification, AutoConfig
 
 class MonoTransQuestModel(nn.Module):
 
-    # TODO modify input arguments for custom use
     def __init__(self, huggingface_model, tokenizer, dropout=0.1, **kwargs):
         super().__init__()
         # https://huggingface.co/transformers/model_doc/auto.html?highlight=automodel#transformers.AutoModelForSequenceClassification

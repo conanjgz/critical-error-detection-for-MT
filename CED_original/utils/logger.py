@@ -15,5 +15,6 @@ def setup_logger(name, log_file, level=logging.INFO):
     logger = logging.getLogger(name)
     logger.setLevel(level)
     logger.addHandler(file_handler)
-    logger.addHandler(stdout_handler)
+    if 'logit' not in name:
+        logger.addHandler(stdout_handler)
     return logger

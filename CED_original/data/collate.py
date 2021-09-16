@@ -21,17 +21,6 @@ class PadCollate:
         )
         output['labels'] = torch.tensor([label for _, _, label in batch], dtype=torch.long).unsqueeze(1)
         
-        # for i in batch[0].keys():
-        #     # assume each item in the batch has the same keys in their dicts
-        #     for j in batch:
-        #         print(j[i].shape)
-        #     output[i] = torch.nn.utils.rnn.pad_sequence(
-        #         [j[i] for j in batch], batch_first=True, padding_value=self.pad
-        #     )
-        #     print("*****************")
-        #     print(output[i].shape)
-        #     print("*****************")
-
         for key in output.keys():
             output[key] = output[key].to(torch.device("cuda"))
         return output

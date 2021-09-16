@@ -29,19 +29,18 @@ def evaluate(model, dataloader):
     with torch.no_grad():
         pred_labels = []
         gold_labels = []
-        train_loss = 0
+        valid_loss = 0
         for idx, batch in tqdm(enumerate(dataloader), total=len(dataloader)):
 
             loss, logits = model(batch)
-            # print(loss)
             logit_logger.info(logits)
-            train_loss += loss.item()
+            valid_loss += loss.item()
             pred_labels += torch.argmax(torch.sigmoid(logits), dim=1).tolist()
             gold_labels += batch['labels'].squeeze().tolist()
 
         cm, acc, prec, rec, macro_f1, mcc = get_performance(gold_labels, pred_labels)
 
-    return train_loss / len(dataloader), cm, acc, prec, rec, macro_f1, mcc
+    return valid_loss / len(dataloader), cm, acc, prec, rec, macro_f1, mcc
 
 
 def train_epoch(model, dataloader, optimizer, scheduler):
@@ -60,11 +59,8 @@ def train_epoch(model, dataloader, optimizer, scheduler):
         optimizer.step()
         scheduler.step()
 
-        # print(logits)
         pred_labels = torch.argmax(torch.sigmoid(logits), dim=1)
         gold_labels = batch['labels'].squeeze()
-        # print("gold", gold_labels.cpu())
-        # print("pred", pred_labels.cpu())
         cm, acc, prec, rec, macro_f1, mcc = get_performance(
             gold_labels.cpu(), pred_labels.cpu())
         train_loss += loss.item()
@@ -108,19 +104,16 @@ def train(args):
     collate_fn = PadCollate(tokenizer, args.max_sequence_length)
 
     train_set_label_count = train_dataset.get_label_count() # [number of NOTs, number of ERRs]
-    # print(train_set_label_count)
     train_set_label_list = train_dataset.get_label_list() # returns a list which consists of 0 (NOT) and 1 (ERR)
-    # print(train_set_label_list)
 
     weight = 1 / torch.tensor([train_set_label_count]).squeeze()
-    # print(weight)
     samples_weight = torch.tensor([weight[i] for i in train_set_label_list])
-    # print(samples_weight)
 
     sampler =torch.utils.data.WeightedRandomSampler(samples_weight, len(samples_weight))
 
     # train_loader = DataLoader(
     #     train_dataset, batch_size=args.train_batch_size, shuffle=True, collate_fn=collate_fn)
+
     train_loader = DataLoader(
         train_dataset, batch_size=args.train_batch_size, sampler = sampler, collate_fn=collate_fn)
     valid_loader = DataLoader(
@@ -128,12 +121,6 @@ def train(args):
 
     logger.info("WeightedSampler applied to train loader")
 
-    # for i, batch in enumerate(train_loader):
-    #     # print(batch['labels'])
-    #     print(batch['labels'].squeeze().tolist().count(0),
-    #           batch['labels'].squeeze().tolist().count(1))
-
-    # exit()
     t_total = len(train_loader) * args.num_epochs
     warmup_steps = math.ceil(t_total * args.warmup_ratio)
 
@@ -165,10 +152,6 @@ def train(args):
             best_mcc = mcc
             best_epoch = epoch + 1
             torch.save(model, best_model_dir + 'best_model.pt')
-        # if best_f1 < valid_f1:
-        #     best_f1 = valid_f1
-        #     best_epoch = epoch + 1
-        #     torch.save(model, best_model_dir + 'best_model.pt')
             
         logger.info("Validation tp: {}, fn: {}, fp: {}, tn: {}".format(cm[0][0], cm[0][1], cm[1][0], cm[1][1]))
         logger.info("Validation loss: {:.3f}, acc: {:.3f}, F1: {:.3f}, MCC: {:.3f}".format(valid_loss, valid_acc, valid_f1, mcc))
